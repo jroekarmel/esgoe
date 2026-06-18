@@ -4,15 +4,15 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Übersicht der Veranstaltungen der ESGÖ (extern)</title>
+    <link rel="stylesheet" href="style.css">
   </head>
   <body>
     <header class="site-header">
         <a class="brand" href="#top" aria-label="Zur Startseite">
           <div class="brand-logo">
-            <img src="" alt="Cover Foto"/>
+            <img src="edithstein_cover.jpg" alt="Cover Foto"/>
         </div>
         </a>
-    </header>
     <div class="container header-inner">
       <div class="header-actions">
         <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="main-navigation" aria-label="Menü öffnen">
@@ -33,16 +33,20 @@
           <span class="theme-toggle__icon" aria-hidden="true">◐</span>
         </button>
       </div>
-    <main>
-      <main>
-        <div id="test">
-          <table>
-            <thead id="thead" class="theadstyle"></thead>
-            <tbody id="tbody" class="tbodystyle"></tbody>
-          </table>
-        </div>
-      </main>
-    </main>
+      </header>
+<main>
+  <section id="section-table-nav">
+  <div id="table-nav"></div>
+  </section>
+  <section id="events">
+  <div id="test">
+    <table>
+      <thead id="thead" class="theadstyle"></thead>
+      <tbody id="tbody" class="tbodystyle"></tbody>
+    </table>
+  </div>
+</section>
+</main>
     <script>
       "use strict";
       let data;
