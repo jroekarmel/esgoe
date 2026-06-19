@@ -1,0 +1,17 @@
+{
+  "id": "ID",
+  "datum": "Datum",
+  "start_datum": "Startdatum",
+  "end_datum": "Enddatum",
+  "titel": "Titel",
+  "referent": "Referent/in",
+  "art": "Art",
+  "ort": "Ort",
+  "youtube": "YouTube",
+  "zoom_link": "Zoom-Link",
+  "podcast": "Podcast",
+  "meeting_id": "Meeting-ID",
+  "homepage_link": "Homepage",
+  "Zusammenfassung": "Zusammenfassung",
+  "kursnummer": "Kursnummer"
+}

@@ -56,7 +56,7 @@
         dataHeaders.forEach((element) => {
 
 
-                       if (element == "id") {
+                       if (element == "id" || element == "meeting_id"|| element == "kursnummer") {
                return;
              }
 
@@ -76,7 +76,7 @@
           
           dataHeaders.forEach((element) => {
 
-             if (element == "id") {
+             if (element == "id"|| element == "meeting_id"|| element == "kursnummer") {
                return;
              }
 
