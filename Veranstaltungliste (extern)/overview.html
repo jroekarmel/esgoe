@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Übersicht der Veranstaltungen der ESGÖ (extern)</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="script" href="script.js">
   </head>
   <body>
     <header class="site-header">
@@ -37,6 +38,16 @@
 <main>
   <section id="section-table-nav">
   <div id="table-nav"></div>
+             <div>
+                <button id="reset">zurücksetzen</button>
+                <ul id="groups">
+                    <li><a href="#" data-info="" class="filter">ALLE ANZEIGEN</a></li>
+                </ul>
+            </div>
+            <div id="textSearch">
+                <p>Titel Textsuche</p>
+                <input type="text" name="search" id="search">
+            </div>
   </section>
   <section id="events">
   <div id="test">
@@ -47,57 +58,8 @@
   </div>
 </section>
 </main>
-    <script>
-      "use strict";
-      let data;
-      let dataHeaders;
-      let test = document.querySelector("#test");
-      let thead = document.querySelector("#thead");
-      let tbody = document.querySelector("#tbody");
-      let th;
-      let txt;
-      let url = "veranstaltungen_2021-2026_extern.json";
-
-      async function loadData() {
-        let resp = await fetch(url);
-        data = await resp.json();
-        //Array der Objekt-Schlüsselworte
-        dataHeaders = Object.keys(data[1]);
-        console.log(dataHeaders);
-      }
-      function displayHeaders() {
-        txt = "";
-        txt += "<tr>";
-        dataHeaders.forEach((element) => {
-          txt += `<th data-prop="${element}">${element}</th>`;
-        });
-        txt += "</tr>";
-        thead.innerHTML = txt;
-      }
-
-      function displayData() {
-        txt = "";
-        //Zeile für Zeile
-        data.forEach((item) => {
-          txt += "<tr>";
-          //Spalte für Spalte
-          dataHeaders.forEach((element) => {
-            txt += `<td>${item[element]}</td>`;
-          });
-          txt += "</tr>";
-        });
-        tbody.innerHTML = txt;
-      }
-
-      //function sorry() {
-      //  test.innerHTML = "tut uns leid";
-      //}
-
-      loadData()
-        .then(displayHeaders)
-        .then(displayData)
-        //.then(actions)
-        .catch(sorry);
+    <script type="module" src="./script.js">
+      
     </script>
   </body>
 </html>

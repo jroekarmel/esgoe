@@ -56,6 +56,8 @@
 *::before,
 *::after {
   box-sizing: border-box;
+      text-decoration: none;
+    list-style:none;
 }
 
 html {
@@ -177,7 +179,7 @@ button {
 /* Main database area */
 main{
     display:grid;
-    grid-template-columns: 1fr 15fr ;
+    grid-template-columns: 3.5fr 15fr ;
 }
 section{
     border: var(--border);
