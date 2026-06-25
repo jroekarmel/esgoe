@@ -29,6 +29,13 @@
         displayData();
       };
 
+            reset.onclick = function () {
+        searchText = "";
+        search.value = ""; //Element leeren
+        type = "";
+        sortData("datum", 0); //aufsteigend nach Id sortieren
+      };
+
       async function loadData() {
         let resp = await fetch(url);
         data = await resp.json();
@@ -102,6 +109,7 @@
         });
         tbody.innerHTML = txt;
       }
+
             //Navigation aufbauen
       function displayFilterNav() {
         data.forEach((element) => {
