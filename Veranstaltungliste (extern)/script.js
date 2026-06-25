@@ -102,6 +102,10 @@
             } else {
               
             }
+            if (element == "Zusammenfassung" && entry != "") {
+              entry = `<details><summary><i>Zusammenfassung anzeigen / ausblenden </i></summary>"${entry}"</details>`
+            } else {}
+
 
             txt += `<td>${entry}</td>`;
           });
