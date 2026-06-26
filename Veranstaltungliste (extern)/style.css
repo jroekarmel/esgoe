@@ -85,17 +85,27 @@ a {
   text-decoration: none;
 }
 
-button,
+
 input,
 textarea,
 select {
   font: inherit;
 }
 
-button {
-  border: 0;
-  background: none;
+
+button, summary {
+  display: inline-flex;
+  background: var(--surface);
   cursor: pointer;
+  align-items: center;
+  justify-content: center;
+  min-height: 3rem;
+  padding: 0.85rem 1.2rem;
+  border: 1px solid var(--border);
+  border-radius: 50rem;
+  font-size: var(--text-sm);
+  font-weight: 600;
+  transition: transform 180ms ease, background 180ms ease, color 180ms ease, border-color 180ms ease;
 }
 
 :focus-visible {

@@ -38,27 +38,44 @@
 <main>
   <section id="section-table-nav">
   <div id="table-nav"></div>
-  <button id="reset">zurücksetzen</button>
+  <button id="reset" class="button">zurücksetzen</button>
             <div id="textSearch">
-                <p>Titel Textsuche</p>
+                <h3>Titel Textsuche</h3>
                 <input type="text" name="search" id="search">
             </div>
             <div id="Zeitraum">
-              <p>Zeitraum</p>
+              <h3>Zeitraum</h3>
             <select name="" id="years">
-                <option value="">alle</option>
+                <!-- <option value="">alle</option>
                 <option value="2021">2021</option>
                 <option value="2022">2022</option>
                 <option value="2023">2023</option>
                 <option value="2024">2024</option>
                 <option value="2025">2025</option>
-                <option value="2026">2025</option>
+                <option value="2026">2025</option> -->
             </select>  
             </div>          
              <div>
+              <details><summary>ReferentIn</summary>
                 <ul id="groups">
                     <li><a href="#" data-info="" class="filter">ALLE ANZEIGEN</a></li>
                 </ul>
+                </details>
+            </div>
+            <br>
+                         <div>
+                          <details><summary>Art der Veranstaltungen</summary>
+                <ul id="art">
+                    <li><a href="#" data-info="" class="filter">ALLE ANZEIGEN</a></li>
+                </ul>
+                </details>
+            </div>
+                                     <div>
+                          <details><summary>Ort der Veranstaltungen</summary>
+                <ul id="ort">
+                    <li><a href="#" data-info="" class="filter">ALLE ANZEIGEN</a></li>
+                </ul>
+                </details>
             </div>
   </section>
   <section id="events">

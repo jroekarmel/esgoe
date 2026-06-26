@@ -10,28 +10,39 @@
       const speakerfilternav = document.querySelectorAll(".filter");
             const search = document.querySelector('#search');
             // const for year filter
-            const yearfilternav = document.querySelectorAll(".filter");
+            const yearfilternav = document.querySelectorAll(".yearfilter");
       //variables for filter
           let searchText = "";
       let type = ""; //referent
-      let yearfilter =""; // year of event
+
+      let varyearfilter =""; // year of event
 
             //Datenvariablen
       let dataFiltered;
       let filterSet = new Set();
       let watchList = [];
-// buttons for years
-                  let start = 0;
-            let entries = 10;
-            let page = 1;
-            let buttons = 0;
 
       function filterByNav() {
         //this ist das angeklickte element
         type = this.getAttribute("data-info");
         displayData();
       }
+            function filterByNavOrt() {
+        //this ist das angeklickte element
+        type = this.getAttribute("data-info");
+        displayData();
+      }
+            function filterByNavArt() {
+        //this ist das angeklickte element
+        type = this.getAttribute("data-info");
+        displayData();
+      }
 
+            function filterByYearNav() {
+        //this ist das angeklickte element
+        type = this.year.getvalue();
+        displayData();
+      }
       search.onkeyup = function () {
         searchText = this.value;
         displayData();
@@ -60,7 +71,7 @@
             //element.Datum <= max &&
             (type != "" ? element.referent == type : true)
             &&
-            (yearfilter != "" ? element.year == yearfilter : true)
+            (varyearfilter != "" ? element.start_datum.year == varyearfilter : true)
 
           );
         });
@@ -118,8 +129,13 @@
             } else {
               
             }
+                        if (element == "homepage_link" && entry != "") {
+              entry = `<a href="${entry}" target="_blank">Link auf dem Homepage</a>`
+            } else {
+              
+            }
             if (element == "podcast" && entry != ""){
-              entry = `<audio  id="myAudio" controls loop><source src="${entry}" type=audio.mpeg></audio>`
+              entry = `<audio  id="myAudio" controls loop><source src="${entry}" type="audio/mpeg"></audio>`
             }
             if (element == "Zusammenfassung" && entry != "") {
               entry = `<details><summary><i>Zusammenfassung anzeigen / ausblenden </i></summary>"${entry}"</details>`
@@ -134,9 +150,13 @@
       }
 
             //Navigation aufbauen
+            
       function displaySpeakerFilterNav() {
         data.forEach((element) => {
           filterSet.add(element.referent);
+         // filterSetOrt.add(element.ort);
+         // filterSetArt.add(element.art);
+          //filterSetJahr.add(element.jahr);
         });
 
         filterSet.forEach((link) => {
@@ -155,27 +175,20 @@
 
         });
       }
-            function displayYearFilterNav() {
+/*             function displayYearFilterNav() {
         data.forEach((element) => {
-          filterYearSet.add(element.year);
+          filterYearSet.add(element.start_datum.year);
         });
 
-        filterYearSet.forEach((link) => {
-          let a = document.createElement("a");
-          //Attribute hinzufügen
-          a.href = "#";
-          a.classList.add("filter");
-          a.textContent = link;
-          a.onclick = filterByNav;
-          a.setAttribute("data-info", link);
           //Listenelement erstellen
-        let li = document.createElement("li");
-          li.append(a);
-          groups.append(li);
+        let op = document.createElement("option");
+          op.textContent = filterYearSet;
+          op.onclick = filterByYearNav;
+          groups.appendchild(option);
         displayData();
 
         });
-      }
+      } */
       //"event listener"
             function actions() {
         th = document.querySelectorAll("#thead th");
@@ -255,53 +268,13 @@
         // change dates
         function excelDateToISO(serial) {
   const msPerDay = 24 * 60 * 60 * 1000;
-  const date = new Date(Date.UTC(1899, 11, 30) + serial * msPerDay);
-  return date.toISOString().slice(0, 10);
+  let date = new Date(Date.UTC(1899, 11, 30) + serial * msPerDay);
+  date = date.toISOString().slice(0, 10);
+  let arrayDate = date.split('-')
+  console.table(arrayDate);
+  date = arrayDate[2] + "/" + arrayDate[1] + "/" + arrayDate[0];
+  return date;
+
+  //return date.toISOString().slice(0, 10);
 }
 /////////////
-//pagination
-
-            function makePagination() {
-                // Startindex des 1. Datensatzes ermitteln
-                start = (page * entries) - entries;
-                // Anzahl der Seiten ermitteln
-                buttons = Math.floor(data.length/entries) + 1;
-
-                // console.log(data.length);
-                // console.log(start);
-                // console.log(buttons);
-                
-                let output = '';
-                for (let i = start; i < (start + entries); i++) {
-                   try {
-                       output += `${data[i].Name} : ${data[i].Preis} <br>`;  
-                   } catch (error) {
-                        console.log("finale")
-                        break;
-                   }
-                }
-                                for (let i = 1; i <= buttons; i++) {
-                    output += `<button id="${i}">${i}</button>`;  
-                }
-
-                document.getElementById('test').innerHTML = output;
-                const buttonElements = document.querySelectorAll('#test button');
-                buttonElements.forEach(element => {
-                    element.onclick = changePage;
-                })
-            }
-
-            function changePage() {
-                page =  this.id;
-                makePagination();
-            }
-            document.getElementById('years').onchange = function(){
-                page = 1;
-                entries = parseInt(this.value); 
-                makePagination();
-            }
-
-                            const buttonElements = document.querySelectorAll('#buttons button');
-                buttonElements.forEach(element => {
-                    element.onclick = changePage;
-                })
