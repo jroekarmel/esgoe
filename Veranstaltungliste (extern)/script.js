@@ -10,7 +10,6 @@
       const speakerfilternav = document.querySelectorAll(".filter");
             const search = document.querySelector('#search');
             // const for year filter
-            const yearfilternav = document.querySelectorAll(".yearfilter");
       //variables for filter
           let searchText = "";
       let type = ""; //referent
@@ -35,12 +34,6 @@
             function filterByNavArt() {
         //this ist das angeklickte element
         type = this.getAttribute("data-info");
-        displayData();
-      }
-
-            function filterByYearNav() {
-        //this ist das angeklickte element
-        type = this.year.getvalue();
         displayData();
       }
       search.onkeyup = function () {
@@ -70,8 +63,6 @@
             &&
             //element.Datum <= max &&
             (type != "" ? element.referent == type : true)
-            &&
-            (varyearfilter != "" ? element.start_datum.year == varyearfilter : true)
 
           );
         });
@@ -85,7 +76,7 @@
         dataHeaders.forEach((element) => {
 
 
-                       if (element == "id" || element == "meeting_id"|| element == "kursnummer") {
+                       if (element == "id" || element == "meeting_id"|| element == "kursnummer" || element == "start_datum" || element == "end_datum") {
                return;
              }
 
@@ -110,7 +101,7 @@
                 item.datum = `${excelDateToISO(item.start_datum)}-${excelDateToISO(item.end_datum)}`;
               }
 
-             if (element == "id"|| element == "meeting_id"|| element == "kursnummer") {
+             if (element == "id"|| element == "meeting_id"|| element == "kursnummer"|| element == "start_datum" || element == "end_datum") {
                return;
              }
 
@@ -124,13 +115,19 @@
               entry = item[element];
             }
 
+            if (element == "zoom_link" && entry != "") {
+              entry = `<a href="${entry}" target="_blank">Zoom-Link</a>`
+            } else {
+              
+            }
+
             if (element == "youtube" && entry != "") {
               entry = `<a href="${entry}" target="_blank">Link zum Video auf Youtube</a>`
             } else {
               
             }
                         if (element == "homepage_link" && entry != "") {
-              entry = `<a href="${entry}" target="_blank">Link auf dem Homepage</a>`
+              entry = `<a href="${entry}" target="_blank">Link zur Veranstaltungseite</a>`
             } else {
               
             }
