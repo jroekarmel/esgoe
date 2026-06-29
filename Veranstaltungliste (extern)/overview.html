@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Übersicht der Veranstaltungen der ESGÖ (extern)</title>
     <link rel="stylesheet" href="style.css">
-    <link rel="script" href="script.js">
   </head>
   <body>
     <header class="site-header">
@@ -45,30 +44,34 @@
             </div>
             <div id="Zeitraum">
               <details><summary>Zeitraum</summary>
-                <ul id="years">
-                    <li><a href="#" data-info="" class="filter">ALLE ANZEIGEN</a></li>
+                <ul id="jahrFilter">
+                    <li><a href="#" data-info-jahr="" class="filterJahr">ALLE ANZEIGEN</a></li>
                 </ul>
                 </details>  
-            </div> <br>         
+            </div> <br>  
+                        <div id="Date">
+              <details><summary>Vergangene/Künftig</summary>
+                <ul id="dateFilter">
+                    <li><a href="#" data-info-date="" class="filterDate">ALLE ANZEIGEN</a></li>
+                </ul>
+                </details>  
+            </div> <br>        
              <div>
               <details><summary>ReferentIn</summary>
-                <ul id="groups">
-                    <li><a href="#" data-info="" class="filter">ALLE ANZEIGEN</a></li>
+                <ul id="referentFilter">
                 </ul>
                 </details>
             </div>
             <br>
                          <div>
                           <details><summary>Art der Veranstaltungen</summary>
-                <ul id="art">
-                    <li><a href="#" data-info="" class="filter">ALLE ANZEIGEN</a></li>
+                <ul id="artFilter">
                 </ul>
                 </details>
             </div><br>
                                      <div>
                           <details><summary>Ort der Veranstaltungen</summary>
-                <ul id="ort">
-                    <li><a href="#" data-info="" class="filter">ALLE ANZEIGEN</a></li>
+                <ul id="ortFilter">
                 </ul>
                 </details>
             </div>

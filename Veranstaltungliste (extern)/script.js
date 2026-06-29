@@ -7,52 +7,80 @@
       let th;
       let txt;
       let url = "veranstaltungen_2021-2026_extern.json";
-      const speakerfilternav = document.querySelectorAll(".filter");
-            const search = document.querySelector('#search');
-            // const for year filter
       //variables for filter
           let searchText = "";
-      let type = ""; //referent
-
-      let varyearfilter =""; // year of event
+      let varReferent = ""; //referent
 
             //Datenvariablen
       let dataFiltered;
-      let filterSet = new Set();
+      let filterSetReferent = new Set();
       let watchList = [];
+      let varOrt = "";
+      let varArt = "";
+      let varJahr = "";
+      let varDate = "";
+      let filterSetOrt = new Set();
+      let filterSetArt = new Set();
+      let filterSetJahr = new Set();
+      let filterSetDatum = new Set();
+      
 
-      function filterByNav() {
+
+const referentFilter = document.getElementById("referentFilter");
+const search = document.querySelector("#search");
+const ortFilter = document.getElementById("ortFilter");
+const artFilter = document.getElementById("artFilter");
+const jahrFilter = document.getElementById("jahrFilter");
+const dateFilter = document.getElementById("dateFilter");
+const reset = document.querySelector("#reset");
+
+      function filterByNavReferent() {
         //this ist das angeklickte element
-        type = this.getAttribute("data-info");
+        varReferent = this.getAttribute("data-info-referent") || "";
         displayData();
       }
             function filterByNavOrt() {
         //this ist das angeklickte element
-        type = this.getAttribute("data-info");
+        varOrt = this.getAttribute("data-info-ort");
         displayData();
       }
             function filterByNavArt() {
         //this ist das angeklickte element
-        type = this.getAttribute("data-info");
+        varArt = this.getAttribute("data-info-art");
         displayData();
       }
+
+      //             function filterByNavJahr() {
+      //   //this ist das angeklickte element
+      //   type = this.getAttribute("data-info-jahr");
+      //   displayData();
+      // }
+
+      //             function filterByNavDate() {
+      //   //this ist das angeklickte element
+      //   type = this.getAttribute("data-info-date");
+      //   displayData();
+      // }
+
       search.onkeyup = function () {
         searchText = this.value;
         displayData();
       };
 
             reset.onclick = function () {
-        searchText = "";
-        search.value = ""; //Element leeren
-        type = "";
-        sortData("datum", 0); //aufsteigend nach Id sortieren
-      };
+            searchText = "";
+          search.value = "";
+          varReferent = "";
+          varOrt = "";
+          varArt = "";
+          sortData("datum", 0);
+};
 
       async function loadData() {
         let resp = await fetch(url);
         data = await resp.json();
         //Array der Objekt-Schlüsselworte
-        dataHeaders = Object.keys(data[1]);
+        dataHeaders = Object.keys(data[0]);
         console.log(dataHeaders);
       }
       //search filter
@@ -62,7 +90,11 @@
             element.titel.toUpperCase().includes(searchText.toUpperCase())
             &&
             //element.Datum <= max &&
-            (type != "" ? element.referent == type : true)
+            (varReferent != "" ? element.referent == varReferent : true)
+            && (varOrt != "" ? element.ort == varOrt : true)
+            && (varArt != "" ? element.art == varArt : true)
+            // && (varJahr != "" ? element.jahr == jahr : true)
+            // && (varDdate != "" ? element.date == date : true)
 
           );
         });
@@ -90,6 +122,7 @@
         txt = "";
         filterData();
         //Zeile für Zeile
+         console.log("filtered rows:", dataFiltered);
         dataFiltered.forEach((item) => {
           txt += "<tr>";
           //Spalte für Spalte
@@ -148,30 +181,138 @@
 
             //Navigation aufbauen
             
-      function displaySpeakerFilterNav() {
+      function displayFilterNav() {
         data.forEach((element) => {
-          filterSet.add(element.referent);
-         // filterSetOrt.add(element.ort);
-         // filterSetArt.add(element.art);
-          //filterSetJahr.add(element.jahr);
+          filterSetReferent.add(element.referent);
+          filterSetOrt.add(element.ort);
+          filterSetArt.add(element.art);
+          // filterSetJahr.add(element.jahr);
+          // filterSetDate.add(element.date);
         });
 
-        filterSet.forEach((link) => {
+          let liAllReferent = document.createElement("li");
+  let aAllReferent = document.createElement("a");
+  aAllReferent.href = "#";
+  aAllReferent.classList.add("filterReferent");
+  aAllReferent.textContent = "ALLE ANZEIGEN";
+  aAllReferent.setAttribute("data-info-referent", "");
+  aAllReferent.onclick = filterByNavReferent;
+  liAllReferent.append(aAllReferent);
+  referentFilter.append(liAllReferent);
+
+  let liAllOrt = document.createElement("li");
+  let aAllOrt = document.createElement("a");
+  aAllOrt.href = "#";
+  aAllOrt.classList.add("filterOrt");
+  aAllOrt.textContent = "ALLE ANZEIGEN";
+  aAllOrt.setAttribute("data-info-ort", "");
+  aAllOrt.onclick = filterByNavOrt;
+  liAllOrt.append(aAllOrt);
+  ortFilter.append(liAllOrt);
+
+  let liAllArt = document.createElement("li");
+  let aAllArt = document.createElement("a");
+  aAllArt.href = "#";
+  aAllArt.classList.add("filterArt");
+  aAllArt.textContent = "ALLE ANZEIGEN";
+  aAllArt.setAttribute("data-info-art", "");
+  aAllArt.onclick = filterByNavArt;
+  liAllArt.append(aAllArt);
+  artFilter.append(liAllArt);
+
+        filterSetReferent.forEach((link) => {
           let a = document.createElement("a");
           //Attribute hinzufügen
           a.href = "#";
-          a.classList.add("filter");
+          a.classList.add("filterReferent");
           a.textContent = link;
-          a.onclick = filterByNav;
-          a.setAttribute("data-info", link);
+          a.onclick = filterByNavReferent;
+          a.setAttribute("data-info-referent", link);
           //Listenelement erstellen
         let li = document.createElement("li");
           li.append(a);
-          groups.append(li);
-        displayData();
+          referentFilter.append(li);
+         displayData();
 
         });
+
+                filterSetOrt.forEach((link) => {
+          let a = document.createElement("a");
+          //Attribute hinzufügen
+          a.href = "#";
+          a.classList.add("filterOrt");
+          a.textContent = link;
+          a.onclick = filterByNavOrt;
+          a.setAttribute("data-info-ort", link);
+          //Listenelement erstellen
+        let li = document.createElement("li");
+          li.append(a);
+          ortFilter.append(li);
+        });
+
+                        filterSetArt.forEach((link) => {
+          let a = document.createElement("a");
+          //Attribute hinzufügen
+          a.href = "#";
+          a.classList.add("filterArt");
+          a.textContent = link;
+          a.onclick = filterByNavArt;
+          a.setAttribute("data-info-art", link);
+          //Listenelement erstellen
+        let li = document.createElement("li");
+          li.append(a);
+          artFilter.append(li);
+
+        });
+
+        //                         filterSetJahr.forEach((link) => {
+        //   let a = document.createElement("a");
+        //   //Attribute hinzufügen
+        //   a.href = "#";
+        //   a.classList.add("filterJahr");
+        //   a.textContent = link;
+        //   a.onclick = filterByNavJahr;
+        //   a.setAttribute("data-info-jahr", link);
+        //   //Listenelement erstellen
+        // let li = document.createElement("li");
+        //   li.append(a);
+        //   jahrFilter.append(li);
+
+        // });
+
+        //                         filterSetDate.forEach((link) => {
+        //   let a = document.createElement("a");
+        //   //Attribute hinzufügen
+        //   a.href = "#";
+        //   a.classList.add("filterDate");
+        //   a.textContent = link;
+        //   a.onclick = filterByNavDate;
+        //   a.setAttribute("data-info-date", link);
+        //   //Listenelement erstellen
+        // let li = document.createElement("li");
+        //   li.append(a);
+        //   dateFilter.append(li);
+
+        // });
+
+        //         filternavOrt.forEach((element) => {
+        //   element.onclick = filterByNavOrt;
+        // });
+        //         filternavArt.forEach((element) => {
+        //   element.onclick = filterByNavArt;
+        // });
+        //         filternavReferent.forEach((element) => {
+        //   element.onclick = filterByNavReferent;
+        // });
+        //         filternavJahr.forEach((element) => {
+        //   element.onclick = filterByNavJahr;
+        // });
+        //         filternavDate.forEach((element) => {
+        //   element.onclick = filterByNavDate;
+        // });
       }
+
+    
 /*             function displayYearFilterNav() {
         data.forEach((element) => {
           filterYearSet.add(element.start_datum.year);
@@ -256,7 +397,7 @@
       loadData()
         .then(displayHeaders)
         .then(displayData)
-        .then(displaySpeakerFilterNav)
+        .then(displayFilterNav)
        // .then(sortData)
         .then(actions)
         .catch(sorry);
@@ -268,7 +409,6 @@
   let date = new Date(Date.UTC(1899, 11, 30) + serial * msPerDay);
   date = date.toISOString().slice(0, 10);
   let arrayDate = date.split('-')
-  console.table(arrayDate);
   date = arrayDate[2] + "/" + arrayDate[1] + "/" + arrayDate[0];
   return date;
 
