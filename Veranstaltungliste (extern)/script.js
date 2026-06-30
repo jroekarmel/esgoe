@@ -33,6 +33,8 @@ const artFilter = document.getElementById("artFilter");
 const jahrFilter = document.getElementById("jahrFilter");
 const dateFilter = document.getElementById("dateFilter");
 const reset = document.querySelector("#reset");
+const today = new Date().toISOString().slice(0, 10);
+const endDate = excelDateToISO(item.end_datum);
 
       function filterByNavReferent() {
         //this ist das angeklickte element
@@ -50,11 +52,11 @@ const reset = document.querySelector("#reset");
         displayData();
       }
 
-      //             function filterByNavJahr() {
-      //   //this ist das angeklickte element
-      //   type = this.getAttribute("data-info-jahr");
-      //   displayData();
-      // }
+                  function filterByNavJahr() {
+        //this ist das angeklickte element
+        varJahr = this.getAttribute("data-info-jahr");
+        displayData();
+      }
 
       //             function filterByNavDate() {
       //   //this ist das angeklickte element
@@ -73,6 +75,7 @@ const reset = document.querySelector("#reset");
           varReferent = "";
           varOrt = "";
           varArt = "";
+          varJahr = "";
           sortData("datum", 0);
 };
 
@@ -87,13 +90,13 @@ const reset = document.querySelector("#reset");
       function filterData() {
         dataFiltered = data.filter((element) => {
           return (
-            element.titel.toUpperCase().includes(searchText.toUpperCase())
+            element.titel.toUpperCase().includes(searchText.toUpperCase()) || element.Zusammenfassung.toUpperCase().includes(searchText.toUpperCase())
             &&
             //element.Datum <= max &&
             (varReferent != "" ? element.referent == varReferent : true)
             && (varOrt != "" ? element.ort == varOrt : true)
             && (varArt != "" ? element.art == varArt : true)
-            // && (varJahr != "" ? element.jahr == jahr : true)
+            && (varJahr != "" ? element.jahr == varJahr : true)
             // && (varDdate != "" ? element.date == date : true)
 
           );
@@ -186,7 +189,8 @@ const reset = document.querySelector("#reset");
           filterSetReferent.add(element.referent);
           filterSetOrt.add(element.ort);
           filterSetArt.add(element.art);
-          // filterSetJahr.add(element.jahr);
+          element.jahr = excelDateToISO(element.start_datum).slice(6,10);
+          filterSetJahr.add(element.jahr);
           // filterSetDate.add(element.date);
         });
 
@@ -219,6 +223,16 @@ const reset = document.querySelector("#reset");
   aAllArt.onclick = filterByNavArt;
   liAllArt.append(aAllArt);
   artFilter.append(liAllArt);
+
+    let liAllJahr = document.createElement("li");
+  let aAllJahr = document.createElement("a");
+  aAllJahr.href = "#";
+  aAllJahr.classList.add("filterArt");
+  aAllJahr.textContent = "ALLE ANZEIGEN";
+  aAllJahr.setAttribute("data-info-art", "");
+  aAllJahr.onclick = filterByNavArt;
+  liAllJahr.append(aAllJahr);
+  jahrFilter.append(liAllJahr);
 
         filterSetReferent.forEach((link) => {
           let a = document.createElement("a");
@@ -265,20 +279,20 @@ const reset = document.querySelector("#reset");
 
         });
 
-        //                         filterSetJahr.forEach((link) => {
-        //   let a = document.createElement("a");
-        //   //Attribute hinzufügen
-        //   a.href = "#";
-        //   a.classList.add("filterJahr");
-        //   a.textContent = link;
-        //   a.onclick = filterByNavJahr;
-        //   a.setAttribute("data-info-jahr", link);
-        //   //Listenelement erstellen
-        // let li = document.createElement("li");
-        //   li.append(a);
-        //   jahrFilter.append(li);
+                                filterSetJahr.forEach((link) => {
+          let a = document.createElement("a");
+          //Attribute hinzufügen
+          a.href = "#";
+          a.classList.add("filterJahr");
+          a.textContent = link;
+          a.onclick = filterByNavJahr;
+          a.setAttribute("data-info-jahr", link);
+          //Listenelement erstellen
+        let li = document.createElement("li");
+          li.append(a);
+          jahrFilter.append(li);
 
-        // });
+        });
 
         //                         filterSetDate.forEach((link) => {
         //   let a = document.createElement("a");
