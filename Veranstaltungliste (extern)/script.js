@@ -19,6 +19,7 @@
       let varArt = "";
       let varJahr = "";
       let varDate = "";
+      let labels;
       let filterSetOrt = new Set();
       let filterSetArt = new Set();
       let filterSetJahr = new Set();
@@ -34,7 +35,7 @@ const jahrFilter = document.getElementById("jahrFilter");
 const dateFilter = document.getElementById("dateFilter");
 const reset = document.querySelector("#reset");
 const today = new Date().toISOString().slice(0, 10);
-const endDate = excelDateToISO(item.end_datum);
+//const endDate = excelDateToISO(item.end_datum);
 
       function filterByNavReferent() {
         //this ist das angeklickte element
@@ -81,7 +82,10 @@ const endDate = excelDateToISO(item.end_datum);
 
       async function loadData() {
         let resp = await fetch(url);
+        fetch("labels.json");
+        let resplabels = await fetch ("labels.json");
         data = await resp.json();
+        labels = await resplabels.json();
         //Array der Objekt-Schlüsselworte
         dataHeaders = Object.keys(data[0]);
         console.log(dataHeaders);
@@ -115,7 +119,7 @@ const endDate = excelDateToISO(item.end_datum);
                return;
              }
 
-          txt += `<th data-prop="${element}">${element}</th>`;
+          txt += `<th data-prop="${element}">${labels[element] || element}</th>`;
         });
         txt += "</tr>";
         thead.innerHTML = txt;
