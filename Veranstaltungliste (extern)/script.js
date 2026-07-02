@@ -91,30 +91,28 @@ const today = new Date().toISOString().slice(0, 10);
     });
   })();
 
-  (function () {
-    const past = ;
-    const all =;
-    const future =;
+(function () {
+  const past = document.querySelector("[past-toggle]");
+  const all = document.querySelector("[all-toggle]");
+  const future = document.querySelector("[future-toggle]");
 
-    function filterEventsTime(value) {
+  function filterEventsTime(value) {
+    varDate = value;
+    displayData();
+  }
 
-      filterEventsTime(time);
+  past?.addEventListener("click", function () {
+    filterEventsTime("past");
+  });
 
-          document.querySelector('[past-toggle]')?.addEventListener('click', function () {
-      size = applySize(size + step);
-    });
+  all?.addEventListener("click", function () {
+    filterEventsTime("all");
+  });
 
-        document.querySelector('[all-toggle]')?.addEventListener('click', function () {
-      size = applySize(100);
-    });
-
-    document.querySelector('[future-toggle]')?.addEventListener('click', function () {
-      size = applySize(size - step);
-    });
-
-
-    }
-  })();
+  future?.addEventListener("click", function () {
+    filterEventsTime("future");
+  });
+})();
 
 
 
@@ -168,6 +166,7 @@ const today = new Date().toISOString().slice(0, 10);
           varOrt = "";
           varArt = "";
           varJahr = "";
+          varDate = "";
           sortData("datum", 0);
 };
 
@@ -184,6 +183,9 @@ const today = new Date().toISOString().slice(0, 10);
       //search filter
       function filterData() {
         dataFiltered = data.filter((element) => {
+              const endDate = excelDateToISOforComp(element.end_datum);
+    const isPast = endDate < today;
+    const isFuture = endDate >= today;
           return (
             (element.titel.toUpperCase().includes(searchText.toUpperCase()) || element.Zusammenfassung.toUpperCase().includes(searchText.toUpperCase()))
             &&
@@ -192,7 +194,13 @@ const today = new Date().toISOString().slice(0, 10);
             && (varOrt != "" ? element.ort == varOrt : true)
             && (varArt != "" ? element.art == varArt : true)
             && (varJahr != "" ? element.jahr == varJahr : true)
-            // && (varDdate != "" ? element.date == date : true)
+            && (
+        varDate === "" || varDate === "all"
+          ? true
+          : varDate === "past"
+          ? isPast
+          : isFuture
+      )
 
           );
         });
@@ -522,5 +530,11 @@ const today = new Date().toISOString().slice(0, 10);
   return date;
 
   //return date.toISOString().slice(0, 10);
+}
+function excelDateToISOforComp(serial) {
+  const msPerDay = 24 * 60 * 60 * 1000;
+  return new Date(Date.UTC(1899, 11, 30) + serial * msPerDay)
+    .toISOString()
+    .slice(0, 10);
 }
 /////////////
