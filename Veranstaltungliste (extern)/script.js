@@ -36,6 +36,97 @@ const dateFilter = document.getElementById("dateFilter");
 const reset = document.querySelector("#reset");
 const today = new Date().toISOString().slice(0, 10);
 //const endDate = excelDateToISO(item.end_datum);
+// theme and size adjustments
+  const root = document.documentElement;
+
+  const themeToggle = document.querySelector('[data-theme-toggle]');
+    const themeToggleSelector = '[data-theme-toggle]';
+
+ let theme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+  root.setAttribute('data-theme', theme);
+
+  const updateThemeLabel = () => {
+    if (!themeToggle) return;
+    themeToggle.setAttribute('aria-label', theme === 'dark' ? 'Hellen Modus aktivieren' : 'Dunklen Modus aktivieren');
+    themeToggle.querySelector('.theme-toggle__icon').textContent = theme === 'dark' ? '☀' : '◐';
+  };
+
+  updateThemeLabel();
+
+  themeToggle?.addEventListener('click', () => {
+    theme = theme === 'dark' ? 'light' : 'dark';
+    root.setAttribute('data-theme', theme);
+    localStorage.setItem('myStyle', theme);
+    updateThemeLabel();
+  });
+
+  (function () {
+    const step = 10;
+    const min = 80;
+    const max = 160;
+    const storageKey = 'fontSizePercent';
+
+    let size = parseInt(localStorage.getItem(storageKey), 10);
+    if (Number.isNaN(size)) size = 100;
+
+    function applySize(value) {
+      const clamped = Math.min(max, Math.max(min, value));
+      root.style.fontSize = clamped + '%';
+      localStorage.setItem(storageKey, String(clamped));
+      return clamped;
+    }
+
+    applySize(size);
+
+    document.querySelector('[data-font-increase]')?.addEventListener('click', function () {
+      size = applySize(size + step);
+    });
+
+        document.querySelector('[data-font-reset]')?.addEventListener('click', function () {
+      size = applySize(100);
+    });
+
+    document.querySelector('[data-font-decrease]')?.addEventListener('click', function () {
+      size = applySize(size - step);
+    });
+  })();
+
+  (function () {
+    const past = ;
+    const all =;
+    const future =;
+
+    function filterEventsTime(value) {
+
+      filterEventsTime(time);
+
+          document.querySelector('[past-toggle]')?.addEventListener('click', function () {
+      size = applySize(size + step);
+    });
+
+        document.querySelector('[all-toggle]')?.addEventListener('click', function () {
+      size = applySize(100);
+    });
+
+    document.querySelector('[future-toggle]')?.addEventListener('click', function () {
+      size = applySize(size - step);
+    });
+
+
+    }
+  })();
+
+
+
+  window.onload = function () {
+    if (localStorage.getItem('myStyle')) {
+      theme = localStorage.getItem('myStyle');
+      root.setAttribute ("data-theme", theme);
+      updateThemeLabel();
+    }
+  }
+
+  /////// 
 
       function filterByNavReferent() {
         //this ist das angeklickte element
@@ -94,7 +185,7 @@ const today = new Date().toISOString().slice(0, 10);
       function filterData() {
         dataFiltered = data.filter((element) => {
           return (
-            element.titel.toUpperCase().includes(searchText.toUpperCase()) || element.Zusammenfassung.toUpperCase().includes(searchText.toUpperCase())
+            (element.titel.toUpperCase().includes(searchText.toUpperCase()) || element.Zusammenfassung.toUpperCase().includes(searchText.toUpperCase()))
             &&
             //element.Datum <= max &&
             (varReferent != "" ? element.referent == varReferent : true)
@@ -231,10 +322,10 @@ const today = new Date().toISOString().slice(0, 10);
     let liAllJahr = document.createElement("li");
   let aAllJahr = document.createElement("a");
   aAllJahr.href = "#";
-  aAllJahr.classList.add("filterArt");
+  aAllJahr.classList.add("filterJahr");
   aAllJahr.textContent = "ALLE ANZEIGEN";
-  aAllJahr.setAttribute("data-info-art", "");
-  aAllJahr.onclick = filterByNavArt;
+  aAllJahr.setAttribute("data-info-jahr", "");
+  aAllJahr.onclick = filterByNavJahr;
   liAllJahr.append(aAllJahr);
   jahrFilter.append(liAllJahr);
 

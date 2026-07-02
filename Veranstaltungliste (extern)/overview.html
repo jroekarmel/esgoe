@@ -4,7 +4,9 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Übersicht der Veranstaltungen der ESGÖ (extern)</title>
-    <link rel="stylesheet" href="style.css">
+              <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=home" /> 
+          <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />    
+          <link rel="stylesheet" href="style.css">
   </head>
   <body>
     <header class="site-header">
@@ -15,11 +17,24 @@
         </a>
     <div class="container header-inner">
       <div class="header-actions">
-        <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="main-navigation" aria-label="Menü öffnen">
+        <button class="past-toggle" type="button" past-toggle aria-label="vergangen">
+<span class="material-symbols-outlined">
+history</span>
+</button>
+        <button class="all-toggle" type="button" all-toggle aria-label="alletermine">
+<span class="material-symbols-outlined">
+schedule
+</span>
+</button>
+        <button class="future-toggle" type="button" future-toggle aria-label="kuenftig">
+<span class="material-symbols-outlined">
+update</span>
+</button>
+      <!--   <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="main-navigation" aria-label="Menü öffnen">
           <span></span>
           <span></span>
           <span></span>
-        </button>
+        </button> -->
                 <button class="font-decrease theme-toggle" type="button" data-font-decrease aria-label="Schriftgröße verkleinern">
     A-
   </button>
@@ -49,13 +64,13 @@
                 </ul>
                 </details>  
             </div> <br>  
-                        <div id="Date">
+<!--                         <div id="Date">
               <details><summary>Vergangen / Künftig</summary>
                 <ul id="dateFilter">
-                    <!-- <li><a href="#" data-info-date="" class="filterDate">ALLE ANZEIGEN</a></li> -->
+                     <li><a href="#" data-info-date="" class="filterDate">ALLE ANZEIGEN</a></li>
                 </ul>
                 </details>  
-            </div> <br>        
+            </div> <br>    -->     
              <div>
               <details><summary>ReferentIn</summary>
                 <ul id="referentFilter">
