@@ -257,6 +257,8 @@ const today = new Date().toISOString().slice(0, 10);
             } else {
               entry = item[element];
             }
+            if (element === "referent" && Array.isArray(entry)) {
+  entry = entry.join("; ");}
 
             if (element == "zoom_link" && entry != "") {
               entry = `<a href="${entry}" target="_blank">Zoom-Link</a>`
