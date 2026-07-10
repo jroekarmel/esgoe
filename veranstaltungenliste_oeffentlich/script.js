@@ -190,7 +190,13 @@ const today = new Date().toISOString().slice(0, 10);
             (element.titel.toUpperCase().includes(searchText.toUpperCase()) || element.Zusammenfassung.toUpperCase().includes(searchText.toUpperCase()))
             &&
             //element.Datum <= max &&
-            (varReferent != "" ? element.referent == varReferent : true)
+              (
+                varReferent !== ""
+                  ? Array.isArray(element.referent)
+                    ? element.referent.includes(varReferent)
+                    : element.referent === varReferent
+                  : true
+              )
             && (varOrt != "" ? element.ort == varOrt : true)
             && (varArt != "" ? element.art == varArt : true)
             && (varJahr != "" ? element.jahr == varJahr : true)
@@ -295,7 +301,15 @@ const today = new Date().toISOString().slice(0, 10);
             
       function displayFilterNav() {
         data.forEach((element) => {
-          filterSetReferent.add(element.referent);
+          if (Array.isArray(element.referent)) {
+            element.referent.forEach(name => {
+              if (name && name.trim() !== "") {
+                filterSetReferent.add(name.trim());
+              }
+          });
+        } else if (element.referent && element.referent.trim() !== "") {
+          filterSetReferent.add(element.referent.trim());
+        }
           filterSetOrt.add(element.ort);
           filterSetArt.add(element.art);
           element.jahr = excelDateToISO(element.start_datum).slice(6,10);
