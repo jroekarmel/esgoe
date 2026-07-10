@@ -215,11 +215,15 @@ section{
   border-radius: var(--radius-lg);
   box-shadow: var(--shadow-md);
   overflow-x: auto;
-  height: 100vh;  or calc(100vh - 120px)
-  overflow-y: visible;
+  height: calc(100vh - 120px);
+  overflow-y: auto;
   -webkit-overflow-scrolling: touch;
 }
-
+@supports (height: 100dvh) {
+  .test {
+    min-height: 100dvh;
+  }
+}
 /* Table */
 table {
   width: 100%;
