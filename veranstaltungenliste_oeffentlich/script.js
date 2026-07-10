@@ -214,7 +214,9 @@ const today = new Date().toISOString().slice(0, 10);
         dataHeaders.forEach((element) => {
 
 
-                       if (element == "id" || element == "meeting_id"|| element == "kursnummer" || element == "start_datum" || element == "end_datum" || element == "prenom" || element == "postnom" || element == "zoom_link") {
+                       if (element == "id" || element == "meeting_id"|| element == "kursnummer" || element == "start_datum"
+                         || element == "end_datum" || element == "prenom" || element == "postnom" || element == "zoom_link"
+                        || element == "parent_id" || element == "is_subevent") {
                return;
              }
 
@@ -240,7 +242,9 @@ const today = new Date().toISOString().slice(0, 10);
                 item.datum = `${excelDateToISO(item.start_datum)}-${excelDateToISO(item.end_datum)}`;
               }
 
-             if (element == "id"|| element == "meeting_id"|| element == "kursnummer"|| element == "start_datum" || element == "end_datum"   || element == "prenom" || element == "postnom" || element == "zoom_link") {
+             if (element == "id"|| element == "meeting_id"|| element == "kursnummer"|| element == "start_datum" || 
+              element == "end_datum"   || element == "prenom" || element == "postnom" || element == "zoom_link"
+             || element == "parent_id" || element == "is_subevent") {
                return;
              }
 

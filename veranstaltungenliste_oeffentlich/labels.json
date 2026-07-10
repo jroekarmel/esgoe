@@ -13,5 +13,6 @@
   "meeting_id": "Meeting-ID",
   "homepage_link": "Homepage",
   "Zusammenfassung": "Zusammenfassung",
-  "kursnummer": "Kursnummer"
+  "kursnummer": "Kursnummer",
+  "parent_titel": "Reihe / Veranstaltung"
 }

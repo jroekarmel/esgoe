@@ -16,7 +16,10 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "181",
@@ -35,7 +38,10 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "185",
@@ -54,7 +60,10 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "186",
@@ -73,7 +82,10 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "188",
@@ -92,7 +104,10 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "189",
@@ -111,7 +126,10 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "190",
@@ -130,7 +148,10 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "191",
@@ -149,7 +170,10 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "193",
@@ -168,7 +192,10 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "196",
@@ -187,7 +214,10 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "197",
@@ -206,7 +236,10 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "195",
@@ -225,7 +258,10 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "198",
@@ -244,7 +280,10 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "194",
@@ -263,7 +302,10 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "200",
@@ -282,7 +324,10 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "201",
@@ -301,7 +346,10 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "203",
@@ -320,7 +368,10 @@
     "meeting_id": "835 3551 8328",
     "homepage_link": "",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "202",
@@ -339,7 +390,10 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "204",
@@ -358,7 +412,10 @@
     "meeting_id": "",
     "homepage_link": "https://tinyurl.com/AReinachEStein",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "206",
@@ -377,7 +434,10 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "207",
@@ -395,7 +455,10 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "205",
@@ -414,7 +477,10 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "208",
@@ -433,7 +499,10 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "209",
@@ -452,7 +521,10 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "210",
@@ -471,7 +543,10 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "211",
@@ -490,7 +565,10 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "212",
@@ -509,7 +587,10 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "Edith Stein ist dem christlichen Glauben anfangs vor allem auf dem Feld der Philosophie begegnet. Sie erkannte hier einen Schlüssel zur Lehre von der Person und der Frage, was Geschichte ist. Dann jedoch machte sie die Erfahrung, dass Gott kein theoretisches Konstrukt ist und der Glaube sie ganz persönlich betraf. Eindrücklich schreibt sie in einem Brief an Roman Ingarden, was es für sie bedeutet, zum Glauben gefunden zu haben: „Das hat mich von dem Leben befreit, das mich niedergeworfen hatte, und hat mir zugleich die Kraft gegeben, das Leben aufs neue und dankbar wieder aufzunehmen.“ (ESGA 4, S. 106) Es lohnt sich, der Frage nach der Taufe und Firmung Edith Steins anhand ihrer biographischen und geistlichen Texte nachzugehen. Gute Zugänge ergeben sich auch aus den Texten von Kardinal John Henry Newman, der 1845 von der anglikanischen zur römisch-katholischen Kirche konvertiert ist, und dessen Schriften Edith Stein in Speyer, in den Jahren nach ihrer Taufe, übersetzt hat.",
-    "kursnummer": "130 [VT]"
+    "kursnummer": "130 [VT] ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "213",
@@ -528,7 +609,10 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "Mit eigenem oder auch fremdem Leiden umzugehen - diese Aufgabe stellt sich jedem Menschen in existentieller Weise. Viktor Frankl und Edith Stein haben sich je auf ihre Weise in ihren Leben und Werken damit befasst, darauf eine Antwort zu geben. Wir werden in dem Vortrag einen Einblick in Viktor Frankls Logotherapie und der Möglichkeit des „aufrechten Leidens“ als sinnvoll gestaltetes Leben geben und bei Edith Stein sehen, wie ein freiwillig angenommenes Leiden aus Liebe um Christi und des Nächsten willen fruchtbar werden kann.",
-    "kursnummer": "131 [VT]"
+    "kursnummer": "131 [VT] ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "214",
@@ -547,7 +631,10 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "Im Frühjahr 2022 hat der Karmeliterorden mit den aktiven und offiziellen Bemühungen zur Ernennung von Edith Stein zur Kirchenlehrerin begonnen. Was ist bisher geschehen? Was ist noch zu tun? Und vor allem: Inwiefern ist es überhaupt sinnvoll Edith Stein als Kirchenlehrerin vorzuschlagen? Die Fragen sollen dabei helfen besser zu verstehen, was wir von Edith Stein erwarten können und was nicht.",
-    "kursnummer": "132 [VT]"
+    "kursnummer": "132 [VT] ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "215",
@@ -566,7 +653,10 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "216",
@@ -585,7 +675,10 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "217",
@@ -604,7 +697,10 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "218",
@@ -623,7 +719,10 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "219",
@@ -642,7 +741,10 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "220",
@@ -661,7 +763,10 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "221",
@@ -680,7 +785,10 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "222",
@@ -699,7 +807,10 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "223",
@@ -718,7 +829,10 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "224",
@@ -737,7 +851,10 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "225",
@@ -756,7 +873,10 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "226",
@@ -775,7 +895,10 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "227",
@@ -794,7 +917,10 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "228",
@@ -813,7 +939,10 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "229",
@@ -832,7 +961,10 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "230",
@@ -851,7 +983,10 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "231",
@@ -870,7 +1005,10 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "232",
@@ -889,7 +1027,10 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "233",
@@ -908,7 +1049,10 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "234",
@@ -927,7 +1071,10 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "235",
@@ -946,7 +1093,10 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "236",
@@ -965,7 +1115,10 @@
     "meeting_id": "",
     "homepage_link": "https://www.edith-stein-gesellschaft.at/content/view/full/10954?id=19716&caleventId=43148#event/19716/43148",
     "Zusammenfassung": "Umbruch und Wandel betreffen Staat und Kirche gleichermaßen. Unter diesen Bedingungen ist zu fragen: Welche Bedeutung haben Glaube und Kirche im pluralen und säkularen Staat von heute? Kann der Glaube Positives eintragen, den Wandel mitgestalten? Hier sind zunächst Grundlagen zu klären: Was bedeutet Säkularisierung und was sind ihre Gründe? Ist der Mensch von heute wirklich säkular oder bindet er seine Verehrung einfach nur an Anderes? Und schließlich: Bleibt Religion auch zukünftig kraftvoll? Die Diskussion dazu ist in Philosophie, Theologie und Soziologie in vollem Gange. Am Samstag, den 31. Januar, wird uns die Arbeit über Texte von Charles Taylor, William Cavanaugh oder Hartmut Rosa helfen, einen Zugang zu finden. Und auch Edith Stein trägt hier viel bei – in ihren Texten zum Staat, zu Freiheit und Spiritualität, aber auch biographisch.",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "237",
@@ -984,7 +1137,10 @@
     "meeting_id": "",
     "homepage_link": "https://www.edith-stein-gesellschaft.at/content/view/full/10954?id=19716&caleventId=43148#event/19716/43148",
     "Zusammenfassung": "Umbruch und Wandel betreffen Staat und Kirche gleichermaßen. Unter diesen Bedingungen ist zu fragen: Welche Bedeutung haben Glaube und Kirche im pluralen und säkularen Staat von heute? Kann der Glaube Positives eintragen, den Wandel mitgestalten? Hier sind zunächst Grundlagen zu klären: Was bedeutet Säkularisierung und was sind ihre Gründe? Ist der Mensch von heute wirklich säkular oder bindet er seine Verehrung einfach nur an Anderes? Und schließlich: Bleibt Religion auch zukünftig kraftvoll? Die Diskussion dazu ist in Philosophie, Theologie und Soziologie in vollem Gange. Am Samstag, den 31. Januar, wird uns die Arbeit über Texte von Charles Taylor, William Cavanaugh oder Hartmut Rosa helfen, einen Zugang zu finden. Und auch Edith Stein trägt hier viel bei – in ihren Texten zum Staat, zu Freiheit und Spiritualität, aber auch biographisch.",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "238",
@@ -1003,7 +1159,10 @@
     "meeting_id": "",
     "homepage_link": "https://www.edith-stein-gesellschaft.at/content/view/full/10954?id=19749&caleventId=43353#event/19749/43353",
     "Zusammenfassung": "Der erste Vortrag (24.2.2026) führt an den Geburtsort Edith Steins. Die schlesische Stadt Breslau - heute Wroclaw - wurde vom britischen Historiker Norman Davies als \"Mikrokosmos\" bezeichnet, da sich in ihr die wichtigsten Strömungen der mitteleuropäischen Geschichte begegneten - sei es im fruchtbaren Austausch oder in feindlicher Rivalität. Ausgehend von der Welt, in der Edith Stein aufwuchs und geprägt wurde, wird aufgezeigt, wie sie als Philosophin und gesellschaftlich engagierte Frau mit den Spannungen ihrer Zeit umging, um auf dem Fundament der Wahrheit Frieden zu stiften.",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "239",
@@ -1022,7 +1181,10 @@
     "meeting_id": "",
     "homepage_link": "https://www.edith-stein-gesellschaft.at/content/view/full/10954?id=19775&caleventId=43399#event/19775/43399",
     "Zusammenfassung": "Dr. Haderlein zeigt auf, welche Impulse Edith Steins Biographie und ihr Bildungsverständnis für die aktuellen Herausforderungen in Schule und Gesellschaft bereithalten.",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "239",
@@ -1040,7 +1202,10 @@
     "meeting_id": "",
     "homepage_link": "https://www.edith-stein-gesellschaft.at/content/view/full/10954?id=19775&caleventId=43399#event/19775/43399",
     "Zusammenfassung": "In diesem Teil wird die Brücke geschlagen: Wie lassen sich Steins anthropologisch fundierte Bildungsbegriffe mit modernen Konzepten der Kompetenzentwicklung vereinbaren?",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "239",
@@ -1059,7 +1224,10 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "240",
@@ -1068,8 +1236,8 @@
     "end_datum": "46098",
     "titel": "Wege des Friedens: Auschwitz - die Vollendung",
     "prenom": "P. Dr. ",
-    "referent": "Lukas Steinert OCD; Sr. Nicoletta Braus ST",
-    "postnom": "",
+    "referent": "Lukas Steinert; Sr. Nicoletta Braus ST",
+    "postnom": "OCD",
     "art": "Online Vortrag",
     "ort": "über Zoom",
     "youtube": "https://www.youtube.com/watch?v=rM1D4UgwOXo",
@@ -1078,7 +1246,10 @@
     "meeting_id": "",
     "homepage_link": "https://www.edith-stein-gesellschaft.at/content/view/full/10954?id=19764&caleventId=43429#event/19764/43429",
     "Zusammenfassung": "Der zweite Vortrag führt nach Auschwitz, den Ort des Martyriums Edith Steins. Das Vernichtungslager erinnert an die unzähligen jüdischen und anderen Opfer des terroristischen und kriegerischen Wahns im Herzen Europas. Im Blick auf die Vollendung ihres Lebens- und Glaubensweges widmen wir uns der Spiritualität und dem christlichen Engagement Edith Steins. Dabei fragen wir, wie sie als Christin der menschenfeindlichen Ideologie, der Verblendung der Vielen und dem Krieg begegnete – und wie ihr Zeugnis Zeichen des Friedens und der Hoffnung für kommende Generationen setzen kann.",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "241",
@@ -1097,7 +1268,10 @@
     "meeting_id": "",
     "homepage_link": "https://www.edith-stein-gesellschaft.at/content/view/full/10954?id=19802&caleventId=43599#event/19802/43599",
     "Zusammenfassung": "Sieht man sich die Bibel und das Leben der Heiligen an, ist die Antwort ein klares JA. In der Glaubenspraxis vieler (oft auch die eigene) scheint der Glaube jedoch eher wie eine zerbrechliche Statue, die man (am Sonntag) hervorholt, aber sonst auf-bewahrt, damit sie keinen Schaden nimmt. Wie sieht also jener Mut aus, der zum Glauben gehört? Wie verbindet er sich mit anderen Eigenschaften, vor allem der Hoffnung? Es sind diese Fragen, denen ich im Vortrag allgemein und anhand der Lebensgeschichte von Edith Stein mit euch nachgehen möchte.",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "242",
@@ -1116,7 +1290,10 @@
     "meeting_id": "",
     "homepage_link": "https://www.edith-stein-gesellschaft.at/content/view/full/10954?id=19824&caleventId=43748#event/19824/43748",
     "Zusammenfassung": "Der frühe Aufsatz „Freiheit und Gnade“ (1921) geht über die körperlich festgelegte Natur des Menschen deutlich hinaus. Edith Stein nimmt Freiheit als Schlüsselbegriff menschlichen Daseins. Aber wie ist Freiheit überhaupt möglich angesichts der menschlichen Nähe zum Tier? Selbsterkenntnis und Selbstdistanz ermöglichen jenen Abstand zur eigenen „Natur“, das Wählenkönnen, die Zustimmung oder Ablehnung des eigenen Trieblebens, die dem Tier nicht möglich ist. Doch ist Autonomie noch nicht die entscheidende Gestalt von Freiheit. Der mündige Mensch hat sich letztlich durchringen gegen die Grundversuchung aller Autonomie: die Selbsthabe. Sie bleibt solange leer, bis sie in die freie Hingabe mündet: an die göttliche Fülle. Dorthin wird ein Weg gezeichnet.",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "243",
@@ -1135,7 +1312,10 @@
     "meeting_id": "",
     "homepage_link": "https://www.edith-stein-gesellschaft.at/content/view/full/10954?id=19878&caleventId=43793#event/19878/43793",
     "Zusammenfassung": "Der Weltverfolgungsindex 2026 zeigt Nigeria auf Platz 7 der am stärksten von Christenverfolgung betroffenen Länder weltweit – ein Land mit ungeheuerlicher Brutalität radikaler Gruppen gegen Christinnen und Christen. Diese Gewalt ist keine Relikt der Frühzeit des Christentums, sondern bittere Gegenwart: Von der Verfolgung unmittelbar nach der Auferstehung Jesu bis zu den Diokletianischen Verfolgungen im 3. Jahrhundert zieht sich ein roter Faden, der heute in Nigeria weitergeführt wird. Er lädt zur dringenden Bewusstseinsbildung und zu praktischer Solidarität ein. Der Referent Pf. Dr. Ndubueze Fabian Mmagu, in Nigeria geboren, dort aufgewachsen und bis zu seiner Übersiedlung nach Österreich 1983 ausgebildet, spricht aus tiefster persönlicher Nähe.",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "244",
@@ -1154,7 +1334,10 @@
     "meeting_id": "",
     "homepage_link": "https://www.edith-stein-gesellschaft.at/content/view/full/10954?id=19877&caleventId=43927#event/19877/43927",
     "Zusammenfassung": "Mit unserem veränderten Medienverhalten verliert das Schreiben von Briefen seine Bedeutung. Zu Edith Steins Lebzeiten war es noch eine selbstverständliche und nicht aus dem Alltag wegzudenkende Möglichkeit, über Entfernungen hinweg miteinander im Gespräch zu bleiben. Wenn man die Briefe von Edith Stein liest, darf man an ihrer Hälfte eines Dialoges teilhaben, an ihrer inneren Zugewandtheit zu Freunden sowie an ihrer inneren Auseinandersetzung mit vielfältigsten Themen ihres Lebens. Diese Selbstmitteilungen von Edith Stein berühren durch ihre Authentizität und lassen Einblicke in ihr damaliges Erleben und in ihre im allgemeinen eher verschlossene Persönlichkeit zu. Kardinal Newman meinte einmal, dass „das wahre Leben eines Menschen in seinen Briefen steckt“. Edith Stein hat seine Briefe wiederum ins Deutsche übertragen und selbst regelmäßig Briefe geschrieben, um ihre Freundschaften und Familienbeziehungen zu pflegen. Der Vortrag möchte dazu anregen, über das Briefeschreiben im Allgemeinen und den innerlichen Bewusstseinszustand beim Schreiben von Briefen im Besonderen nachzudenken sowie über Edith Stein als Briefeschreiberin.",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
     {
     "id": "245",
@@ -1173,26 +1356,54 @@
     "meeting_id": "",
     "homepage_link": "",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
+  },
+    {
+    "id": "246",
+    "datum": "46214",
+    "start_datum": "46318",
+    "end_datum": "46319",
+    "titel": "Postfaktisch? Über die Zukunft der Wahrheit",
+    "prenom": "",
+    "referent": "",
+    "postnom": "",
+    "art": "Sommerakademie",
+    "ort": "Teresianum, Rom, Italien",
+    "youtube": "",
+    "zoom_link": "",
+    "podcast": "",
+    "meeting_id": "",
+    "homepage_link": "https://es-sommerakademie.karmel.at",
+    "Zusammenfassung": "",
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "",
     "datum": "46214",
     "start_datum": "46318",
     "end_datum": "46319",
-    "titel": "Edith Stein Tagung 2026: Über die Wahrheit",
+    "titel": "Postfaktisch? Über die Zukunft der Wahrheit",
     "prenom": "",
     "referent": "",
     "postnom": "",
     "art": "Tagung",
-    "ort": "Erzbischoflichen Palais",
+    "ort": "Erzbischöfliches Palais",
     "youtube": "",
     "zoom_link": "",
     "podcast": "",
     "meeting_id": "",
     "homepage_link": "https://tagung.karmel.at",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
   },
   {
     "id": "",
@@ -1205,14 +1416,17 @@
     "referent": "Sarah Spiekermann-Hoff",
     "postnom": "",
     "art": "Vortrag",
-    "ort": "Erzbischoflichen Palais",
+    "ort": "Erzbischöfliches Palais",
     "youtube": "",
     "zoom_link": "",
     "podcast": "",
     "meeting_id": "",
     "homepage_link": "https://tagung.karmel.at",
     "Zusammenfassung": "Welchen Beitrag kann die materiale Wertethik (Scheler, Hartmann) und Wahrnehmungspsychologie (Fuchs) zum Thema „Wahrheit in der Technik, Wirtschaft und Produktinnovation“ leisten? An diesem Tag geht es zunächst um die Art, wie Schelers materiale Wertethik in ein „Value-based Engineering“ für IT und KI Produkte übersetzt worden ist. Hier wird die philosophische Wertontologie für IT Design vorgestellt, wie sie heute im ISO-Standard 24748-7000 verankert ist und weltweit genutzt wird. Ein kleiner IT Design Workshop rahmt diesen Teil ein. Ferner wird das Theme Werte in der Ökonomie besprochen und wie ein Wertverständnis im Sinne Schelers fundamental abweicht zu dem, was wir heute in der Ökonomie als Wert begreifen. ",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "Postfaktisch? Über die Zukunft der Wahrheit: Edith Stein Tagung 2026",
+    "is_subevent": "0"
   },
   {
     "id": "",
@@ -1225,14 +1439,17 @@
     "referent": "Małgorzata Bogaczyk-Vormayr",
     "postnom": "",
     "art": "Vortrag",
-    "ort": "Erzbischoflichen Palais",
+    "ort": "Erzbischöfliches Palais",
     "youtube": "",
     "zoom_link": "",
     "podcast": "",
     "meeting_id": "",
     "homepage_link": "https://tagung.karmel.at",
     "Zusammenfassung": "",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "Postfaktisch? Über die Zukunft der Wahrheit: Edith Stein Tagung 2026",
+    "is_subevent": "0"
   },
   {
     "id": "",
@@ -1245,14 +1462,17 @@
     "referent": "Monika Adamczyk-Enriquez",
     "postnom": "",
     "art": "Vortrag",
-    "ort": "Erzbischoflichen Palais",
+    "ort": "Erzbischöfliches Palais",
     "youtube": "",
     "zoom_link": "",
     "podcast": "",
     "meeting_id": "",
     "homepage_link": "https://tagung.karmel.at",
     "Zusammenfassung": "Max Scheler, einer der bedeutendsten Vertreter der philosophischen Axiologie im 20. Jahrhundert, entwickelte eine grundlegende Beschreibung von Werten und ihrer Hierarchie und betonte dabei ihren idealen Charakter. Zugleich zeigte er die erkenntniserschließende Rolle des Fühlens und der personalen Akte für die Erfassung von Werten auf.\n Edith Stein greift Schelers Ansatz auf, verschiebt jedoch den Akzent. Während bei Scheler die Beziehung zwischen Person und Werten primär in einer erkenntnistheoretischen Perspektive erscheint, richtet Stein den Blick stärker auf die Person selbst als Ort der Aneignung und Verwirklichung von Werten. Ihr Interesse gilt der inneren Struktur der Person, der Verantwortlichkeit sowie den Bedingungen personaler Reifung und Entwicklung. Die Teilnehmenden erhalten einen Einblick in die Gemeinsamkeiten und Unterschiede beider Ansätze und werden eingeladen, darüber nachzudenken, wie Werte im eigenen Leben erkannt, angeeignet und verwirklicht werden können.",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "Postfaktisch? Über die Zukunft der Wahrheit: Edith Stein Tagung 2026",
+    "is_subevent": "0"
   },
   {
     "id": "",
@@ -1265,14 +1485,17 @@
     "referent": "Pia Lilienstein",
     "postnom": "",
     "art": "Vortrag",
-    "ort": "Erzbischoflichen Palais",
+    "ort": "Erzbischöfliches Palais",
     "youtube": "",
     "zoom_link": "",
     "podcast": "",
     "meeting_id": "",
     "homepage_link": "https://tagung.karmel.at",
     "Zusammenfassung": "Rom gilt als Geburtsstätte des Barock, jener Kunstepoche, die Schönheit dynamischer, intensiver, sinnlicher und dramatischer als je zuvor inszenierte und die die christliche Weltanschauung und Offenbarung in eindrucksvolle Kunstwerke übersetzte. Die Künstlerinnen und Künstler um 1900 brachen vehementer noch als diejenigen des 19. Jahrhunderts mit dieser Kunst- und Bildauffassung. Friedrich Nietzsche z.B. rebellierte gegen die platonische Trias des Guten, Wahren und Schönen und schrieb „Die Wahrheit ist hässlich: Wir haben die Kunst, damit wir nicht an der Wahrheit zu Grunde gehen“. Edith Stein, als Zeitgenossin der Klassischen Moderne hingegen schrieb an Roman Ingarden, dass sie es im Leben mit der Kultur und in der Kunst mit der Schönheit hielte und in beidem die Harmonie suche, also im Grunde das Ordnende, Erhabene und Transzendente. \n Der moderne Zweifel am Wert der Schönheit und an der Wahrheit von Bildern wird mit den digitalen Sehgewohnheiten und dem Bildmedium der KI-generierten Bilderwelten zu einer Selbstverständlichkeit. Gleichzeitig schärft sich in der Kunst das Bewusstsein für den Wert leiblicher Wahrnehmungen und ästhetischer Erfahrungen als Erkenntniszugänge. Der Rückblick in vergangene Kunstepochen und ein Vergleich von Edith Stein mit Künstlerinnen ihrer Generation könnte interessante Impuls für das aktuelle Nachdenken über diese Fragen geben. \n Neben dem philosophisch-kunsthistorischen Teil soll es auch die Gelegenheit geben, gemeinsam die durch Architektur und künstlerischen Inszenierung verdichtete, ästhetisch-spirituelle Atmosphäre eines barocken Kirchenbau zu erkunden.",
-    "kursnummer": ""
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "Postfaktisch? Über die Zukunft der Wahrheit: Edith Stein Tagung 2026",
+    "is_subevent": "0"
   },
   {
     "id": "",
@@ -1285,13 +1508,16 @@
     "referent": "David Oberreiter",
     "postnom": " MBA",
     "art": "Vortrag",
-    "ort": "Erzbischöflichen Palais",
+    "ort": "Erzbischöfliches Palais",
     "youtube": "",
     "zoom_link": "",
     "podcast": "",
     "meeting_id": "",
     "homepage_link": "https://tagung.karmel.at",
     "Zusammenfassung": "Innerpsychische Vorgänge beeinflussen einerseits das Erkennen von Werten als auch die Fähigkeit, jene Werte zu verwirklichen. Es gibt psychische Zustände, die es erschweren oder gar unmöglich machen, Wahrheiten zu erkennen und sich gemäß diesen zu verhalten. Andere psychische Aspekte hingegen sind förderlich für die Verwirklichung von Werten. Begünstigende psychischen Faktoren sollten im Fokus der eigenen Entwicklung stehen.",
-    "kursnummer": ""
+    "kursnummer": "",
+        "parent_id": "",
+    "parent_titel": "Postfaktisch? Über die Zukunft der Wahrheit: Edith Stein Tagung 2026",
+    "is_subevent": "0"
   }
 ]
