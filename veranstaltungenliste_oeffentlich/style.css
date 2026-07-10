@@ -215,7 +215,7 @@ section{
   border-radius: var(--radius-lg);
   box-shadow: var(--shadow-md);
   overflow-x: auto;
-    height: 80vh; /* or calc(100vh - 120px) */
+  height: 100vh;  or calc(100vh - 120px)
   overflow-y: visible;
   -webkit-overflow-scrolling: touch;
 }
