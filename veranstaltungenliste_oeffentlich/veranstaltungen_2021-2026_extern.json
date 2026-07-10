@@ -812,6 +812,28 @@
     "parent_titel": "",
     "is_subevent": "0"
   },
+        {
+    "id": "",
+    "datum": "45513",
+    "start_datum": "45513",
+    "end_datum": "45513",
+    "titel": "Edith Stein und Europa",
+    "prenom": "P. Dr. ",
+    "referent": "Roberto Maria Pirastu",
+    "postnom": "OCD",
+    "art": "Edith Stein Fest",
+    "ort": "Karmelitenkirche Wien",
+    "youtube": "https://www.youtube.com/watch?v=yBT5gpYcsIQ",
+    "zoom_link": "",
+    "podcast": "",
+    "meeting_id": "",
+    "homepage_link": "https://friedensgebet.karmel.at/",
+    "Zusammenfassung": "",
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0"
+  },
   {
     "id": "223",
     "datum": "25.-31.08.2024",

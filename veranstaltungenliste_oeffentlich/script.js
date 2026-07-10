@@ -504,15 +504,34 @@ const today = new Date().toISOString().slice(0, 10);
 
           let val2 = obj2[prop];
 
-          //Zahl oder Text?
+          // for date sorting
+
+              if (prop === "datum") {
+      const parseDatum = (value) => {
+        if (!value) return 0;
+
+        const firstDate = String(value).split("-")[0].trim(); // for ranges
+        const parts = firstDate.split("/");
+
+        if (parts.length !== 3) return 0;
+
+        const [day, month, year] = parts;
+        return Number(`${year}${month.padStart(2, "0")}${day.padStart(2, "0")}`);
+      };
+            val1 = parseDatum(val1);
+      val2 = parseDatum(val2);
+    } else if (!isNaN(val1) && !isNaN(val2)) {
+                //Zahl oder Text?
 
           //wenn Zahl
-
-          if (!isNaN(val1) && !isNaN(val2)) {
             val1 = parseFloat(val1);
 
             val2 = parseFloat(val2);
           }
+
+          //Zahl oder Text?
+
+          //wenn Zahl
 
           if (val1 > val2) return 1;
 
