@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="de" xmlns="http://www.w3.org/1999/html" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Ihr Name">
+    <meta name="description" content="">
+    <meta name="keywords" content="HTML, CSS, JS">
+    <title>BMI</title>
+
+    <!--
+        Eingabe: Größe in cm, Masse in kg
+        Ausgabe: BMI (kg/m^2=(100*100*kg)/cm^2)
+    -->
+
+    <style>
+        label, input, button, select, div {
+            margin: 0.5em;
+        }
+    </style>
+</head>
+<body>
+<noscript>
+    <p>Bitte JavaScript aktivieren!</p>
+</noscript>
+
+<label for="jahr">Beitrittsjahr:</label>
+<input id="jahr" type="number" placeholder="2026" />
+<label for="mitgliedsbeitrag">Mitgliedsbeitrag:</label>
+<select id="mitgliedsbeitrag" name="Mitgliedsbeitrag">
+    <option value="35">Einzelperson</option>
+    <option value="12">Schüler und Studenten</option>
+    <option value="45">Familien</option>
+    <option value="70">Institutionen</option>
+</select>
+<button id="entercalc">Rechnen</button>
+<p id="klicken">Der Beitrag ist: <span id="rechner">0</span></p>
+<script>
+    //<![CDATA[
+    "use strict";
+
+    function rechnen() {
+        let aktuellesjahr = new Date().getFullYear() + 1;
+        let beitrittsjahr = Number(document.getElementById("jahr").value);
+        let mitgliedsbeitrag = Number(document.getElementById("mitgliedsbeitrag").value);
+        document.getElementById("rechner").innerText = ((aktuellesjahr - beitrittsjahr) * mitgliedsbeitrag).toString();
+    }
+    window.onload = function() {
+        document.getElementById("entercalc").onclick = rechnen;
+    }
+
+
+
+
+    //]]>
+</script>
+</body>
+</html>

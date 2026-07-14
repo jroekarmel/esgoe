@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Übersicht der Veranstaltungen der ESGÖ (extern)</title>
+              <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=home" /> 
+          <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />    
+          <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header class="site-header">
+        <a class="brand" href="#top" aria-label="Zur Startseite">
+          <div class="brand-logo">
+            <img src="edithstein_cover.jpg" alt="Cover Foto"/>
+        </div>
+        </a>
+    <div class="container header-inner">
+      <div class="header-actions">
+        <button class="font-decrease theme-toggle" type="button" data-font-decrease aria-label="Schriftgröße verkleinern">
+            A-
+        </button>
+        <button class="font-reset theme-toggle" type="button" data-font-reset aria-label="Schriftgröße zurücksetzen">
+            A
+        </button>
+        <button class="font-increase theme-toggle" type="button" data-font-increase aria-label="Schriftgröße vergrößern">
+            A+
+        </button>
+        <button class="theme-toggle" type="button" data-theme-toggle aria-label="Farbschema wechseln">
+          <span class="theme-toggle__icon" aria-hidden="true">◐</span>
+        </button>
+      </div>
+      </header>
+<main>
+    <label for="jahr">Beitrittsjahr:</label>
+<input id="jahr" type="number" placeholder="2026" />
+<label for="mitgliedsbeitrag">Mitgliedsbeitrag:</label>
+<select id="mitgliedsbeitrag" name="Mitgliedsbeitrag">
+    <option value="35">Einzelperson</option>
+    <option value="12">Schüler und Studenten</option>
+    <option value="45">Familien</option>
+    <option value="70">Institutionen</option>
+</select>
+<button id="entercalc">Rechnen</button>
+<p id="klicken">Der Beitrag ist: <span id="rechner">0</span></p>
+</main>
+    
+</body>
+<script>
+    //<![CDATA[
+    "use strict";
+
+    function rechnen() {
+        let aktuellesjahr = new Date().getFullYear() + 1;
+        let beitrittsjahr = Number(document.getElementById("jahr").value);
+        let mitgliedsbeitrag = Number(document.getElementById("mitgliedsbeitrag").value);
+        document.getElementById("rechner").innerText = ((aktuellesjahr - beitrittsjahr) * mitgliedsbeitrag).toString();
+    }
+    window.onload = function() {
+        document.getElementById("entercalc").onclick = rechnen;
+    }
+</script>
+</html>
