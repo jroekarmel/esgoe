@@ -221,7 +221,7 @@ const today = new Date().toISOString().slice(0, 10);
 
 
                        if (element == "id" || element == "meeting_id"|| element == "kursnummer" || element == "start_datum"
-                         || element == "end_datum" || element == "prenom" || element == "postnom" || element == "zoom_link"
+                         || element == "end_datum" || element == "prenom" || element == "postnom" || element == "institution_ort" || element == "zoom_link"
                         || element == "parent_id" || element == "is_subevent") {
                return;
              }
@@ -249,7 +249,7 @@ const today = new Date().toISOString().slice(0, 10);
               }
 
              if (element == "id"|| element == "meeting_id"|| element == "kursnummer"|| element == "start_datum" || 
-              element == "end_datum"   || element == "prenom" || element == "postnom" || element == "zoom_link"
+              element == "end_datum"   || element == "prenom" || element == "postnom" || element == "institution_ort" || element == "zoom_link"
              || element == "parent_id" || element == "is_subevent") {
                return;
              }
