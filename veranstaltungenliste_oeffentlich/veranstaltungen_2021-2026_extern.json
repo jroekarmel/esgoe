@@ -20,7 +20,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "181",
@@ -43,7 +44,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "185",
@@ -66,7 +68,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "186",
@@ -89,7 +92,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "188",
@@ -112,7 +116,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "189",
@@ -135,7 +140,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "190",
@@ -158,7 +164,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "191",
@@ -181,7 +188,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "193",
@@ -204,7 +212,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "196",
@@ -227,7 +236,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "197",
@@ -250,7 +260,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "195",
@@ -273,7 +284,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "198",
@@ -296,7 +308,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "194",
@@ -319,7 +332,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "200",
@@ -342,7 +356,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "201",
@@ -365,7 +380,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "203",
@@ -388,7 +404,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "202",
@@ -411,7 +428,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "204",
@@ -434,7 +452,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "206",
@@ -457,7 +476,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "207",
@@ -479,7 +499,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "205",
@@ -502,7 +523,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "208",
@@ -525,7 +547,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "209",
@@ -534,7 +557,7 @@
     "end_datum": "44878",
     "titel": "Taufe als Lebenserfüllung und Berufung zum Dienst",
     "prenom": "P. Dr. ",
-    "referent": "Lukas Steinert",
+    "referent": "Lukasz Steinert",
     "postnom": "OCD",
     "institution_ort": "",
     "art": "Vortrag",
@@ -548,7 +571,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "210",
@@ -571,7 +595,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "211",
@@ -594,7 +619,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "212",
@@ -617,7 +643,8 @@
     "kursnummer": "130 [VT] ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "213",
@@ -640,7 +667,8 @@
     "kursnummer": "131 [VT] ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "214",
@@ -663,7 +691,8 @@
     "kursnummer": "132 [VT] ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "215",
@@ -686,7 +715,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "216",
@@ -709,7 +739,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "217",
@@ -732,7 +763,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "218",
@@ -755,7 +787,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "219",
@@ -778,7 +811,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "220",
@@ -801,7 +835,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "221",
@@ -824,7 +859,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "222",
@@ -847,7 +883,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
         {
     "id": "",
@@ -870,7 +907,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "223",
@@ -893,7 +931,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "224",
@@ -916,7 +955,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "225",
@@ -939,7 +979,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "226",
@@ -962,7 +1003,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "227",
@@ -985,14 +1027,15 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "228",
     "datum": "45790",
     "start_datum": "45790",
     "end_datum": "45790",
-    "titel": "Edith Steineine kleine Wanderung durch ihr Meisterwerk\"Endliches und Ewiges Sein\"",
+    "titel": "Edith Stein: eine kleine Wanderung durch ihr Meisterwerk\"Endliches und Ewiges Sein\"",
     "prenom": "Prof. ",
     "referent": "Hanna-Barbara Gerl-Falkovitz",
     "postnom": "",
@@ -1008,7 +1051,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "229",
@@ -1031,7 +1075,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "230",
@@ -1054,7 +1099,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "231",
@@ -1067,17 +1113,18 @@
     "postnom": "",
     "institution_ort": "",
     "art": "Vortrag",
-    "ort": "",
-    "youtube": "",
+    "ort": "Karmelzentrum Wien",
+    "youtube": "https://www.youtube.com/watch?v=0zhC1Ptph1c",
     "zoom_link": "",
-    "podcast": "",
+    "podcast": "https://www.buzzsprout.com/870355/episodes/17950312-edith-stein-und-die-phanomenologie-des-menschlichen-seins-vortrag-von-akira-goto.mp3",
     "meeting_id": "",
     "homepage_link": "",
-    "Zusammenfassung": "",
+    "Zusammenfassung": "Prof. Goto gründet seinen Zugang zur (klinischen) Psychologie und Psychotherapie auf die Lehre Edith Steins. Im Vortrag und in der anschliessenden Diskussion befragen wir Edith Steins Lehre zu den klinischen Anwendungen.\nZitate von Prof. Goto:\n„Edith Steins Beitrag zur Psychologie zeigt uns, dass die Seele zu erforschen keine Aufgabe von Handbüchern ist, sondern ein Akt der Präsenz angesichts des gelebten Lebens, in dem sich dessen Sinn offenbart.“\n„Edith Stein hat der Psychologie einen Weg hinterlassen, der Reduktionismen ablehnt: Um das psychische Leben zu verstehen, muss man den Menschen als untrennbare Einheit von Körper, Psyche und Geist anerkennen.“\n„Wenn die Psychologie auf Edith Steins Phänomenologie trifft, hört sie auf, nur eine technische Wissenschaft zu sein – sie wird zu einer rigorosen Übung im Verstehen des Menschlichen in seiner Innerlichkeit und Einzigartigkeit.“\n Über die Person: \n Außerordentliche Professur II im Grundstudium der Psychologie, ständiger Forscher in den Studiengängen Psychologie und Philosophie an der Bundesuniversität von Uberlândia (UFU). Er hat einen Doktortitel in Psychologie als Beruf und Wissenschaft von der PUC-Campinas (2007), einen Master-Abschluss in Religionswissenschaften von der Methodistischen Universität von São Paulo (2002) und einen Bachelor-Abschluss in Psychologie von der Universität São Marcos (1998). Er ist Mitglied der Arbeitsgruppe Phänomenologie der National Association of Graduate Studies in Philosophy (ANPOF), Mitglied und Koordinator für Brasilien des Lateinamerikanischen Kreises für Phänomenologie (CLAFEN) und stellvertretendes Mitglied der Iberoamerikanischen Gesellschaft für Heideggerianische Studien (SIEH). Seine berufliche und akademische Erfahrung umfasst Psychologie und Philosophie, Erkenntnistheorie, Phänomenologie und Kognitionswissenschaften, phänomenologische Psychologie und Anthropologie, die phänomenologische Psychologie von Edmund Husserl und Edith Stein sowie Phänomenologie und Psychotherapie. Seine Forschungsinteressen umfassen außerdem Philosophie, philosophische Anthropologie, religiöse Erfahrung, Phänomenologie der Religion, Phänomenologie und Gesundheit, Psychotherapie und phänomenologische Psychologie. Unter seinen zahlreichen Veröffentlichungen ragt sein Buch „Einführung in die phänomenologische Psychologie - Die neue Psychologie von Edmund Husserl“ (Paulus Verlag) heraus.",
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
       {
     "id": "245",
@@ -1100,7 +1147,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "232",
@@ -1108,22 +1156,143 @@
     "start_datum": "45893",
     "end_datum": "45899",
     "titel": "Umbruch Wandel Mut: Edith Stein Sommerakademie 2025",
-    "prenom": "",
-    "referent": "",
-    "postnom": "",
+    "prenom": ["Dr. ", "P. Prof. ", "Prof. ", "Dr. ", "Prof. Dr. ", "P. Dr."],
+    "referent": ["Helga Ehrmann-Falkenau", "Christof Betschart", "Tonke Dennebaum", "Daniela Köder", "Edda Pulst", "Lukasz Steinert"],
+    "postnom": ["", " OCD", "", "", "", "OCD"],
     "institution_ort": "",
     "art": "Sommerakademie",
-    "ort": "",
+    "ort": "Teresianum, Rom, Italien",
+    "youtube": "",
+    "zoom_link": "",
+    "podcast": "",
+    "meeting_id": "",
+    "homepage_link": "https://es-sommerakademie.karmel.at/sommerakademie-2025/",
+    "Zusammenfassung": "",
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0",
+    "z_kommentare": "abgesagt"
+  },
+    {
+    "id": "232",
+    "datum": "45984",
+    "start_datum": "45984",
+    "end_datum": "45984",
+    "titel": "Krieg Flucht Trauma",
+    "prenom": "Dr. ",
+    "referent": "Helga Ehrmann-Falkenau",
+    "postnom": "",
+    "institution_ort": "",
+    "art": "Seminar",
+    "ort": "Teresianum, Rom, Italien",
     "youtube": "",
     "zoom_link": "",
     "podcast": "",
     "meeting_id": "",
     "homepage_link": "",
-    "Zusammenfassung": "",
+    "Zusammenfassung": "In der Psychotherapie mit einem traumatisierten Menschen, der Krieg und Flucht überlebt hat, zeigt sich uns auf mehreren Ebenen sein zerbrochenes Leben, seine fragmentierte Psyche, oft seine überwältigenden, unfassbaren Verluste. Es zeigt sich aber auch die Lebenskraft, die der Personen innewohnt und aufgrund derer sie Krieg und Flucht überleben konnte. Es werden innere und äußere Kraftquellen zugänglich, die psychotherapeutisch genutzt werden können, sodass eine ausreichende Verarbeitung ihrer negativen zwischenmenschlichen Extremerlebnisse und der Aufbau neuer Lebensperspektiven möglich werden können. Neue gute und sichere Beziehungen und unterstützende Bedingungen im Asylland -die Psychotherapie ist davon nur ein Beispiel- können Menschen helfen, Mut zu schöpfen und die Fähigkeiten zu entwickeln, auch unter den sehr schwierigen Bedingungen einer neuen Sprache und einer zunächst fremden Kultur sich wieder ein Leben aufzubauen. An diesem Tag werden wir von Lebensgeschichten hören, von Geschichten gelungener und misslungener Bewältigung. Wir werden uns mit Themen der Traumatherapie auseinandersetzen, auch manche ihrer Methoden ansatzweise ausprobieren. Wir werden die Rolle zwischenmenschlicher Güte und die Kraft einer stärkenden und schützenden Religiosität fürs Überleben und Weiterleben reflektieren. Immer wieder wird dabei auf das Leben und auf das Werk Edith Steins Bezug genommen werden. ",
     "kursnummer": " ",
-    "parent_id": "",
-    "parent_titel": "",
-    "is_subevent": "0"
+    "parent_id": "232",
+    "parent_titel": "Umbruch Wandel Mut: Edith Stein Sommerakademie 2025",
+    "is_subevent": "0",
+    "z_kommentare": "abgesagt"
+  },
+      {
+    "id": "232",
+    "datum": "45985",
+    "start_datum": "45985",
+    "end_datum": "45985",
+    "titel": "Innere Stärke und Friede in Zeiten der Instabilität",
+    "prenom": "P. Prof. ",
+    "referent": "Christof Betschart",
+    "postnom": " OCD",
+    "institution_ort": "Fakultät Teresianum, Rom",
+    "art": "Seminar",
+    "ort": "Teresianum, Rom, Italien",
+    "youtube": "",
+    "zoom_link": "",
+    "podcast": "",
+    "meeting_id": "",
+    "homepage_link": "",
+    "Zusammenfassung": "Im Kontext zweier Weltkriege ist Edith Steins Leben vom Spannungsfeld ihrer jüdisch-deutschen Identität, von akademischen Herausforderungen und inneren Krisen gezeichnet. Wir untersuchen, auf welche Weise ihre Christusbeziehung angesichts der multiplen Schwierigkeiten zu ihrem Halt und ihrer Friedensquelle wurde. Gleichzeitig geht es darum, mit Stein die Frage nach Innerlichkeit und Lebenskraft zu stellen und zu vertiefen, welche spirituellen Konsequenzen daraus erwachsen.",
+    "kursnummer": " ",
+    "parent_id": "232",
+    "parent_titel": "Umbruch Wandel Mut: Edith Stein Sommerakademie 2025",
+    "is_subevent": "1",
+    "z_kommentare": "abgesagt"
+  },
+      {
+    "id": "232",
+    "datum": "45986",
+    "start_datum": "45986",
+    "end_datum": "45986",
+    "titel": "Privat und fromm – oder öffentlich und engagiert? Glaube und Kirche in der säkularen Welt von heute",
+    "prenom": "Prof. ",
+    "referent": "Tonke Dennebaum",
+    "postnom": "",
+    "institution_ort": "Mainz",
+    "art": "Seminar",
+    "ort": "Teresianum, Rom, Italien",
+    "youtube": "",
+    "zoom_link": "",
+    "podcast": "",
+    "meeting_id": "",
+    "homepage_link": "",
+    "Zusammenfassung": "Umbruch und Wandel betreffen Staat und Kirche gleichermaßen. Unter diesen Bedingungen ist zu fragen: Welche Bedeutung haben Glaube und Kirche im pluralen und säkularen Staat von heute? Kann der Glaube Positives eintragen, den Wandel mitgestalten? Hier sind zunächst Grundlagen zu klären: Was bedeutet Säkularisierung und was sind ihre Gründe? Ist der Mensch von heute wirklich säkular oder bindet er seine Verehrung einfach nur an Anderes? Und schließlich: Bleibt Religion auch zukünftig kraftvoll? Die Diskussion dazu ist in Philosophie, Theologie und Soziologie in vollem Gange. Texte von Charles Taylor, William Cavanaugh oder Hartmut Rosa helfen, einen Zugang zu finden. Und auch Edith Stein trägt hier viel bei – in ihren Texten zum Staat, zu Freiheit und Spiritualität, aber auch biographisch. Tonke Dennebaum, Dr. theol. habil., ist Leiter des Kommissariats der Katholischen Bischöfe im Lande Hessen und apl. Professor für Fundamentaltheologie und Religionswissenschaft an der Johannes Gutenberg-Universität Mainz. ",
+    "kursnummer": " ",
+    "parent_id": "232",
+    "parent_titel": "Umbruch Wandel Mut: Edith Stein Sommerakademie 2025",
+    "is_subevent": "1",
+    "z_kommentare": "abgesagt"
+  },
+      {
+    "id": "232",
+    "datum": "45987",
+    "start_datum": "45987",
+    "end_datum": "45987",
+    "titel": "Proexistenz als Schlüsselthema für das Verständnis Edith Steins: Im Spannungsfeld zwischen Selbst-Sein und Sein-für-Andere",
+    "prenom": "Dr. ",
+    "referent": "Daniela Köder",
+    "postnom": "",
+    "institution_ort": "Ditzingen",
+    "art": "Seminar",
+    "ort": "Teresianum, Rom, Italien",
+    "youtube": "",
+    "zoom_link": "",
+    "podcast": "",
+    "meeting_id": "",
+    "homepage_link": "",
+    "Zusammenfassung": "Das Thema der Akademie Umbruch – Wandel – Mut hat viel mit dem Verständnis des Menschen zu tun, der sich in der Welt, in Beziehung zu Anderen und Anderem befindet. Wir wollen an diesem Tag anhand einiger biographischer Stationen anthropologische und theologische Einsichten Edith Steins nachgehen, die auch für unser gelingendes Leben wertvoll sein können. Es soll erarbeitet werden, inwieweit das Sein-für-Andere, die Proexistenz, zu einem erfüllten Selbstsein notwendig ist und in allem Wandel Beständigkeit zu geben vermag.",
+    "kursnummer": " ",
+    "parent_id": "232",
+    "parent_titel": "Umbruch Wandel Mut: Edith Stein Sommerakademie 2025",
+    "is_subevent": "1",
+    "z_kommentare": "abgesagt"
+  },
+      {
+    "id": "232",
+    "datum": "45988",
+    "start_datum": "45988",
+    "end_datum": "45984",
+    "titel": "Energie für den Wandel: Theologie trifft Technologie",
+    "prenom": ["Prof. Dr. ", "P. Dr. "],
+    "referent": ["Edda Pulst", "Lukasz Steinert"],
+    "postnom": ["", " OCD"],
+    "institution_ort": "",
+    "art": "Seminar",
+    "ort": "Teresianum, Rom, Italien",
+    "youtube": "",
+    "zoom_link": "",
+    "podcast": "",
+    "meeting_id": "",
+    "homepage_link": "",
+    "Zusammenfassung": "Wir stecken mittendrin – in den Umbrüchen; Ersatz fossiler Brennstoffe und Einsatz Künstlicher Intelligenz gehören dazu – und mit ihnen ein unvorstellbarer Energiehunger. Einige KI-Anwendungen verbrauchen Strom in der Größenordnung ganzer Länder. Wären in Deutschland alle PKW E-Autos, bräuchten sie ein Sechstel des deutschen Stroms. Auch wir Menschen benötigen Energie für Umbrüche –persönliche Energie, um Wandel kreativ zu gestalten. Genau hier begegnen sich Theologie und Technologie: Entwickeln gemeinsam Neuen Mut. Erhöhen Wirkungsgrade. Speichern Energie für Dunkelflauten. Setzen Prioritäten. Anstrengend, aber unverzichtbar. Ohne Anstrengung geht es nun einmal nicht. Edith Stein ist sich dessen bewusst. Menschen müssen sich anstrengen, um ihr Leben gut führen und Verantwortung für andere und die Welt übernehmen zu können. Sie selbst legt große Selbstdisziplin, Stärke und viel Mut an den Tag. Zugleich warnt sie davor, sich einseitig auf die eigenen Willensanstrengungen zu konzentrieren, „ohne sich den Anschluss an die geistigen Kraftquellen zu sichern, in denen die Person wahrhaft leben und aus denen sie sich erneuern kann“. Sie stellt nüchtern fest, wozu solche Anstrengungen im Endeffekt führen: „Leib und Seele werden davon aufgezehrt“. Edith Stein weiß um die Schwäche der eigenen Kraft, und setzt auf die Wirklichkeit des Unverdienten, aber frei Geschenkten, das in der theologischen Sprache als Gnade bezeichnet wird. „Das Eigentümliche des seelischen Lebens ist, dass es der Seele zuströmen muss“. Ausgehend von Zitaten von Edith Stein und der theologischen Debatte werden wir in der Konfrontation mit dem technisch Möglichen Energiequellen freilegen – nicht nur für die aktuellen Umbrüche. ",
+    "kursnummer": " ",
+    "parent_id": "232",
+    "parent_titel": "Umbruch Wandel Mut: Edith Stein Sommerakademie 2025",
+    "is_subevent": "1",
+    "z_kommentare": "abgesagt"
   },
   {
     "id": "233",
@@ -1132,7 +1301,7 @@
     "end_datum": "45954",
     "titel": "Umbruch Wandel Mut: Edith Stein Tagung 2025",
     "prenom": ["Prof. ", "P. Dr. ", "S. Em. Dr. ", "P. Dr. ", "", "Dr."],
-    "referent": ["Hanna-Barbara Gerl-Falkovitz", "Roberto Maria Pirastu", "Christoph Schönborn", "Lukas Steinert", "Valquiria Gonçalves de Oliveira", "Daniela Köder"],
+    "referent": ["Hanna-Barbara Gerl-Falkovitz", "Roberto Maria Pirastu", "Christoph Schönborn", "Lukasz Steinert", "Valquiria Gonçalves de Oliveira", "Daniela Köder"],
     "postnom": ["", " OCD", " OP", " OCD", ""],
     "institution_ort": "",
     "art": "Tagung",
@@ -1146,7 +1315,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
     {
     "id": "233",
@@ -1170,7 +1340,8 @@
     "kursnummer": " ",
     "parent_id": "233",
     "parent_titel": "Umbruch Wandel Mut: Edith Stein Tagung 2025",
-    "is_subevent": "1"
+    "is_subevent": "1",
+    "z_kommentare": ""
   },
       {
     "id": "233",
@@ -1194,7 +1365,8 @@
     "kursnummer": "",
     "parent_id": "233",
     "parent_titel": "Umbruch Wandel Mut: Edith Stein Tagung 2025",
-    "is_subevent": "1"
+    "is_subevent": "1",
+    "z_kommentare": ""
   },
         {
     "id": "233",
@@ -1218,7 +1390,8 @@
     "kursnummer": "",
     "parent_id": "233",
     "parent_titel": "Umbruch Wandel Mut: Edith Stein Tagung 2025",
-    "is_subevent": "1"
+    "is_subevent": "1",
+    "z_kommentare": ""
   },
           {
     "id": "233",
@@ -1228,7 +1401,7 @@
     "zeit": "14.30 Uhr",
     "titel": "Geschichten des Ankommens: Kontinuität und Bruch bei John Henry Newman und Edith Stein",
     "prenom": "P. Dr. ",
-    "referent": "Lukas Steinert",
+    "referent": "Lukasz Steinert",
     "postnom": "OCD",
     "institution_ort": "Rom",
     "art": "Vortrag",
@@ -1242,7 +1415,8 @@
     "kursnummer": "",
     "parent_id": "233",
     "parent_titel": "Umbruch Wandel Mut: Edith Stein Tagung 2025",
-    "is_subevent": "1"
+    "is_subevent": "1",
+    "z_kommentare": ""
   },
           {
     "id": "233",
@@ -1266,7 +1440,8 @@
     "kursnummer": "",
     "parent_id": "233",
     "parent_titel": "Umbruch Wandel Mut: Edith Stein Tagung 2025",
-    "is_subevent": "1"
+    "is_subevent": "1",
+    "z_kommentare": ""
   },
           {
     "id": "233",
@@ -1290,7 +1465,8 @@
     "kursnummer": "",
     "parent_id": "233",
     "parent_titel": "Umbruch Wandel Mut: Edith Stein Tagung 2025",
-    "is_subevent": "1"
+    "is_subevent": "1",
+    "z_kommentare": ""
   },
   {
     "id": "234",
@@ -1313,7 +1489,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "235",
@@ -1336,7 +1513,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "236",
@@ -1359,7 +1537,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "237",
@@ -1382,7 +1561,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "238",
@@ -1391,7 +1571,7 @@
     "end_datum": "46077",
     "titel": "Wege des Friedens: Breslau - der Anfang",
     "prenom": ["P. Dr. ", "Sr. "],
-    "referent": ["Lukas Steinert", "Nicoletta Braus"],
+    "referent": ["Lukasz Steinert", "Nicoletta Braus"],
     "postnom": ["OCD", "ST"],
     "institution_ort": "",
     "art": "Online Vortrag",
@@ -1405,7 +1585,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "239",
@@ -1428,7 +1609,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "239",
@@ -1451,7 +1633,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "239",
@@ -1474,7 +1657,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "240",
@@ -1483,7 +1667,7 @@
     "end_datum": "46098",
     "titel": "Wege des Friedens: Auschwitz - die Vollendung",
     "prenom": ["P. Dr. ", "Sr. "],
-    "referent": ["Lukas Steinert", "Nicoletta Braus"],
+    "referent": ["Lukasz Steinert", "Nicoletta Braus"],
     "postnom": ["OCD", "ST"],
     "institution_ort": "",
     "art": "Online Vortrag",
@@ -1497,7 +1681,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "241",
@@ -1520,7 +1705,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "242",
@@ -1543,7 +1729,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "243",
@@ -1566,7 +1753,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "244",
@@ -1589,7 +1777,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
     {
     "id": "245",
@@ -1612,7 +1801,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
     {
     "id": "246",
@@ -1635,7 +1825,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "",
@@ -1659,7 +1850,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "Postfaktisch? Über die Zukunft der Wahrheit: Edith Stein Sommerakademie 2026",
-    "is_subevent": "1"
+    "is_subevent": "1",
+    "z_kommentare": ""
   },
   {
     "id": "",
@@ -1683,7 +1875,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "Postfaktisch? Über die Zukunft der Wahrheit: Edith Stein Sommerakademie 2026",
-    "is_subevent": "1"
+    "is_subevent": "1",
+    "z_kommentare": ""
   },
   {
     "id": "",
@@ -1707,7 +1900,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "Postfaktisch? Über die Zukunft der Wahrheit: Edith Stein Sommerakademie 2026",
-    "is_subevent": "1"
+    "is_subevent": "1",
+    "z_kommentare": ""
   },
   {
     "id": "",
@@ -1730,7 +1924,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "Postfaktisch? Über die Zukunft der Wahrheit: Edith Stein Sommerakademie 2026",
-    "is_subevent": "1"
+    "is_subevent": "1",
+    "z_kommentare": ""
   },
   {
     "id": "",
@@ -1754,7 +1949,8 @@
     "kursnummer": "",
         "parent_id": "",
     "parent_titel": "Postfaktisch? Über die Zukunft der Wahrheit: Edith Stein Sommerakademie 2026",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "",
@@ -1777,7 +1973,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "",
@@ -1801,7 +1998,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "Postfaktisch? Über die Zukunft der Wahrheit: Edith Stein Tagung 2026",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
     {
     "id": "",
@@ -1825,7 +2023,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "Postfaktisch? Über die Zukunft der Wahrheit: Edith Stein Tagung 2026",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "",
@@ -1849,7 +2048,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "Postfaktisch? Über die Zukunft der Wahrheit: Edith Stein Tagung 2026",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "",
@@ -1873,7 +2073,8 @@
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "Postfaktisch? Über die Zukunft der Wahrheit: Edith Stein Tagung 2026",
-    "is_subevent": "0"
+    "is_subevent": "0",
+    "z_kommentare": ""
   },
   {
     "id": "",
