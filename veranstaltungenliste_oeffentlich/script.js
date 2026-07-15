@@ -220,7 +220,7 @@ const today = new Date().toISOString().slice(0, 10);
         dataHeaders.forEach((element) => {
 
 
-                       if (element == "id" || element == "meeting_id"|| element == "kursnummer" || element == "start_datum"
+                       if (element == "id" || element == "institution_ort" || element == "meeting_id"|| element == "kursnummer" || element == "start_datum"
                          || element == "end_datum" || element == "prenom" || element == "postnom" || element == "zoom_link"
                         || element == "parent_id" || element == "is_subevent") {
                return;
@@ -248,7 +248,7 @@ const today = new Date().toISOString().slice(0, 10);
                 item.datum = `${excelDateToISO(item.start_datum)}-${excelDateToISO(item.end_datum)}`;
               }
 
-             if (element == "id"|| element == "meeting_id"|| element == "kursnummer"|| element == "start_datum" || 
+             if (element == "id"|| element == "institution_ort" || element == "meeting_id"|| element == "kursnummer"|| element == "start_datum" || 
               element == "end_datum"   || element == "prenom" || element == "postnom" || element == "zoom_link"
              || element == "parent_id" || element == "is_subevent") {
                return;
@@ -283,7 +283,7 @@ const today = new Date().toISOString().slice(0, 10);
               
             }
             if (element == "podcast" && entry != ""){
-              entry = `<audio  id="myAudio" controls loop><source src="${entry}" type="audio/mpeg"></audio>`
+              entry = `<audio  id="myAudio" controls preload="none" loop><source src="${entry}" type="audio/mpeg"></audio>`
             }
             if (element == "Zusammenfassung" && entry != "") {
               entry = `<details><summary><i>Zusammenfassung anzeigen / ausblenden </i></summary>"${entry}"</details>`
