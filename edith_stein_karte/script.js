@@ -9,9 +9,15 @@
 
 function getMarkerColor(category) {
   const colors = {
-    Kapelle: '#c0392b',
-    Kappelle: '#c0392b',
-    Archiv: '#2980b9'
+    Kapelle: '#c0392b',   // red
+    Kirche: '#8e44ad',    // purple
+    Kloster: '#d35400',   // orange
+    Archiv: '#2980b9',    // blue
+    Haus: '#16a085',      // teal
+    Gedenkort: '#7f8c8d', // gray
+    Synagoge: '#2c3e50',  // dark blue-gray
+    Schule: '#f39c12',    // amber
+    Ort: '#27ae60'        // green
   };
   return colors[category] || '#27ae60';
 }
@@ -43,7 +49,7 @@ function displayData(element) {
 
     const marker = L.circleMarker([lat, long], {
         radius: 8,
-        fillColor: getMarkerColor(element.type),
+        fillColor: getMarkerColor(element.properties.KATEGORIE),
         color: '#333',
         weight: 1,
         fillOpacity: 0.8
