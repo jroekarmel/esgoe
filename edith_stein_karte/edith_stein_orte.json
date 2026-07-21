@@ -1,0 +1,54 @@
+
+  {
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "0001",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.513099, 47.845213]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "OBJECTID": 1461930,
+        "BEZEICHNUNG": "Edith Stein Kapelle",
+        "BEZIRK": "",
+        "STRASSE": "Linzer Straße",
+        "ONR": "11",
+        "ADRESSE": "Kalvarienbergpl. 11, 7000 Eisenstadt",
+        "TELEFON": "",
+        "FAX": "",
+        "EMAIL": "",
+        "WEBLINK1": null,
+        "SE_ANNO_CAD_DATA": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0002",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.32755765, 48.19795482]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "OBJECTID": 1461931,
+        "BEZEICHNUNG": "Edith Stein Kapelle",
+        "BEZIRK": 14,
+        "STRASSE": "Heinrich-Collin-Straße",
+        "ONR": "30",
+        "ADRESSE": "Heinrich-Collin-Straße 30, 1140 Wien",
+        "TELEFON": "",
+        "FAX": "",
+        "EMAIL": "",
+        "WEBLINK1": "",
+        "SE_ANNO_CAD_DATA": null
+      }
+    }
+  ],
+  "totalFeatures": "",
+  "numberMatched": "",
+  "numberReturned": "",
+  "timeStamp": ""
+}
