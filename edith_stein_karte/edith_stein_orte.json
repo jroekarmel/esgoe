@@ -3,7 +3,7 @@
   "type": "FeatureCollection",
   "features": [
     {
-      "type": "Feature",
+      "type": "Kapelle",
       "id": "0001",
       "geometry": {
         "type": "Point",
@@ -25,7 +25,7 @@
       }
     },
     {
-      "type": "Feature",
+      "type": "Kapelle",
       "id": "0002",
       "geometry": {
         "type": "Point",
@@ -39,6 +39,28 @@
         "STRASSE": "Heinrich-Collin-Straße",
         "ONR": "30",
         "ADRESSE": "Heinrich-Collin-Straße 30, 1140 Wien",
+        "TELEFON": "",
+        "FAX": "",
+        "EMAIL": "",
+        "WEBLINK1": "",
+        "SE_ANNO_CAD_DATA": null
+      }
+    },
+        {
+      "type": "Archiv",
+      "id": "0002",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.953029, 50.926757]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "OBJECTID": 1461931,
+        "BEZEICHNUNG": "Edith-Stein-Archiv Köln",
+        "BEZIRK": "",
+        "STRASSE": "Vor den Siebenburgen",
+        "ONR": "6",
+        "ADRESSE": "Vor den Siebenburgen 6, 50676 Köln, Germany",
         "TELEFON": "",
         "FAX": "",
         "EMAIL": "",

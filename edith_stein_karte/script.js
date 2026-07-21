@@ -7,7 +7,15 @@
                 attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
             }).addTo(map);
 
-            let marker;
+function getMarkerColor(category) {
+  const colors = {
+    Kapelle: '#c0392b',
+    Kappelle: '#c0392b',
+    Archiv: '#2980b9'
+  };
+  return colors[category] || '#27ae60';
+}
+
 
             function loadData() {
                 
@@ -26,16 +34,15 @@
                 xhr.send();
             }
 
-            function displayData(element) {
+function displayData(element) {
+    let long = parseFloat(element.geometry.coordinates[0]);
+    let lat = parseFloat(element.geometry.coordinates[1]);
+    let bez = element.properties.BEZEICHNUNG;
+    let addr = element.properties.ADRESSE;
+    let bezAddr = `${bez}<br>${addr}`;
 
-                let long = parseFloat(element.geometry.coordinates[0]);
-                let lat = parseFloat(element.geometry.coordinates[1]);
-                let bez = element.properties.BEZEICHNUNG;
-                let addr = element.properties.ADRESSE;
-                let bezAddr = `${bez}<br>${addr}`;
-                marker = L.marker([lat, long],{title:bez}).addTo(map);
-                marker.bindPopup(bezAddr);
-                
-            }
+    const marker = L.marker([lat, long], { title: bez }).addTo(map);
+    marker.bindPopup(bezAddr);
+}
             //function auslösen beim laden der Seite
             window.onload = loadData;
