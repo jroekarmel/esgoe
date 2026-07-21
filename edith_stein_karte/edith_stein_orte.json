@@ -1,16 +1,15 @@
-
-  {
+{
   "type": "FeatureCollection",
   "features": [
     {
-      "type": "Kapelle",
+      "type": "Feature",
       "id": "0001",
       "geometry": {
         "type": "Point",
         "coordinates": [16.513099, 47.845213]
       },
-      "geometry_name": "SHAPE",
       "properties": {
+        "KATEGORIE": "Kapelle",
         "OBJECTID": 1461930,
         "BEZEICHNUNG": "Edith Stein Kapelle",
         "BEZIRK": "",
@@ -21,18 +20,24 @@
         "FAX": "",
         "EMAIL": "",
         "WEBLINK1": null,
-        "SE_ANNO_CAD_DATA": null
+        "SE_ANNO_CAD_DATA": null,
+        "ORT": "Eisenstadt",
+        "LAND": "Austria",
+        "KML_NAME": null,
+        "KML_DESCRIPTION": null,
+        "KML_STYLE": null,
+        "QUELLE": "Original JSON"
       }
     },
     {
-      "type": "Kapelle",
+      "type": "Feature",
       "id": "0002",
       "geometry": {
         "type": "Point",
         "coordinates": [16.32755765, 48.19795482]
       },
-      "geometry_name": "SHAPE",
       "properties": {
+        "KATEGORIE": "Kapelle",
         "OBJECTID": 1461931,
         "BEZEICHNUNG": "Edith Stein Kapelle",
         "BEZIRK": 14,
@@ -43,19 +48,25 @@
         "FAX": "",
         "EMAIL": "",
         "WEBLINK1": "",
-        "SE_ANNO_CAD_DATA": null
+        "SE_ANNO_CAD_DATA": null,
+        "ORT": "Wien",
+        "LAND": "Austria",
+        "KML_NAME": null,
+        "KML_DESCRIPTION": null,
+        "KML_STYLE": null,
+        "QUELLE": "Original JSON"
       }
     },
-        {
-      "type": "Archiv",
-      "id": "0002",
+    {
+      "type": "Feature",
+      "id": "0003",
       "geometry": {
         "type": "Point",
         "coordinates": [6.953029, 50.926757]
       },
-      "geometry_name": "SHAPE",
       "properties": {
-        "OBJECTID": 1461931,
+        "KATEGORIE": "Archiv",
+        "OBJECTID": 1461932,
         "BEZEICHNUNG": "Edith-Stein-Archiv Köln",
         "BEZIRK": "",
         "STRASSE": "Vor den Siebenburgen",
@@ -65,12 +76,154 @@
         "FAX": "",
         "EMAIL": "",
         "WEBLINK1": "",
-        "SE_ANNO_CAD_DATA": null
+        "SE_ANNO_CAD_DATA": null,
+        "ORT": "Köln (Cologne)",
+        "LAND": "Germany",
+        "KML_NAME": "Karmelitinen Kloster \"Maria vom Frieden\"",
+        "KML_DESCRIPTION": null,
+        "KML_STYLE": "#icon-1899-0288D1-nodesc",
+        "QUELLE": "Original JSON + KML"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0004",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.99461299999996, 49.099592]
+      },
+      "properties": {
+        "KATEGORIE": "Ort",
+        "OBJECTID": null,
+        "BEZEICHNUNG": "Taufkirche Hl Edith Stein",
+        "BEZIRK": "",
+        "STRASSE": "",
+        "ONR": "",
+        "ADRESSE": "",
+        "TELEFON": "",
+        "FAX": "",
+        "EMAIL": "",
+        "WEBLINK1": "",
+        "SE_ANNO_CAD_DATA": null,
+        "ORT": "Bad Bergzabern",
+        "LAND": "Germany",
+        "KML_NAME": "Taufkirche Hl Edith Stein",
+        "KML_DESCRIPTION": null,
+        "KML_STYLE": "#icon-1899-0288D1-nodesc",
+        "QUELLE": "KML"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0005",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.99527439999997, 49.0991505]
+      },
+      "properties": {
+        "KATEGORIE": "Ort",
+        "OBJECTID": null,
+        "BEZEICHNUNG": "Edith-Stein-Haus Katholisches Pfarrzentrum",
+        "BEZIRK": "",
+        "STRASSE": "",
+        "ONR": "",
+        "ADRESSE": "",
+        "TELEFON": "",
+        "FAX": "",
+        "EMAIL": "",
+        "WEBLINK1": "",
+        "SE_ANNO_CAD_DATA": null,
+        "ORT": "Bad Bergzabern",
+        "LAND": "Germany",
+        "KML_NAME": "Edith-Stein-Haus Katholisches Pfarrzentrum",
+        "KML_DESCRIPTION": null,
+        "KML_STYLE": "#icon-1899-0288D1-nodesc",
+        "QUELLE": "KML"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0006",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.9931775, 49.1017585]
+      },
+      "properties": {
+        "KATEGORIE": "Ort",
+        "OBJECTID": null,
+        "BEZEICHNUNG": "Conrad-Martius House",
+        "BEZIRK": "",
+        "STRASSE": "",
+        "ONR": "",
+        "ADRESSE": "",
+        "TELEFON": "",
+        "FAX": "",
+        "EMAIL": "",
+        "WEBLINK1": "",
+        "SE_ANNO_CAD_DATA": null,
+        "ORT": "Bad Bergzabern",
+        "LAND": "Germany",
+        "KML_NAME": "Conrad-Martius House",
+        "KML_DESCRIPTION": "Formerly Eisbrünnelweg.",
+        "KML_STYLE": "#icon-1899-0288D1",
+        "QUELLE": "KML"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0007",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.8663143, 51.1036643]
+      },
+      "properties": {
+        "KATEGORIE": "Kloster",
+        "OBJECTID": null,
+        "BEZEICHNUNG": "Holy Family Carmelite Monastery",
+        "BEZIRK": "",
+        "STRASSE": "",
+        "ONR": "",
+        "ADRESSE": "",
+        "TELEFON": "",
+        "FAX": "",
+        "EMAIL": "",
+        "WEBLINK1": "",
+        "SE_ANNO_CAD_DATA": null,
+        "ORT": "Echt",
+        "LAND": "Netherlands",
+        "KML_NAME": "Holy Family Carmelite Monastery",
+        "KML_DESCRIPTION": null,
+        "KML_STYLE": "#icon-1899-0288D1-nodesc",
+        "QUELLE": "KML"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0008",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [17.0511782, 51.1214923]
+      },
+      "properties": {
+        "KATEGORIE": "Ort",
+        "OBJECTID": null,
+        "BEZEICHNUNG": "Park St. Edith Stein",
+        "BEZIRK": "",
+        "STRASSE": "",
+        "ONR": "",
+        "ADRESSE": "",
+        "TELEFON": "",
+        "FAX": "",
+        "EMAIL": "",
+        "WEBLINK1": "",
+        "SE_ANNO_CAD_DATA": null,
+        "ORT": "Wrocław",
+        "LAND": "Poland",
+        "KML_NAME": "Park St. Edith Stein",
+        "KML_DESCRIPTION": null,
+        "KML_STYLE": "#icon-1899-0288D1-nodesc",
+        "QUELLE": "KML"
       }
     }
-  ],
-  "totalFeatures": "",
-  "numberMatched": "",
-  "numberReturned": "",
-  "timeStamp": ""
+  ]
 }
