@@ -6,7 +6,10 @@
       "id": "0001",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.513099, 47.845213]
+        "coordinates": [
+          16.513099,
+          47.845213
+        ]
       },
       "properties": {
         "KATEGORIE": "Kapelle",
@@ -34,7 +37,10 @@
       "id": "0002",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.32755765, 48.19795482]
+        "coordinates": [
+          16.32755765,
+          48.19795482
+        ]
       },
       "properties": {
         "KATEGORIE": "Kapelle",
@@ -62,7 +68,10 @@
       "id": "0003",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.953029, 50.926757]
+        "coordinates": [
+          6.953029,
+          50.926757
+        ]
       },
       "properties": {
         "KATEGORIE": "Archiv",
@@ -90,10 +99,13 @@
       "id": "0004",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.99461299999996, 49.099592]
+        "coordinates": [
+          7.99461299999996,
+          49.099592
+        ]
       },
       "properties": {
-        "KATEGORIE": "Ort",
+        "KATEGORIE": "Kirche",
         "OBJECTID": null,
         "BEZEICHNUNG": "Taufkirche Hl Edith Stein",
         "BEZIRK": "",
@@ -118,10 +130,13 @@
       "id": "0005",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.99527439999997, 49.0991505]
+        "coordinates": [
+          7.99527439999997,
+          49.0991505
+        ]
       },
       "properties": {
-        "KATEGORIE": "Ort",
+        "KATEGORIE": "Haus",
         "OBJECTID": null,
         "BEZEICHNUNG": "Edith-Stein-Haus Katholisches Pfarrzentrum",
         "BEZIRK": "",
@@ -146,10 +161,13 @@
       "id": "0006",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.9931775, 49.1017585]
+        "coordinates": [
+          7.9931775,
+          49.1017585
+        ]
       },
       "properties": {
-        "KATEGORIE": "Ort",
+        "KATEGORIE": "Haus",
         "OBJECTID": null,
         "BEZEICHNUNG": "Conrad-Martius House",
         "BEZIRK": "",
@@ -174,7 +192,134 @@
       "id": "0007",
       "geometry": {
         "type": "Point",
-        "coordinates": [5.8663143, 51.1036643]
+        "coordinates": [
+          8.96906760000002,
+          48.0509188
+        ]
+      },
+      "properties": {
+        "KATEGORIE": "Kloster",
+        "OBJECTID": null,
+        "BEZEICHNUNG": "Benedictine Archabbey of St. Martin",
+        "BEZIRK": "",
+        "STRASSE": "",
+        "ONR": "",
+        "ADRESSE": "",
+        "TELEFON": "",
+        "FAX": "",
+        "EMAIL": "",
+        "WEBLINK1": "",
+        "SE_ANNO_CAD_DATA": null,
+        "ORT": "Beuron",
+        "LAND": "Germany",
+        "KML_NAME": "Benedictine Archabbey of St. Martin",
+        "KML_DESCRIPTION": null,
+        "KML_STYLE": "#icon-1899-0288D1-nodesc",
+        "QUELLE": "KML"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0008",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9588301,
+          48.0438335
+        ]
+      },
+      "properties": {
+        "KATEGORIE": "Ort",
+        "OBJECTID": null,
+        "BEZEICHNUNG": "Aussichtspunkt am Soldatenfriedhof",
+        "BEZIRK": "",
+        "STRASSE": "",
+        "ONR": "",
+        "ADRESSE": "",
+        "TELEFON": "",
+        "FAX": "",
+        "EMAIL": "",
+        "WEBLINK1": "",
+        "SE_ANNO_CAD_DATA": null,
+        "ORT": "Beuron",
+        "LAND": "Germany",
+        "KML_NAME": "Aussichtspunkt am Soldatenfriedhof",
+        "KML_DESCRIPTION": null,
+        "KML_STYLE": "#icon-1899-0288D1-nodesc",
+        "QUELLE": "KML"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0009",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.87242119999996,
+          51.1026762
+        ]
+      },
+      "properties": {
+        "KATEGORIE": "Gedenkort",
+        "OBJECTID": null,
+        "BEZEICHNUNG": "War Memorial",
+        "BEZIRK": "",
+        "STRASSE": "",
+        "ONR": "",
+        "ADRESSE": "",
+        "TELEFON": "",
+        "FAX": "",
+        "EMAIL": "",
+        "WEBLINK1": "",
+        "SE_ANNO_CAD_DATA": null,
+        "ORT": "Echt",
+        "LAND": "Netherlands",
+        "KML_NAME": "War Memorial",
+        "KML_DESCRIPTION": "War Memorial at Echt Town Hall (Gemeente Echt-Susteren).",
+        "KML_STYLE": "#icon-1899-0288D1",
+        "QUELLE": "KML"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0010",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.86682529999996,
+          51.1025461
+        ]
+      },
+      "properties": {
+        "KATEGORIE": "Ort",
+        "OBJECTID": null,
+        "BEZEICHNUNG": "Site of Arrest",
+        "BEZIRK": "",
+        "STRASSE": "",
+        "ONR": "",
+        "ADRESSE": "",
+        "TELEFON": "",
+        "FAX": "",
+        "EMAIL": "",
+        "WEBLINK1": "",
+        "SE_ANNO_CAD_DATA": null,
+        "ORT": "Echt",
+        "LAND": "Netherlands",
+        "KML_NAME": "Site of Arrest",
+        "KML_DESCRIPTION": "Peijerstraat 16",
+        "KML_STYLE": "#icon-1899-0288D1",
+        "QUELLE": "KML"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0011",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8663143,
+          51.1036643
+        ]
       },
       "properties": {
         "KATEGORIE": "Kloster",
@@ -199,10 +344,788 @@
     },
     {
       "type": "Feature",
-      "id": "0008",
+      "id": "0012",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.0511782, 51.1214923]
+        "coordinates": [
+          5.86705729999994,
+          51.1071302
+        ]
+      },
+      "properties": {
+        "KATEGORIE": "Kirche",
+        "OBJECTID": null,
+        "BEZEICHNUNG": "Saint Landricus Church",
+        "BEZIRK": "",
+        "STRASSE": "",
+        "ONR": "",
+        "ADRESSE": "",
+        "TELEFON": "",
+        "FAX": "",
+        "EMAIL": "",
+        "WEBLINK1": "",
+        "SE_ANNO_CAD_DATA": null,
+        "ORT": "Echt",
+        "LAND": "Netherlands",
+        "KML_NAME": "Saint Landricus Church",
+        "KML_DESCRIPTION": null,
+        "KML_STYLE": "#icon-1899-0288D1-nodesc",
+        "QUELLE": "KML"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0013",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.86722669999995,
+          51.1095378
+        ]
+      },
+      "properties": {
+        "KATEGORIE": "Ort",
+        "OBJECTID": null,
+        "BEZEICHNUNG": "Stichting dr. Edith Stein",
+        "BEZIRK": "",
+        "STRASSE": "",
+        "ONR": "",
+        "ADRESSE": "",
+        "TELEFON": "",
+        "FAX": "",
+        "EMAIL": "",
+        "WEBLINK1": "",
+        "SE_ANNO_CAD_DATA": null,
+        "ORT": "Echt",
+        "LAND": "Netherlands",
+        "KML_NAME": "Stichting dr. Edith Stein",
+        "KML_DESCRIPTION": null,
+        "KML_STYLE": "#icon-1899-0288D1-nodesc",
+        "QUELLE": "KML"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0014",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.94027359999995,
+          51.532955
+        ]
+      },
+      "properties": {
+        "KATEGORIE": "Haus",
+        "OBJECTID": null,
+        "BEZEICHNUNG": "Stein's House",
+        "BEZIRK": "",
+        "STRASSE": "",
+        "ONR": "",
+        "ADRESSE": "",
+        "TELEFON": "",
+        "FAX": "",
+        "EMAIL": "",
+        "WEBLINK1": "",
+        "SE_ANNO_CAD_DATA": null,
+        "ORT": "Göttingen",
+        "LAND": "Germany",
+        "KML_NAME": "Stein's House",
+        "KML_DESCRIPTION": "Lange-Geismar-Straße 2",
+        "KML_STYLE": "#icon-1899-0288D1",
+        "QUELLE": "KML"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0015",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.94111650000002,
+          51.5336311
+        ]
+      },
+      "properties": {
+        "KATEGORIE": "Kirche",
+        "OBJECTID": null,
+        "BEZEICHNUNG": "St.-Albani-Kirche",
+        "BEZIRK": "",
+        "STRASSE": "",
+        "ONR": "",
+        "ADRESSE": "",
+        "TELEFON": "",
+        "FAX": "",
+        "EMAIL": "",
+        "WEBLINK1": "",
+        "SE_ANNO_CAD_DATA": null,
+        "ORT": "Göttingen",
+        "LAND": "Germany",
+        "KML_NAME": "St.-Albani-Kirche",
+        "KML_DESCRIPTION": null,
+        "KML_STYLE": "#icon-1899-0288D1-nodesc",
+        "QUELLE": "KML"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0016",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.93516539999996,
+          51.5327103
+        ]
+      },
+      "properties": {
+        "KATEGORIE": "Ort",
+        "OBJECTID": null,
+        "BEZEICHNUNG": "Gänseliesel",
+        "BEZIRK": "",
+        "STRASSE": "",
+        "ONR": "",
+        "ADRESSE": "",
+        "TELEFON": "",
+        "FAX": "",
+        "EMAIL": "",
+        "WEBLINK1": "",
+        "SE_ANNO_CAD_DATA": null,
+        "ORT": "Göttingen",
+        "LAND": "Germany",
+        "KML_NAME": "Gänseliesel",
+        "KML_DESCRIPTION": null,
+        "KML_STYLE": "#icon-1899-0288D1-nodesc",
+        "QUELLE": "KML"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0017",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.93482710000001,
+          51.532702
+        ]
+      },
+      "properties": {
+        "KATEGORIE": "Ort",
+        "OBJECTID": null,
+        "BEZEICHNUNG": "Altes Rathaus",
+        "BEZIRK": "",
+        "STRASSE": "",
+        "ONR": "",
+        "ADRESSE": "",
+        "TELEFON": "",
+        "FAX": "",
+        "EMAIL": "",
+        "WEBLINK1": "",
+        "SE_ANNO_CAD_DATA": null,
+        "ORT": "Göttingen",
+        "LAND": "Germany",
+        "KML_NAME": "Altes Rathaus",
+        "KML_DESCRIPTION": null,
+        "KML_STYLE": "#icon-1899-0288D1-nodesc",
+        "QUELLE": "KML"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0018",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.93517599999996,
+          51.5341419
+        ]
+      },
+      "properties": {
+        "KATEGORIE": "Ort",
+        "OBJECTID": null,
+        "BEZEICHNUNG": "Cron & Lanz",
+        "BEZIRK": "",
+        "STRASSE": "",
+        "ONR": "",
+        "ADRESSE": "",
+        "TELEFON": "",
+        "FAX": "",
+        "EMAIL": "",
+        "WEBLINK1": "",
+        "SE_ANNO_CAD_DATA": null,
+        "ORT": "Göttingen",
+        "LAND": "Germany",
+        "KML_NAME": "Cron & Lanz",
+        "KML_DESCRIPTION": null,
+        "KML_STYLE": "#icon-1899-0288D1-nodesc",
+        "QUELLE": "KML"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0019",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9338467,
+          51.5330327
+        ]
+      },
+      "properties": {
+        "KATEGORIE": "Kirche",
+        "OBJECTID": null,
+        "BEZEICHNUNG": "St. John's Church",
+        "BEZIRK": "",
+        "STRASSE": "",
+        "ONR": "",
+        "ADRESSE": "",
+        "TELEFON": "",
+        "FAX": "",
+        "EMAIL": "",
+        "WEBLINK1": "",
+        "SE_ANNO_CAD_DATA": null,
+        "ORT": "Göttingen",
+        "LAND": "Germany",
+        "KML_NAME": "St. John's Church",
+        "KML_DESCRIPTION": null,
+        "KML_STYLE": "#icon-1899-0288D1-nodesc",
+        "QUELLE": "KML"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0020",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.93574179999996,
+          51.5350669
+        ]
+      },
+      "properties": {
+        "KATEGORIE": "Kirche",
+        "OBJECTID": null,
+        "BEZEICHNUNG": "Ev. - Lutheran Church of St. Jacob.",
+        "BEZIRK": "",
+        "STRASSE": "",
+        "ONR": "",
+        "ADRESSE": "",
+        "TELEFON": "",
+        "FAX": "",
+        "EMAIL": "",
+        "WEBLINK1": "",
+        "SE_ANNO_CAD_DATA": null,
+        "ORT": "Göttingen",
+        "LAND": "Germany",
+        "KML_NAME": "Ev. - Lutheran Church of St. Jacob.",
+        "KML_DESCRIPTION": null,
+        "KML_STYLE": "#icon-1899-0288D1-nodesc",
+        "QUELLE": "KML"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0021",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.93478040000002,
+          51.5381149
+        ]
+      },
+      "properties": {
+        "KATEGORIE": "Ort",
+        "OBJECTID": null,
+        "BEZEICHNUNG": "Audi(torium)",
+        "BEZIRK": "",
+        "STRASSE": "",
+        "ONR": "",
+        "ADRESSE": "",
+        "TELEFON": "",
+        "FAX": "",
+        "EMAIL": "",
+        "WEBLINK1": "",
+        "SE_ANNO_CAD_DATA": null,
+        "ORT": "Göttingen",
+        "LAND": "Germany",
+        "KML_NAME": "Audi(torium)",
+        "KML_DESCRIPTION": null,
+        "KML_STYLE": "#icon-1899-0288D1-nodesc",
+        "QUELLE": "KML"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0022",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.95295099999998,
+          50.9267686
+        ]
+      },
+      "properties": {
+        "KATEGORIE": "Kloster",
+        "OBJECTID": null,
+        "BEZEICHNUNG": "Karmelitinen Kloster \"Maria vom Frieden\"",
+        "BEZIRK": "",
+        "STRASSE": "",
+        "ONR": "",
+        "ADRESSE": "",
+        "TELEFON": "",
+        "FAX": "",
+        "EMAIL": "",
+        "WEBLINK1": "",
+        "SE_ANNO_CAD_DATA": null,
+        "ORT": "Köln (Cologne)",
+        "LAND": "Germany",
+        "KML_NAME": "Karmelitinen Kloster \"Maria vom Frieden\"",
+        "KML_DESCRIPTION": null,
+        "KML_STYLE": "#icon-1899-0288D1-nodesc",
+        "QUELLE": "KML"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0023",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.631485,
+          51.9572519
+        ]
+      },
+      "properties": {
+        "KATEGORIE": "Ort",
+        "OBJECTID": null,
+        "BEZEICHNUNG": "Former Insitut",
+        "BEZIRK": "",
+        "STRASSE": "",
+        "ONR": "",
+        "ADRESSE": "",
+        "TELEFON": "",
+        "FAX": "",
+        "EMAIL": "",
+        "WEBLINK1": "",
+        "SE_ANNO_CAD_DATA": null,
+        "ORT": "Münster",
+        "LAND": "Germany",
+        "KML_NAME": "Former Insitut",
+        "KML_DESCRIPTION": "Engelstraße 25",
+        "KML_STYLE": "#icon-1899-0288D1",
+        "QUELLE": "KML"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0024",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62284380000006,
+          51.9641852
+        ]
+      },
+      "properties": {
+        "KATEGORIE": "Kirche",
+        "OBJECTID": null,
+        "BEZEICHNUNG": "Überwasserkirche",
+        "BEZIRK": "",
+        "STRASSE": "",
+        "ONR": "",
+        "ADRESSE": "",
+        "TELEFON": "",
+        "FAX": "",
+        "EMAIL": "",
+        "WEBLINK1": "",
+        "SE_ANNO_CAD_DATA": null,
+        "ORT": "Münster",
+        "LAND": "Germany",
+        "KML_NAME": "Überwasserkirche",
+        "KML_DESCRIPTION": null,
+        "KML_STYLE": "#icon-1899-0288D1-nodesc",
+        "QUELLE": "KML"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0025",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62130999999999,
+          51.96365
+        ]
+      },
+      "properties": {
+        "KATEGORIE": "Ort",
+        "OBJECTID": null,
+        "BEZEICHNUNG": "Collegium Marianum",
+        "BEZIRK": "",
+        "STRASSE": "",
+        "ONR": "",
+        "ADRESSE": "",
+        "TELEFON": "",
+        "FAX": "",
+        "EMAIL": "",
+        "WEBLINK1": "",
+        "SE_ANNO_CAD_DATA": null,
+        "ORT": "Münster",
+        "LAND": "Germany",
+        "KML_NAME": "Collegium Marianum",
+        "KML_DESCRIPTION": null,
+        "KML_STYLE": "#icon-1899-0288D1-nodesc",
+        "QUELLE": "KML"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62577160000001,
+          51.9629806
+        ]
+      },
+      "properties": {
+        "KATEGORIE": "Kirche",
+        "OBJECTID": null,
+        "BEZEICHNUNG": "St.-Paulus-Dom",
+        "BEZIRK": "",
+        "STRASSE": "",
+        "ONR": "",
+        "ADRESSE": "",
+        "TELEFON": "",
+        "FAX": "",
+        "EMAIL": "",
+        "WEBLINK1": "",
+        "SE_ANNO_CAD_DATA": null,
+        "ORT": "Münster",
+        "LAND": "Germany",
+        "KML_NAME": "St.-Paulus-Dom",
+        "KML_DESCRIPTION": null,
+        "KML_STYLE": "#icon-1899-0288D1-nodesc",
+        "QUELLE": "KML"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0027",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.60222299999998,
+          51.956248
+        ]
+      },
+      "properties": {
+        "KATEGORIE": "Haus",
+        "OBJECTID": null,
+        "BEZEICHNUNG": "Akademie Franz Hitze Haus",
+        "BEZIRK": "",
+        "STRASSE": "",
+        "ONR": "",
+        "ADRESSE": "",
+        "TELEFON": "",
+        "FAX": "",
+        "EMAIL": "",
+        "WEBLINK1": "",
+        "SE_ANNO_CAD_DATA": null,
+        "ORT": "Münster",
+        "LAND": "Germany",
+        "KML_NAME": "Akademie Franz Hitze Haus",
+        "KML_DESCRIPTION": null,
+        "KML_STYLE": "#icon-1899-0288D1-nodesc",
+        "QUELLE": "KML"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0028",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.44223149999993,
+          49.3171989
+        ]
+      },
+      "properties": {
+        "KATEGORIE": "Kirche",
+        "OBJECTID": null,
+        "BEZEICHNUNG": "Speyer Cathedral",
+        "BEZIRK": "",
+        "STRASSE": "",
+        "ONR": "",
+        "ADRESSE": "",
+        "TELEFON": "",
+        "FAX": "",
+        "EMAIL": "",
+        "WEBLINK1": "",
+        "SE_ANNO_CAD_DATA": null,
+        "ORT": "Speyer",
+        "LAND": "Germany",
+        "KML_NAME": "Speyer Cathedral",
+        "KML_DESCRIPTION": null,
+        "KML_STYLE": "#icon-1899-0288D1-nodesc",
+        "QUELLE": "KML"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0029",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.44269439999994,
+          49.3199248
+        ]
+      },
+      "properties": {
+        "KATEGORIE": "Kirche",
+        "OBJECTID": null,
+        "BEZEICHNUNG": "Klosterkirche St. Magdalena",
+        "BEZIRK": "",
+        "STRASSE": "",
+        "ONR": "",
+        "ADRESSE": "",
+        "TELEFON": "",
+        "FAX": "",
+        "EMAIL": "",
+        "WEBLINK1": "",
+        "SE_ANNO_CAD_DATA": null,
+        "ORT": "Speyer",
+        "LAND": "Germany",
+        "KML_NAME": "Klosterkirche St. Magdalena",
+        "KML_DESCRIPTION": null,
+        "KML_STYLE": "#icon-1899-0288D1-nodesc",
+        "QUELLE": "KML"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0030",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.85491000000002,
+          47.96835
+        ]
+      },
+      "properties": {
+        "KATEGORIE": "Ort",
+        "OBJECTID": null,
+        "BEZEICHNUNG": "Sisters of the Holy Lioba",
+        "BEZIRK": "",
+        "STRASSE": "",
+        "ONR": "",
+        "ADRESSE": "",
+        "TELEFON": "",
+        "FAX": "",
+        "EMAIL": "",
+        "WEBLINK1": "",
+        "SE_ANNO_CAD_DATA": null,
+        "ORT": "Freiburg-im-Breisgau",
+        "LAND": "Germany",
+        "KML_NAME": "Sisters of the Holy Lioba",
+        "KML_DESCRIPTION": null,
+        "KML_STYLE": "#icon-1899-0288D1-nodesc",
+        "QUELLE": "KML"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0031",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.85278930000004,
+          47.9955807
+        ]
+      },
+      "properties": {
+        "KATEGORIE": "Ort",
+        "OBJECTID": null,
+        "BEZEICHNUNG": "Freiburger Münster",
+        "BEZIRK": "",
+        "STRASSE": "",
+        "ONR": "",
+        "ADRESSE": "",
+        "TELEFON": "",
+        "FAX": "",
+        "EMAIL": "",
+        "WEBLINK1": "",
+        "SE_ANNO_CAD_DATA": null,
+        "ORT": "Freiburg-im-Breisgau",
+        "LAND": "Germany",
+        "KML_NAME": "Freiburger Münster",
+        "KML_DESCRIPTION": null,
+        "KML_STYLE": "#icon-1899-0288D1-nodesc",
+        "QUELLE": "KML"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0032",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7224922,
+          49.5505446
+        ]
+      },
+      "properties": {
+        "KATEGORIE": "Ort",
+        "OBJECTID": null,
+        "BEZEICHNUNG": "Síň odboje",
+        "BEZIRK": "",
+        "STRASSE": "",
+        "ONR": "",
+        "ADRESSE": "",
+        "TELEFON": "",
+        "FAX": "",
+        "EMAIL": "",
+        "WEBLINK1": "",
+        "SE_ANNO_CAD_DATA": null,
+        "ORT": "Hranice",
+        "LAND": "Czech Republic",
+        "KML_NAME": "Síň odboje",
+        "KML_DESCRIPTION": null,
+        "KML_STYLE": "#icon-1899-0288D1-nodesc",
+        "QUELLE": "KML"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0033",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.725535,
+          49.5501372
+        ]
+      },
+      "properties": {
+        "KATEGORIE": "Ort",
+        "OBJECTID": null,
+        "BEZEICHNUNG": "Kaple Svaté Barbory",
+        "BEZIRK": "",
+        "STRASSE": "",
+        "ONR": "",
+        "ADRESSE": "",
+        "TELEFON": "",
+        "FAX": "",
+        "EMAIL": "",
+        "WEBLINK1": "",
+        "SE_ANNO_CAD_DATA": null,
+        "ORT": "Hranice",
+        "LAND": "Czech Republic",
+        "KML_NAME": "Kaple Svaté Barbory",
+        "KML_DESCRIPTION": null,
+        "KML_STYLE": "#icon-1899-0288D1-nodesc",
+        "QUELLE": "KML"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0034",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7347923,
+          49.5500366
+        ]
+      },
+      "properties": {
+        "KATEGORIE": "Ort",
+        "OBJECTID": null,
+        "BEZEICHNUNG": "City Office",
+        "BEZIRK": "",
+        "STRASSE": "",
+        "ONR": "",
+        "ADRESSE": "",
+        "TELEFON": "",
+        "FAX": "",
+        "EMAIL": "",
+        "WEBLINK1": "",
+        "SE_ANNO_CAD_DATA": null,
+        "ORT": "Hranice",
+        "LAND": "Czech Republic",
+        "KML_NAME": "City Office",
+        "KML_DESCRIPTION": null,
+        "KML_STYLE": "#icon-1899-0288D1-nodesc",
+        "QUELLE": "KML"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0035",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7338204,
+          49.5488101
+        ]
+      },
+      "properties": {
+        "KATEGORIE": "Synagoge",
+        "OBJECTID": null,
+        "BEZEICHNUNG": "Synagoga Hranice",
+        "BEZIRK": "",
+        "STRASSE": "",
+        "ONR": "",
+        "ADRESSE": "",
+        "TELEFON": "",
+        "FAX": "",
+        "EMAIL": "",
+        "WEBLINK1": "",
+        "SE_ANNO_CAD_DATA": null,
+        "ORT": "Hranice",
+        "LAND": "Czech Republic",
+        "KML_NAME": "Synagoga Hranice",
+        "KML_DESCRIPTION": null,
+        "KML_STYLE": "#icon-1899-0288D1-nodesc",
+        "QUELLE": "KML"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0036",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7347299,
+          49.5477032
+        ]
+      },
+      "properties": {
+        "KATEGORIE": "Kirche",
+        "OBJECTID": null,
+        "BEZEICHNUNG": "Church of the Beheading of St. Jana Křtitele",
+        "BEZIRK": "",
+        "STRASSE": "",
+        "ONR": "",
+        "ADRESSE": "",
+        "TELEFON": "",
+        "FAX": "",
+        "EMAIL": "",
+        "WEBLINK1": "",
+        "SE_ANNO_CAD_DATA": null,
+        "ORT": "Hranice",
+        "LAND": "Czech Republic",
+        "KML_NAME": "Church of the Beheading of St. Jana Křtitele",
+        "KML_DESCRIPTION": null,
+        "KML_STYLE": "#icon-1899-0288D1-nodesc",
+        "QUELLE": "KML"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0037",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0511782,
+          51.1214923
+        ]
       },
       "properties": {
         "KATEGORIE": "Ort",
@@ -224,6 +1147,103 @@
         "KML_STYLE": "#icon-1899-0288D1-nodesc",
         "QUELLE": "KML"
       }
+    },
+    {
+      "type": "Feature",
+      "id": "0038",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0510542,
+          51.1208946
+        ]
+      },
+      "properties": {
+        "KATEGORIE": "Kirche",
+        "OBJECTID": null,
+        "BEZEICHNUNG": "St. Michael the Archangel Church",
+        "BEZIRK": "",
+        "STRASSE": "",
+        "ONR": "",
+        "ADRESSE": "",
+        "TELEFON": "",
+        "FAX": "",
+        "EMAIL": "",
+        "WEBLINK1": "",
+        "SE_ANNO_CAD_DATA": null,
+        "ORT": "Wrocław",
+        "LAND": "Poland",
+        "KML_NAME": "St. Michael the Archangel Church",
+        "KML_DESCRIPTION": null,
+        "KML_STYLE": "#icon-1899-0288D1-nodesc",
+        "QUELLE": "KML"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0039",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.050298,
+          51.12034
+        ]
+      },
+      "properties": {
+        "KATEGORIE": "Schule",
+        "OBJECTID": null,
+        "BEZEICHNUNG": "Private Salesian High School them. St. Edith Stein",
+        "BEZIRK": "",
+        "STRASSE": "",
+        "ONR": "",
+        "ADRESSE": "",
+        "TELEFON": "",
+        "FAX": "",
+        "EMAIL": "",
+        "WEBLINK1": "",
+        "SE_ANNO_CAD_DATA": null,
+        "ORT": "Wrocław",
+        "LAND": "Poland",
+        "KML_NAME": "Private Salesian High School them. St. Edith Stein",
+        "KML_DESCRIPTION": null,
+        "KML_STYLE": "#icon-1899-0288D1-nodesc",
+        "QUELLE": "KML"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0040",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.049805,
+          51.123258
+        ]
+      },
+      "properties": {
+        "KATEGORIE": "Ort",
+        "OBJECTID": null,
+        "BEZEICHNUNG": "Society them. E. Stein",
+        "BEZIRK": "",
+        "STRASSE": "",
+        "ONR": "",
+        "ADRESSE": "",
+        "TELEFON": "",
+        "FAX": "",
+        "EMAIL": "",
+        "WEBLINK1": "",
+        "SE_ANNO_CAD_DATA": null,
+        "ORT": "Wrocław",
+        "LAND": "Poland",
+        "KML_NAME": "Society them. E. Stein",
+        "KML_DESCRIPTION": null,
+        "KML_STYLE": "#icon-1899-0288D1-nodesc",
+        "QUELLE": "KML"
+      }
     }
-  ]
+  ],
+  "totalFeatures": 40,
+  "numberMatched": 40,
+  "numberReturned": 40,
+  "timeStamp": ""
 }
