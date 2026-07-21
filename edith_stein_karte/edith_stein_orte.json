@@ -1240,6 +1240,36 @@
         "KML_STYLE": "#icon-1899-0288D1-nodesc",
         "QUELLE": "KML"
       }
+    },
+    {
+      "type": "Feature",
+      "id": "0041",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+16.50021712570588, 48.224783743214495
+        ]
+      },
+      "properties": {
+        "KATEGORIE": "Kapelle",
+        "OBJECTID": null,
+        "BEZEICHNUNG": "Seelsorgezentrum St. Edith Stein (Pfarre Aspern)",
+        "BEZIRK": 22,
+        "STRASSE": "Maria-Tusch-Straße",
+        "ONR": "",
+        "ADRESSE": "Maria-Tusch-Straße 11, 1220 Wien",
+        "TELEFON": "01282230611",
+        "FAX": "",
+        "EMAIL": "",
+        "WEBLINK1": "https://aspern.at/gemeinde/stedith/",
+        "SE_ANNO_CAD_DATA": null,
+        "ORT": "Wien",
+        "LAND": "Österreich",
+        "KML_NAME": "Seelsorgezentrum St. Edith Stein",
+        "KML_DESCRIPTION": null,
+        "KML_STYLE": "",
+        "QUELLE": "Google"
+      }
     }
   ],
   "totalFeatures": 40,
