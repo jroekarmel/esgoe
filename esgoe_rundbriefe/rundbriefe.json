@@ -25,7 +25,7 @@
   {
     "issue": "30. Ausgabe",
     "url": "https://www.edith-stein-gesellschaft.at/Media/Files/30.-Ausgabe",
-    "direct-url": "",
+    "direct-url": "https://www.edith-stein-gesellschaft.at/content/download/20843/103955/version/1/file/2025_nr30_ESGOE_Rundbrief_klein.pdf",
     "articles": [
       {
         "title": "Das Projekt: „Edith Stein – Stern Europas“ Interview mit Dr. Marek Kosendiak",
@@ -40,7 +40,7 @@
   {
     "issue": "29. Ausgabe",
     "url": "https://www.edith-stein-gesellschaft.at/Media/Contents/Edith-Stein-Gesellschaft-Oesterreich/ESGOe-Rundbrief/29.-Ausgabe",
-    "direct-url": "",
+    "direct-url": "https://www.edith-stein-gesellschaft.at/content/download/20640/102808/version/1/file/2025_nr29_ESGOE+Rundbrief+Druck-compressed.pdf",
     "articles": [
       {
         "title": "Die Karwoche als Weg des Menschen",
@@ -63,7 +63,7 @@
   {
     "issue": "28. Ausgabe",
     "url": "https://www.edith-stein-gesellschaft.at/Media/Files/28.-Ausgabe",
-    "direct-url": "",
+    "direct-url": "https://www.edith-stein-gesellschaft.at/content/download/20638/102790/version/1/file/2024_nr28_ESGOE+Rundbrief+Druck.pdf",
     "articles": [
       {
         "title": "Das Weihnachsgeheimnis: Menschenwerdung und Menschheit",
@@ -82,7 +82,7 @@
   {
     "issue": "27. Ausgabe",
     "url": "https://www.edith-stein-gesellschaft.at/Media/Contents/Edith-Stein-Gesellschaft-Oesterreich/ESGOe-Rundbrief/27.-Ausgabe",
-    "direct-url": "",
+    "direct-url": "https://www.edith-stein-gesellschaft.at/content/download/20637/102781/version/1/file/2024_nr27_ESGOE+Rundbrief_korr-compressed.pdf",
     "articles": [
       {
         "title": "„Mensch sein - Person werden\" Ein persönliches Fazit zur Sommerakademie 2024 in Rom",
@@ -124,157 +124,204 @@
   {
     "issue": "25. Ausgabe",
     "url": "https://www.edith-stein-gesellschaft.at/Media/Files/25.-Ausgabe",
-    "direct-url": "",
-    "articles": []
+    "direct-url": "https://www.edith-stein-gesellschaft.at/content/download/21423/107150/version/1/file/2023+25+Rundbrief.pdf",
+    "articles": [        
+        {
+            "title": "Advent: Hymnus zur Laudes im Advent",
+            "page": 1
+        },
+              {
+            "title": "Rückblick auf die Sommerakademie 2023 in Rom",
+            "page": 2
+        },
+        {
+            "title": "ESGÖ-Jahrestagung im Oktober 2023",
+            "page": 3
+        },
+        {
+            "title": "Die Dunkelheit kennt keinen Namen",
+            "page": 4
+        }
+      ]
   },
   {
     "issue": "24. Ausgabe",
     "url": "https://www.edith-stein-gesellschaft.at/Media/Files/24.-Ausgabe",
-    "direct-url": "",
-    "articles": []
+    "direct-url": "https://www.edith-stein-gesellschaft.at/content/download/19589/97090/version/2/file/24.+Ausgabe.pdf",
+    "articles": [
+      {
+        "title": "Friedensgebet",
+        "page": 1
+      },
+      {
+        "title": "„Losing by Winning“ — Ausstellung zu Edith Stein im Stift Stams",
+        "page":2
+      },
+      {
+        "title": "Edith Stein in Wien",
+        "page": 3
+      },
+      {
+        "title": "Neuentdeckes Foto",
+        "page": 4
+      }
+    ]
   },
   {
     "issue": "23. Ausgabe",
     "url": "https://www.edith-stein-gesellschaft.at/Media/Files/23.-Ausgabe",
-    "direct-url": "",
-    "articles": []
+    "direct-url": "https://www.edith-stein-gesellschaft.at/content/download/19103/94864/version/2/file/Rundbrief+23.pdf",
+    "articles": [
+      {
+        "title": "Der Herr will zu dir kommen",
+        "page": 1
+      },
+      {
+        "title": "Ich will Dich sehen, wie Du bist",
+        "page": 1
+      },
+      {
+        "title": "Edith Stein - neue Kirchenlehrerin?",
+        "page": 4
+      }
+    ]
   },
   {
     "issue": "22. Ausgabe",
     "url": "https://www.edith-stein-gesellschaft.at/Media/Images/22.-Ausgabe-Seite-1",
-    "direct-url": "",
+    "direct-url": "https://www.edith-stein-gesellschaft.at/content/download/18414/91361/version/1/file/2021_nr22_ESGO_Rundbrief.pdf",
     "articles": []
   },
   {
     "issue": "21. Ausgabe",
     "url": "https://www.edith-stein-gesellschaft.at/Media/Files/Ausgabe-Nr.-21-ESGOe-Rundbrief",
-    "direct-url": "",
+    "direct-url": "https://www.edith-stein-gesellschaft.at/content/download/18055/89764/version/1/file/ESGOERundbriefNr21.pdf",
     "articles": []
   },
   {
     "issue": "20. Ausgabe",
     "url": "https://www.edith-stein-gesellschaft.at/Media/Images/RundbriefNr.20",
-    "direct-url": "",
+    "direct-url": "https://www.edith-stein-gesellschaft.at/content/download/17838/88697/version/1/file/2020_nr20_ESG%C3%96+Rundbrief_lay.pdf",
     "articles": []
   },
   {
     "issue": "19. Ausgabe",
     "url": "https://www.edith-stein-gesellschaft.at/Medien-Downloads/Downloads/Rundbriefe-des-Provinzials/Ausgabe-Nr.-19-ESGOe-Rundbrief",
-    "direct-url": "",
+    "direct-url": "https://www.edith-stein-gesellschaft.at/content/download/17575/87535/version/5/file/Rundbrief.pdf",
     "articles": []
   },
   {
     "issue": "18. Ausgabe",
     "url": "https://www.edith-stein-gesellschaft.at/Media/Contents/Edith-Stein-Gesellschaft-Oesterreich/ESGOe-Rundbrief/Ausgabe-Nr.-18-ESGOe-Rundbrief",
-    "direct-url": "",
+    "direct-url": "https://www.edith-stein-gesellschaft.at/content/download/17450/86998/version/1/file/2020_nr18_ESG%C3%96+Rundbrie_LAY.pdf",
     "articles": []
   },
   {
     "issue": "17. Ausgabe",
     "url": "https://www.edith-stein-gesellschaft.at/Media/Contents/Edith-Stein-Gesellschaft-Oesterreich/ESGOe-Rundbrief/Ausgabe-Nr.-17-ESGOe-Rundbrief",
-    "direct-url": "",
+    "direct-url": "https://www.edith-stein-gesellschaft.at/content/download/16764/83485/version/1/file/2019_nr16_ESG%C3%96+Rundbrief.pdf",
     "articles": []
   },
   {
     "issue": "16. Ausgabe",
     "url": "https://www.edith-stein-gesellschaft.at/Media/Files/Ausgabe-Nr.-16-ESGOe-Rundbrief",
-    "direct-url": "",
+    "direct-url": "https://www.edith-stein-gesellschaft.at/content/download/16764/83485/version/1/file/2019_nr16_ESG%C3%96+Rundbrief.pdf",
     "articles": []
   },
   {
     "issue": "15. Ausgabe",
     "url": "https://www.edith-stein-gesellschaft.at/Media/Images/Rundbrief15",
-    "direct-url": "",
+    "direct-url": "https://www.edith-stein-gesellschaft.at/content/download/16524/82219/version/1/file/2019+15+ESG%C3%96+Rundbrief_korr_lay.pdf",
     "articles": []
   },
   {
     "issue": "14. Ausgabe",
     "url": "https://www.edith-stein-gesellschaft.at/Media/Files/Ausgabe-Nr.-14-ESGOe-Rundbrief",
-    "direct-url": "",
+    "direct-url": "https://www.edith-stein-gesellschaft.at/content/download/16294/80967/version/1/file/2018_nr14_ESG%C3%96+Rundbrief.pdf",
     "articles": []
   },
   {
     "issue": "13. Ausgabe",
-    "url": "https://www.edith-stein-gesellschaft.at/Media/Images/Rundbrief13",
-    "direct-url": "",
+    "url": "https://www.edith-stein-gesellschaft.at/Media/Files/Ausgabe-Nr.-13-ESGOe-Rundbrief",
+    "direct-url": "https://www.edith-stein-gesellschaft.at/content/download/16171/80534/version/2/file/2018_nr13_ESG%C3%96+Rundbrief.pdf",
     "articles": []
   },
   {
     "issue": "12. Ausgabe",
     "url": "https://www.edith-stein-gesellschaft.at/Media/Files/Ausgabe-Nr.-12-ESGOe-Rundbrief",
-    "direct-url": "",
+    "direct-url": "https://www.edith-stein-gesellschaft.at/content/download/15427/77669/version/1/file/2018_nr12_ESG%C3%96+Rundbrief_korr.pdf",
     "articles": []
   },
   {
     "issue": "11. Ausgabe",
     "url": "https://www.edith-stein-gesellschaft.at/Media/Files/Ausgabe-Nr.-11-ESGOe-Rundbrief",
-    "direct-url": "",
+    "direct-url": "https://www.edith-stein-gesellschaft.at/content/download/15262/76967/version/1/file/2017_nr_11_ESG%C3%96+Rundbrief_lay.pdf",
     "articles": []
   },
   {
     "issue": "10. Ausgabe",
     "url": "https://www.edith-stein-gesellschaft.at/Media/Files/Ausgabe-Nr.-10-ESGOe-Rundbrief",
-    "direct-url": "",
+    "direct-url": "https://www.edith-stein-gesellschaft.at/content/download/14795/74803/version/1/file/201702+ESG%C3%96+Rundbrief+korr.pdf",
     "articles": []
   },
   {
     "issue": "9. Ausgabe",
     "url": "https://www.edith-stein-gesellschaft.at/Media/Files/Ausgabe-Nr.-9-ESGOe-Rundbrief",
-    "direct-url": "",
+    "direct-url": "https://www.edith-stein-gesellschaft.at/content/download/14792/74786/version/1/file/201602+ESG%C3%96+Rundbrief_inArbeit4.pdf",
     "articles": []
   },
   {
     "issue": "8. Ausgabe",
     "url": "https://www.edith-stein-gesellschaft.at/Media/Files/Ausgabe-Nr.-8-ESGOe-Rundbrief2",
-    "direct-url": "",
+    "direct-url": "https://www.edith-stein-gesellschaft.at/content/download/14749/74623/version/1/file/Ausgabe+Nr.+8+-+ESG%C3%96+Rundbrief.pdf",
     "articles": []
   },
   {
     "issue": "7. Ausgabe",
-    "url": "https://www.edith-stein-gesellschaft.at/Media/Images/Rundbrief7",
-    "direct-url": "",
+    "url": "https://www.edith-stein-gesellschaft.at/Media/Files/Ausgabe-Nr.-7-ESGOe-Rundbrief",
+    "direct-url": "https://www.edith-stein-gesellschaft.at/content/download/13760/70521/version/1/file/201601+ESG%C3%96+Rundbrief_Arbeitsausgabe2.pdf",
     "articles": []
   },
   {
     "issue": "Sondernummer",
-    "url": "https://www.edith-stein-gesellschaft.at/Media/Images/RundbriefSonder",
-    "direct-url": "",
+    "url": "https://www.edith-stein-gesellschaft.at/Media/Files/Rundbrief-Sondernummer",
+    "direct-url": "https://www.edith-stein-gesellschaft.at/content/download/13758/70510/version/1/file/201502+ESG%C3%96+Rundbrief_Sondernummer.pdf",
     "articles": []
   },
   {
     "issue": "6. Ausgabe",
     "url": "https://www.edith-stein-gesellschaft.at/Media/Images/Rundbrief6",
-    "direct-url": "",
+    "direct-url": "https://www.edith-stein-gesellschaft.at/content/download/12905/66303/version/1/file/Rundbrief6.pdf",
     "articles": []
   },
   {
     "issue": "5. Ausgabe",
     "url": "https://www.edith-stein-gesellschaft.at/Media/Images/Rundbrief5",
-    "direct-url": "",
+    "direct-url": "https://www.edith-stein-gesellschaft.at/content/download/12904/66294/version/1/file/Rundbrief5.pdf",
     "articles": []
   },
   {
     "issue": "4. Ausgabe",
     "url": "https://www.edith-stein-gesellschaft.at/Media/Images/Rundbrief4",
-    "direct-url": "",
+    "direct-url": "https://www.edith-stein-gesellschaft.at/content/download/12903/66285/version/1/file/Rundbrief4.pdf",
     "articles": []
   },
   {
     "issue": "3. Ausgabe",
     "url": "https://www.edith-stein-gesellschaft.at/Media/Images/Rundbrief3",
-    "direct-url": "",
+    "direct-url": "https://www.edith-stein-gesellschaft.at/content/download/10741/55226/version/1/file/ESG%C3%96+Rundbrief+Arbeitsausgabe5.pdf",
     "articles": []
   },
   {
     "issue": "2. Ausgabe",
-    "url": "https://www.edith-stein-gesellschaft.at/Media/Images/Rundbrief2",
-    "direct-url": "",
+    "url": "https://www.edith-stein-gesellschaft.at/Medien-Downloads/Downloads/ESGOe-Rundbrief/Ausgabe-Nr.-2-ESGOe-Rundbrief",
+    "direct-url": "https://www.edith-stein-gesellschaft.at/content/download/9945/51826/version/3/file/ESG%C3%96+Rundbrief_02_fertig_WWW.pdf",
     "articles": []
   },
   {
     "issue": "1. Ausgabe",
-    "url": "https://www.edith-stein-gesellschaft.at/Media/Images/Rundbrief1",
-    "direct-url": "",
+    "url": "https://www.edith-stein-gesellschaft.at/Medien-Downloads/Downloads/ESGOe-Rundbrief/Ausgabe-Nr.-1-ESGOe-Rundbrief",
+    "direct-url": "https://www.edith-stein-gesellschaft.at/content/download/8644/45920/version/1/file/ESG%C3%96+Rundbrief+kleine+Datei.pdf",
     "articles": []
   }
 ]
