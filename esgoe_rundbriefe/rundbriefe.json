@@ -342,19 +342,31 @@
     "direct-url": "https://www.edith-stein-gesellschaft.at/content/download/16764/83485/version/1/file/2019_nr16_ESG%C3%96+Rundbrief.pdf",
         "articles": [
       {
-        "title": "",
+        "title": "Kreuzeswissenschaft",
         "page": 1
       },
             {
-        "title": "",
+        "title": "Ein Edith Stein-Ort in Südtirol: Der Edith Stein-Weg in Eppan an der Weinstraße",
         "page": 2
       },
             {
-        "title": "",
+        "title": "Zum Gedenken an Dr. Regina Willi",
         "page": 3
       },
             {
-        "title": "",
+        "title": "Amédée von Lausanne (1110 − 1159) Die österliche Freude",
+        "page": 3
+      },
+                  {
+        "title": "Edith Stein Bibliothek",
+        "page": 4
+      },
+                  {
+        "title": "Neuer Internetauftritt der ESGÖ",
+        "page": 4
+      },
+                  {
+        "title": "Tagung der IASPES in Köln",
         "page": 4
       }
     ]
@@ -365,19 +377,23 @@
     "direct-url": "https://www.edith-stein-gesellschaft.at/content/download/16524/82219/version/1/file/2019+15+ESG%C3%96+Rundbrief_korr_lay.pdf",
         "articles": [
       {
-        "title": "",
+        "title": "Du, die Planke, die uns rettet aus dem Schiffbruch dieser Welt...: Das wechselvolle Schicksal des Kreuzesholzes",
         "page": 1
       },
             {
-        "title": "",
-        "page": 2
-      },
-            {
-        "title": "",
+        "title": "Buchtipps: Fundamente Edith Steins Klassik- und Psychoanalyserezeption; Beten bei Edith Stein als Gestalt kirchlicher Existenz",
         "page": 3
       },
             {
-        "title": "",
+        "title": "Das Edith-Stein-Haus in Salzburg",
+        "page": 3
+      },
+            {
+        "title": "Im Gedenken an Prof. Hans-Bernhard Wuermeling",
+        "page": 3
+      },
+      {
+        "title": "Die ESGÖ in Linz",
         "page": 4
       }
     ]
