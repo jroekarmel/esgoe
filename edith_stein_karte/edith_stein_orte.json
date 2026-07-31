@@ -27,7 +27,7 @@
         "ORT": "Eisenstadt",
         "LAND": "Austria",
         "KML_NAME": null,
-      "KML_DESCRIPTION": "Siehe: https://www.edith-stein-gesellschaft.at/content/download/12904/66294/version/1/file/Rundbrief5.pdf | Seite 2 | Artikel: Edith Stein in Österreich: Haus der Begegnung, Eisenstadt und: https://www.edith-stein-gesellschaft.at/content/download/12903/66285/version/1/file/Rundbrief4.pdf | Seite 2 | Artikel: Edith Stein in Österreich: Die Edith Stein-Kapelle im „Haus der Begegnung“ in Eisenstadt",
+      "KML_DESCRIPTION": "Siehe: <a href=\"https://www.edith-stein-gesellschaft.at/content/download/12904/66294/version/1/file/Rundbrief5.pdf\" target=\"_blank\">Link zum Rundbrief</a> | 5. Ausgabe: Seite 2 | Artikel: Edith Stein in Österreich: Haus der Begegnung, Eisenstadt und: <a href=\"https://www.edith-stein-gesellschaft.at/content/download/12903/66285/version/1/file/Rundbrief4.pdf\" target=\"_blank\">Link zum Rundbrief</a> | 4. Ausgabe: Seite 2 | Artikel: Edith Stein in Österreich: Die Edith Stein-Kapelle im „Haus der Begegnung“ in Eisenstadt",
         "KML_STYLE": null,
         "QUELLE": "Original JSON"
       }
@@ -1266,7 +1266,7 @@
         "ORT": "Wien",
         "LAND": "Österreich",
         "KML_NAME": "Seelsorgezentrum St. Edith Stein",
-        "KML_DESCRIPTION": "siehe https://www.edith-stein-gesellschaft.at/content/download/14791/74777/version/1/file/201602+ESG%C3%96+Rundbrief_fertig.pdf | Seite 2 | Artikel: Edith Stein in Österreich: Seelsorgezentrum St. Edith Stein",
+        "KML_DESCRIPTION": "siehe <a href=\"https://www.edith-stein-gesellschaft.at/content/download/14791/74777/version/1/file/201602+ESG%C3%96+Rundbrief_fertig.pdf\" target=\"_blank\">Link zum Rundbrief</a> | 8. Ausgabe: Seite 2 | Artikel: Edith Stein in Österreich: Seelsorgezentrum St. Edith Stein",
         "KML_STYLE": "",
         "QUELLE": "Google"
       }
@@ -1291,7 +1291,7 @@
       "ORT": "Salzburg",
       "LAND": "Österreich",
       "KML_NAME": "Edith-Stein-Haus",
-      "KML_DESCRIPTION": "Quelle: https://www.edith-stein-gesellschaft.at/content/download/16524/82219/version/1/file/2019+15+ESG%C3%96+Rundbrief_korr_lay.pdf | Seite 3 | Artikel: Das Edith-Stein-Haus in Salzburg",
+      "KML_DESCRIPTION": "Quelle: <a href=\"https://www.edith-stein-gesellschaft.at/content/download/16524/82219/version/1/file/2019+15+ESG%C3%96+Rundbrief_korr_lay.pdf\" target=\"_blank\">Link zum Rundbrief</a> | 15. Ausgabe: Seite 3 | Artikel: Das Edith-Stein-Haus in Salzburg",
       "KML_STYLE": "",
       "QUELLE": "JSON"
     }
@@ -1316,7 +1316,7 @@
       "ORT": "Wien",
       "LAND": "Austria",
       "KML_NAME": "Edith Stein Bibliothek",
-      "KML_DESCRIPTION": "Quelle: https://www.edith-stein-gesellschaft.at/content/download/16764/83485/version/1/file/2019_nr16_ESG%C3%96+Rundbrief.pdf | Seite 4 | Artikel: Edith Stein Bibliothek",
+      "KML_DESCRIPTION": "Quelle: <a href=\"https://www.edith-stein-gesellschaft.at/content/download/16764/83485/version/1/file/2019_nr16_ESG%C3%96+Rundbrief.pdf\" target=\"_blank\">Link zum Rundbrief</a> | 16. Ausgabe: Seite 4 | Artikel: Edith Stein Bibliothek",
       "KML_STYLE": "",
       "QUELLE": "JSON"
     }
@@ -1341,7 +1341,7 @@
       "ORT": "Wien",
       "LAND": "Österreich",
       "KML_NAME": "Edith Stein Straße",
-      "KML_DESCRIPTION": "Quelle: https://www.edith-stein-gesellschaft.at/content/download/16171/80534/version/2/file/2018_nr13_ESG%C3%96+Rundbrief.pdf | Seite 3 | Artikel: Edith Stein Straße in Wien",
+      "KML_DESCRIPTION": "Quelle: <a href=\"https://www.edith-stein-gesellschaft.at/content/download/16171/80534/version/2/file/2018_nr13_ESG%C3%96+Rundbrief.pdf\" target=\"_blank\">Link zum Rundbrief</a> | 13. Ausgabe: Seite 3 | Artikel: Edith Stein Straße in Wien",
       "KML_STYLE": "",
       "QUELLE": "JSON"
     }
@@ -1366,7 +1366,7 @@
       "ORT": "Wien",
       "LAND": "Österreich",
       "KML_NAME": "Stephansdom",
-      "KML_DESCRIPTION": "Quelle: https://www.edith-stein-gesellschaft.at/content/download/15427/77669/version/1/file/2018_nr12_ESG%C3%96+Rundbrief_korr.pdf | Seite 3 | Artikel: Der Stephansdom als neuer „Edith Stein-Ort“",
+      "KML_DESCRIPTION": "Quelle: <a href=\"https://www.edith-stein-gesellschaft.at/content/download/15427/77669/version/1/file/2018_nr12_ESG%C3%96+Rundbrief_korr.pdf\" target=\"_blank\">Link zum Rundbrief</a> | 12. Ausgabe: Seite 3 | Artikel: Der Stephansdom als neuer „Edith Stein-Ort“",
       "KML_STYLE": "",
       "QUELLE": "JSON"
     }
@@ -1391,7 +1391,7 @@
       "ORT": "Wien",
       "LAND": "Österreich",
       "KML_NAME": "Karmeliterkirche in Wien",
-      "KML_DESCRIPTION": "Quelle: https://www.edith-stein-gesellschaft.at/content/download/14795/74803/version/1/file/201702+ESG%C3%96+Rundbrief+korr.pdf | Seite 2 | Artikel: Die Karmeliterkirche in Wien",
+      "KML_DESCRIPTION": "Quelle: <a href=\"https://www.edith-stein-gesellschaft.at/content/download/14795/74803/version/1/file/201702+ESG%C3%96+Rundbrief+korr.pdf\" target=\"_blank\">Link zum Rundbrief</a> | 10. Ausgabe: Seite 2 | Artikel: Die Karmeliterkirche in Wien",
       "KML_STYLE": "",
       "QUELLE": "JSON"
     }
@@ -1416,7 +1416,7 @@
       "ORT": "Wien",
       "LAND": "Österreich",
       "KML_NAME": "Edith Stein Haus",
-      "KML_DESCRIPTION": "Quelle: https://www.edith-stein-gesellschaft.at/content/download/9945/51826/version/3/file/ESG%C3%96+Rundbrief_02_fertig_WWW.pdf | Seite 2 | Artikel: Edith Stein in Österreich: Das Wiener „Edith Stein Haus“",
+      "KML_DESCRIPTION": "Quelle: <a href=\"https://www.edith-stein-gesellschaft.at/content/download/9945/51826/version/3/file/ESG%C3%96+Rundbrief_02_fertig_WWW.pdf\" target=\"_blank\">Link zum Rundbrief</a> | 2. Ausgabe: Seite 2 | Artikel: Edith Stein in Österreich: Das Wiener „Edith Stein Haus“",
       "KML_STYLE": "",
       "QUELLE": "JSON"
     }
@@ -1441,7 +1441,7 @@
       "ORT": "Patsch",
       "LAND": "Österreich",
       "KML_NAME": "Edith-Stein-Kapelle",
-      "KML_DESCRIPTION": "Quelle: https://www.edith-stein-gesellschaft.at/content/download/13760/70521/version/1/file/201601+ESG%C3%96+Rundbrief_Arbeitsausgabe2.pdf | Seite 2 | Artikel: Edith Stein-Orte in Österreich: Die Edith-Stein-Kapelle in Patsch/Tirol",
+      "KML_DESCRIPTION": "Quelle: <a href=\"https://www.edith-stein-gesellschaft.at/content/download/13760/70521/version/1/file/201601+ESG%C3%96+Rundbrief_Arbeitsausgabe2.pdf\" target=\"_blank\">Link zum Rundbrief</a> | 7. Ausgabe: Seite 2 | Artikel: Edith Stein-Orte in Österreich: Die Edith-Stein-Kapelle in Patsch/Tirol",
       "KML_STYLE": "",
       "QUELLE": "JSON"
     }
@@ -1466,7 +1466,7 @@
       "ORT": "Innsbruck",
       "LAND": "Österreich",
       "KML_NAME": "Edith-Stein-Weg",
-      "KML_DESCRIPTION": "Quelle: https://www.edith-stein-gesellschaft.at/content/download/13758/70510/version/1/file/201502+ESG%C3%96+Rundbrief_Sondernummer.pdf | Seite 2 | Artikel: Edith Stein in Österreich: Der „Edith-Stein-Weg“ in Innsbruck",
+      "KML_DESCRIPTION": "Quelle: <a href=\"https://www.edith-stein-gesellschaft.at/content/download/13758/70510/version/1/file/201502+ESG%C3%96+Rundbrief_Sondernummer.pdf\" target=\"_blank\">Link zum Rundbrief</a> | Seite 2 | Artikel: Edith Stein in Österreich: Der „Edith-Stein-Weg“ in Innsbruck",
       "KML_STYLE": "",
       "QUELLE": "JSON"
     }
@@ -1491,7 +1491,7 @@
       "ORT": "Neuenburg am Rhein",
       "LAND": "Germany",
       "KML_NAME": "Pflegezentrum",
-      "KML_DESCRIPTION": "Quelle: https://www.edith-stein-gesellschaft.at/content/download/20634/102754/version/1/file/2024_nr26_ESGOE+Rundbrief_lay.pdf | Seite 4 | Artikel: Edith Stein wird Patronin eines Pflegezentrums",
+      "KML_DESCRIPTION": "Quelle: <a href=\"https://www.edith-stein-gesellschaft.at/content/download/20634/102754/version/1/file/2024_nr26_ESGOE+Rundbrief_lay.pdf\" target=\"_blank\">Link zum Rundbrief</a> | 26. Ausgabe: Seite 4 | Artikel: Edith Stein wird Patronin eines Pflegezentrums",
       "KML_STYLE": "",
       "QUELLE": "JSON"
     }
@@ -1516,7 +1516,7 @@
       "ORT": "Linz",
       "LAND": "Österreich",
       "KML_NAME": "Edith Stein in Linz",
-      "KML_DESCRIPTION": "Quelle: https://www.edith-stein-gesellschaft.at/content/download/16524/82219/version/1/file/2019+15+ESG%C3%96+Rundbrief_korr_lay.pdf | Seite 4 | Artikel: Die ESGÖ in Linz",
+      "KML_DESCRIPTION": "Quelle: <a href=\"https://www.edith-stein-gesellschaft.at/content/download/16524/82219/version/1/file/2019+15+ESG%C3%96+Rundbrief_korr_lay.pdf\" target=\"_blank\">Link zum Rundbrief</a> | 15. Ausgabe: Seite 4 | Artikel: Die ESGÖ in Linz",
       "KML_STYLE": "",
       "QUELLE": "JSON"
     }
@@ -1541,7 +1541,7 @@
       "ORT": "Gresten",
       "LAND": "Österreich",
       "KML_NAME": "Gresten",
-      "KML_DESCRIPTION": "Quelle: https://www.edith-stein-gesellschaft.at/content/download/20640/102808/version/1/file/2025_nr29_ESGOE+Rundbrief+Druck-compressed.pdf | Seite null | Artikel: Kapelle in Gresten: Eine Begegnung mit Edith Stein; Quelle: https://www.edith-stein-gesellschaft.at/content/download/20640/102808/version/1/file/2025_nr29_ESGOE+Rundbrief+Druck-compressed.pdf | Seite null | Artikel: Entstehungsgeschichte der Edith-Stein-Kapelle in Gresten",
+      "KML_DESCRIPTION": "Quelle: <a href=\"https://www.edith-stein-gesellschaft.at/content/download/20640/102808/version/1/file/2025_nr29_ESGOE+Rundbrief+Druck-compressed.pdf\" target=\"_blank\">Link zum Rundbrief</a> | 29. Ausgabe: Seite 2 | Artikel: Kapelle in Gresten: Eine Begegnung mit Edith Stein",
       "KML_STYLE": "",
       "QUELLE": "JSON"
     }
