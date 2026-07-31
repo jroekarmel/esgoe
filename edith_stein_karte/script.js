@@ -20,7 +20,8 @@ function getMarkerColor(category) {
     Gedenkort: '#7f8c8d', // gray
     Synagoge: '#2c3e50',  // dark blue-gray
     Schule: '#f39c12',    // amber
-    Ort: '#27ae60'        // green
+    Ort: '#27ae60',        // green
+    'Orte in Österreich zum Gedenken an Edith Stein': '#e91e63' // pink
   };
   return colors[category] || '#27ae60';
 }
@@ -45,6 +46,16 @@ fitAllVisibleMarkers();
             }
 
 function displayData(element) {
+        if (
+        !element.geometry ||
+        !Array.isArray(element.geometry.coordinates) ||
+        element.geometry.coordinates.length < 2 ||
+        element.geometry.coordinates[0] == null ||
+        element.geometry.coordinates[1] == null
+    ) {
+        console.warn('Skipping feature with missing coordinates:', element);
+        return;
+    }
     let props = element.properties;
     let long = parseFloat(element.geometry.coordinates[0]);
     let lat = parseFloat(element.geometry.coordinates[1]);

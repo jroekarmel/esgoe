@@ -1349,7 +1349,7 @@
   {
     "type": "Feature",
     "id": "0045",
-    "geometry": { "type": "Point", "coordinates": null },
+    "geometry": { "type": "Point", "coordinates": [16.37345996872087, 48.20852577021859] },
     "properties": {
       "KATEGORIE": "Orte in Österreich zum Gedenken an Edith Stein",
       "OBJECTID": null,
@@ -1399,7 +1399,7 @@
   {
     "type": "Feature",
     "id": "0047",
-    "geometry": { "type": "Point", "coordinates": null },
+    "geometry": { "type": "Point", "coordinates": [16.358549637522216, 48.21293751238659] },
     "properties": {
       "KATEGORIE": "Orte in Österreich zum Gedenken an Edith Stein",
       "OBJECTID": null,
@@ -1424,7 +1424,7 @@
   {
     "type": "Feature",
     "id": "0048",
-    "geometry": { "type": "Point", "coordinates": null },
+    "geometry": { "type": "Point", "coordinates": [11.415443026350715, 47.20118135519076] },
     "properties": {
       "KATEGORIE": "Orte in Österreich zum Gedenken an Edith Stein",
       "OBJECTID": null,
@@ -1449,7 +1449,7 @@
   {
     "type": "Feature",
     "id": "0049",
-    "geometry": { "type": "Point", "coordinates": null },
+    "geometry": { "type": "Point", "coordinates": [11.397677428207976, 47.26041421622797] },
     "properties": {
       "KATEGORIE": "Orte in Österreich zum Gedenken an Edith Stein",
       "OBJECTID": null,
@@ -1499,7 +1499,7 @@
   {
     "type": "Feature",
     "id": "0051",
-    "geometry": { "type": "Point", "coordinates": null },
+    "geometry": { "type": "Point", "coordinates": [14.2912, 48.3020] },
     "properties": {
       "KATEGORIE": "Orte in Österreich zum Gedenken an Edith Stein",
       "OBJECTID": null,
@@ -1524,11 +1524,11 @@
   {
     "type": "Feature",
     "id": "0052",
-    "geometry": { "type": "Point", "coordinates": null },
+    "geometry": { "type": "Point", "coordinates": [15.019632, 47.974764] },
     "properties": {
       "KATEGORIE": "Orte in Österreich zum Gedenken an Edith Stein",
       "OBJECTID": null,
-      "BEZEICHNUNG": "Edith-Stein-Ort in Gresten",
+      "BEZEICHNUNG": "Edith Stein Kapelle",
       "BEZIRK": null,
       "STRASSE": "",
       "ONR": "",
@@ -1536,7 +1536,7 @@
       "TELEFON": "",
       "FAX": "",
       "EMAIL": "",
-      "WEBLINK1": "",
+      "WEBLINK1": "http://www.ruth-seefried.com/index.php/edithstein",
       "SE_ANNO_CAD_DATA": null,
       "ORT": "Gresten",
       "LAND": "Österreich",

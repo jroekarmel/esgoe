@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Edith Stein Orte in Österreich</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+  />
+  <style>
+    html, body, #map { height: 100%; margin: 0; }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script>
+    const map = L.map('map').setView([47.7, 13.3], 7);
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(map);
+
+    fetch('edith_stein_orte.json')
+      .then(response => response.json())
+      .then(geojson => {
+        const filtered = {
+          type: "FeatureCollection",
+          features: geojson.features.filter(f =>
+            f.properties &&
+            f.properties.KATEGORIE === "Orte in Österreich zum Gedenken an Edith Stein" &&
+            f.geometry &&
+            f.geometry.type === "Point" &&
+            Array.isArray(f.geometry.coordinates) &&
+            f.geometry.coordinates.length === 2 &&
+            f.geometry.coordinates[0] != null &&
+            f.geometry.coordinates[1] != null
+          )
+        };
+
+        const layer = L.geoJSON(filtered, {
+          onEachFeature: (feature, layer) => {
+            const p = feature.properties || {};
+            layer.bindPopup(`
+              <strong>${p.BEZEICHNUNG || ''}</strong><br>
+              ${p.ADRESSE || ''}<br>
+              ${p.KML_DESCRIPTION || ''}
+            `);
+          }
+        }).addTo(map);
+
+        if (filtered.features.length > 0) {
+          map.fitBounds(layer.getBounds(), { padding: [20, 20] });
+        }
+      })
+      .catch(error => {
+        console.error('Error loading GeoJSON:', error);
+      });
+  </script>
+</body>
+</html>
