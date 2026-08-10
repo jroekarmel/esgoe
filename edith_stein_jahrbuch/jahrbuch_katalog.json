@@ -1,0 +1,155 @@
+[
+    {
+        "jahr": "2026",
+        "isbn": "978-3-429-06891-2",
+        "artikeln": [
+            {
+                "lf-nr": 1,
+                "titel": "Vorwort des Schriftleiters",
+                "author": "Dobhan, Ulrich",
+                "erste-seite": 7,
+                "sektion": ""
+            },
+                        {
+                "lf-nr": 2,
+                "titel": "Grußwort der französischen Edith-Stein-Forschungsgruppe",
+                "author": "Schober, Angelika",
+                "erste-seite": 7,
+                "sektion": "Aktualität"
+            },
+                        {
+                "lf-nr": 3,
+                "titel": "Ansprache in Breslau beim Empfang des Edith-Stein-Preises der Edith-Stein-Gesellschaft Polen für die Edith-Stein-Gesellschaft Deutschland",
+                "author": "Beckmann-Zöller, Beate",
+                "erste-seite": 20,
+                "sektion": "Aktualität"
+            },
+                        {
+                "lf-nr": 4,
+                "titel": "Zu Ehren von Frau Prof. Dr. Hanna-Barbara Gerl-Falkovitz zum 80. Geburtstag",
+                "author": "Beckmann-Zöller, Beate",
+                "erste-seite": 22,
+                "sektion": "Aktualität"
+            },
+                        {
+                "lf-nr": 5,
+                "titel": "Eine Annäherung aus Edith Steins persönlichen Briefen",
+                "author": "Wulf, Mariele",
+                "erste-seite": 29,
+                "sektion": "Biographie"
+            },
+                        {
+                "lf-nr": 6,
+                "titel": "Anne Reinach in Spanien",
+                "author": "Caballero Bono, José Luis",
+                "erste-seite": 45,
+                "sektion": "Biographie"
+            },
+                        {
+                "lf-nr": 7,
+                "titel": "Edith Stein und Robert Schumann",
+                "author": "Bost, Bodo",
+                "erste-seite": 72,
+                "sektion": "Biographie"
+            },
+                        {
+                "lf-nr": 8,
+                "titel": "Konrad Adenauer und Edith Stein in Maria Laach",
+                "author": "Mai, Helmut",
+                "erste-seite": 93,
+                "sektion": "Biographie"
+            },
+                        {
+                "lf-nr": 9,
+                "titel": "Ergänzungen zu: Der schönste Zug der Schachgeschichte (Breslau 1912)",
+                "author": "Mai, Helmut",
+                "erste-seite": 95,
+                "sektion": "Biographie"
+            },
+                        {
+                "lf-nr": 10,
+                "titel": "Die Glaubensschulung Edith Steins durch die kontroverstheologische Bekenntnisschrift Symbolik des Tübinger Kirchenbistorikers Johann Adam Möhler",
+                "author": "Vogel, Wieland",
+                "erste-seite": 97,
+                "sektion": "Theologie"
+            },
+                        {
+                "lf-nr": 11,
+                "titel": "Reflexion auf Edith Steins »Freiheit und Gnade« in der japanischen Übersetzung",
+                "author": "Araki, Shinichiro",
+                "erste-seite": 107,
+                "sektion": "Theologie"
+            },
+                        {
+                "lf-nr": 12,
+                "titel": "Proexistenz als Schlüsselthema für das Verständnis Edith Steins - Ein Leben im Spann un gsfeld zwischen Selbst-Sein und Sein-für-Andere",
+                "author": "Köder, Daniela",
+                "erste-seite": 117,
+                "sektion": "Theologie"
+            },
+                        {
+                "lf-nr": 13,
+                "titel": "Der Ort der Begegnung mitJesusgläubigen Juden in der Geschichte des katholisch-jüdischen Dialogs",
+                "author": "Rutishauser, Christian M.",
+                "erste-seite": 133,
+                "sektion": "Religionsphilosophie"
+            },
+                        {
+                "lf-nr": 14,
+                "titel": "Rahmenbedingungen des jüdisch-christlichen Dialogs",
+                "author": "Folger, Arie",
+                "erste-seite": 151,
+                "sektion": "Religionsphilosophie"
+            },
+                        {
+                "lf-nr": 15,
+                "titel": "Edith Stein und die Frage nach Tabus im jüdisch-christlichen Dialog",
+                "author": "Tück, Jan-Heiner",
+                "erste-seite": 166,
+                "sektion": "Religionsphilosophie"
+            },
+                        {
+                "lf-nr": 16,
+                "titel": "Die »Doppelnatur des Menschen«. Die Bildung der Person als Individuum und als Gemeinschaftsglied",
+                "author": "Bur, Laurence",
+                "erste-seite": 186,
+                "sektion": "Religionsphilosophie"
+            },
+                        {
+                "lf-nr": 17,
+                "titel": "Eine Widmung an Hanna-Barbara Gerl-Falkovitz zum 80. Geburtstag: Der Distelfink und die drei Farben der Seele. Über das Symbol des Stieglitzes im Altarbild zu Ehren Edith Steins von Michael Triegel in der Basilika Wechselburg",
+                "author": "Lilienstein, Pia",
+                "erste-seite": 211,
+                "sektion": "Spiritualität"
+            },
+                        {
+                "lf-nr": 18,
+                "titel": "Das Kreuz, die einzige Hoffnung. Edith Stein, ihre Firm-Kapelle in Speyer und der Kreuzweg, der besonders an sie erinnert",
+                "author": "Haarlammert, Klaus",
+                "erste-seite": 225,
+                "sektion": "Spiritualität"
+            },
+                        {
+                "lf-nr": 19,
+                "titel": "»Christus im Geheimnis des Kreuzes«. Einübung und Wirklichkeit des Kreuzwegs Christi im geistlichen Leben - Eine Betrachtung anhand des Edith-Stein-Kreuzweges in der Bischofskapelle in Speyer",
+                "author": "Wiesemann, Bischof Karl-Heinz",
+                "erste-seite": 229,
+                "sektion": "Spiritualität"
+            },
+                        {
+                "lf-nr": 20,
+                "titel": "Edith Stein - eine Frau, die »von außen« kam. Meditation über Edith Stein zu Joh 4, 6-15",
+                "author": "Beckmann-Zöller, Beate",
+                "erste-seite": 244,
+                "sektion": "Spiritualität"
+            },
+                        {
+                "lf-nr": 21,
+                "titel": "Edith Steins »Am Steuer« und John Henry Newmans »Leed kindly«",
+                "author": "Steinert, Lukasz",
+                "erste-seite": 247,
+                "sektion": "Spiritualität"
+            }
+        ]
+    }
+]
