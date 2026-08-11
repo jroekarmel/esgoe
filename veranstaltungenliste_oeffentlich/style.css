@@ -367,6 +367,42 @@ td:empty::before {
   
 }
 
+ @media (max-width: 600px) {
+        table,
+        thead,
+        tbody,
+        th,
+        td,
+        tr {
+          display: block;
+        }
+
+        thead {
+          display: none; /* Kopfzeile ausblenden, wir nutzen data-label */
+        }
+
+        tr {
+          margin-bottom: 1rem;
+          border: 3px solid #ddd;
+        }
+
+        td {
+          border: none;
+          border-bottom: 1px solid #eee;
+          position: relative;
+          padding-left: 7.5rem; /* Platz für das Label links */
+        }
+
+        td::before {
+          content: attr(data-label);
+          position: absolute;
+          left: 0.5rem;
+          top: 0.5rem;
+          font-weight: bold;
+          white-space: nowrap;
+        }
+      }
+
 @media (max-width: 919px) {
   .theadstyle th {
     font-size: var(--text-base);
