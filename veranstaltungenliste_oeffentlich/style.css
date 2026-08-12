@@ -367,6 +367,64 @@ td:empty::before {
   
 }
 
+ @media (max-width: 600px) {
+        table,
+        thead,
+        tbody,
+        th,
+        td,
+        tr {
+          display: block;
+        }
+        main{
+          display: block;
+              max-width: 100%; /* Ändere von fit-content auf 100% */
+    overflow-x: hidden; /* Verhindere horizontales Scrollen */
+        }
+        
+        thead {
+          display: none; /* Kopfzeile ausblenden, wir nutzen data-label */
+        }
+
+        tr {
+          margin-bottom: 1rem;
+          border: 3px solid #ddd;
+        }
+
+        td {
+          border: none;
+          border-bottom: 1px solid #eee;
+          position: relative;
+          padding-left: 1.5rem; /* Platz für das Label links */
+              width: 100%; /* Stelle sicher, dass td nicht breiter wird */
+    box-sizing: border-box; /* Inklusive Padding berechnen */
+    max-width: 100%; /* Verhindere Überlauf */
+    word-wrap: break-word; /* Lange Wörter umbrechen */
+    overflow-wrap: break-word;
+        }
+
+        td::before {
+          content: attr(data-label);
+          position: absolute;
+          left: 0.5rem;
+          top: 0.5rem;
+          font-weight: bold;
+          white-space: nowrap;
+        }
+          /* #test Container anpassen */
+  #test {
+    overflow-x: hidden; /* Horizontales Scrollen entfernen */
+    width: 100%;
+    max-width: 100%;
+  }
+
+  /* Tabelle selbst */
+  table {
+    min-width: 100%; /* Nicht 760px auf Mobile */
+    width: 100%;
+  }
+      }
+
 @media (max-width: 919px) {
   .theadstyle th {
     font-size: var(--text-base);

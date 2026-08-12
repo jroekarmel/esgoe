@@ -477,22 +477,22 @@ const today = new Date().toISOString().slice(0, 10);
       }
                 //Sortierung - Wonach, Wie
  function sortData(prop, ob) {
-        let desc = false;
+        let desc = true;
 
         th.forEach((element) => {
           //Pfeile hinzufügen
 
           if (element === ob) {
-            if (element.classList.contains("asc")) {
-              element.classList.remove("asc");
-
-              element.classList.add("desc");
-
-              desc = true;
-            } else {
+            if (element.classList.contains("desc")) {
               element.classList.remove("desc");
 
               element.classList.add("asc");
+
+              desc = true;
+            } else {
+              element.classList.remove("asc");
+
+              element.classList.add("desc");
             }
           } else {
             element.classList.remove("asc", "desc");
