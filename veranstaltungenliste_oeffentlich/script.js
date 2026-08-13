@@ -357,7 +357,14 @@ const today = new Date().toISOString().slice(0, 10);
   liAllJahr.append(aAllJahr);
   jahrFilter.append(liAllJahr);
 
-        filterSetReferent.forEach((link) => {
+  // --- Referenten nach Nachname sortieren ---
+  const filterSetReferentSorted = Array.from(filterSetReferent).sort((a, b) => {
+    const lastA = a.trim().split(/\s+/).pop().toLowerCase();
+    const lastB = b.trim().split(/\s+/).pop().toLowerCase();
+    return lastA.localeCompare(lastB, 'de'); // deutsche Sortierung
+  });
+
+        filterSetReferentSorted.forEach((link) => {
           let a = document.createElement("a");
           //Attribute hinzufügen
           a.href = "#";
