@@ -6,7 +6,7 @@
     "end_datum": "43210",
     "titel": "Unterscheidung der Geister",
     "prenom": "Dr. ",
-    "referent": "Benke, Christoph",
+    "referent": "Christoph Benke",
     "postnom": "",
     "institution_ort": "",
     "art": "Vertiefungstag",
@@ -21,16 +21,17 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
-    {
+  {
     "id": "181",
     "datum": "44127",
     "start_datum": "44127",
     "end_datum": "44127",
     "titel": "An der Hand des Herrn gehen: Edith Stein Tagung 2020",
     "prenom": "Prof. ",
-    "referent": "Schlosser, Marianne",
+    "referent": "Marianne Schlosser",
     "postnom": "",
     "institution_ort": "Universität Wien",
     "art": "Tagung",
@@ -45,7 +46,8 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "181_1",
@@ -54,7 +56,7 @@
     "end_datum": "44127",
     "titel": "„Geborgen im Zelt des Königs“ Edith Stein über die Eucharistie",
     "prenom": "Prof. ",
-    "referent": "Schlosser, Marianne",
+    "referent": "Marianne Schlosser",
     "postnom": "",
     "institution_ort": "Universität Wien",
     "art": "Vortrag",
@@ -69,7 +71,8 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "185",
@@ -78,7 +81,7 @@
     "end_datum": "44233",
     "titel": "„Im Dunkel wohl geborgen.“ Nachterfahrung bei Edith Stein (1891-1942)",
     "prenom": "Prof. ",
-    "referent": "Gerl-Falkovitz, Hanna-Barbara",
+    "referent": "Hanna-Barbara Gerl-Falkovitz",
     "postnom": "",
     "institution_ort": "",
     "art": "Vortrag",
@@ -93,7 +96,8 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "186",
@@ -102,7 +106,7 @@
     "end_datum": "44252",
     "titel": "Unterwegs zur Ewigkeit – Warum der Mensch strukturierte Zeit braucht",
     "prenom": "",
-    "referent": "Esterbauer, Reinhold",
+    "referent": "Reinhold Esterbauer",
     "postnom": "",
     "institution_ort": "",
     "art": "Vortrag",
@@ -117,7 +121,8 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "188",
@@ -126,7 +131,7 @@
     "end_datum": "44275",
     "titel": "Beten mit Edith Stein",
     "prenom": "P. Dr. ",
-    "referent": "Pirastu, Roberto Maria",
+    "referent": "Roberto Maria Pirastu",
     "postnom": "OCD",
     "institution_ort": "",
     "art": "Vortrag",
@@ -141,7 +146,8 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "189",
@@ -150,7 +156,7 @@
     "end_datum": "44296",
     "titel": "vom Unglauben über das Denken zum Glauben",
     "prenom": "Prof. ",
-    "referent": "Gerl-Falkovitz, Hanna-Barbara",
+    "referent": "Hanna-Barbara Gerl-Falkovitz",
     "postnom": "",
     "institution_ort": "",
     "art": "Vortrag",
@@ -165,7 +171,8 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "190",
@@ -174,7 +181,7 @@
     "end_datum": "44320",
     "titel": "Frau und Politik",
     "prenom": "Dr. ",
-    "referent": "Beckmann-Zöller, Beate",
+    "referent": "Beate Beckmann-Zöller",
     "postnom": "",
     "institution_ort": "",
     "art": "Vortrag",
@@ -189,7 +196,8 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "191",
@@ -198,7 +206,7 @@
     "end_datum": "44397",
     "titel": "Verherrlicht Gott in Eurem Leib",
     "prenom": "Dr. ",
-    "referent": "Beckmann-Zöller, Beate",
+    "referent": "Beate Beckmann-Zöller",
     "postnom": "",
     "institution_ort": "",
     "art": "Vortrag",
@@ -213,7 +221,8 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "193",
@@ -222,7 +231,7 @@
     "end_datum": "44415",
     "titel": "Leib ist mehr als Körper: Sehen lernen mit Edith Stein",
     "prenom": "Prof. ",
-    "referent": "Gerl-Falkovitz, Hanna-Barbara",
+    "referent": "Hanna-Barbara Gerl-Falkovitz",
     "postnom": "",
     "institution_ort": "",
     "art": "Edith Stein Fest",
@@ -237,7 +246,8 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "196",
@@ -246,7 +256,7 @@
     "end_datum": "44460",
     "titel": "Edith Stein und Roman Ingarden",
     "prenom": "Dr. ",
-    "referent": "Beckmann-Zöller, Beate",
+    "referent": "Beate Beckmann-Zöller",
     "postnom": "",
     "institution_ort": "",
     "art": "Vortrag",
@@ -261,7 +271,8 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "197",
@@ -270,7 +281,7 @@
     "end_datum": "44478",
     "titel": "Sühne/Stellvertretung - neu beleuchtet durch Edith Stein",
     "prenom": "Prof. ",
-    "referent": "Gerl-Falkovitz, Hanna-Barbara",
+    "referent": "Hanna-Barbara Gerl-Falkovitz",
     "postnom": "",
     "institution_ort": "",
     "art": "Vortrag",
@@ -285,7 +296,8 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "195",
@@ -294,7 +306,7 @@
     "end_datum": "44520",
     "titel": "Edith Stein und das Phänomen der geistlichen Freundschaft",
     "prenom": "Dr. ",
-    "referent": "Beckmann-Zöller, Beate",
+    "referent": "Beate Beckmann-Zöller",
     "postnom": "",
     "institution_ort": "",
     "art": "Vortrag",
@@ -309,7 +321,8 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "198",
@@ -333,16 +346,17 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
-    {
+  {
     "id": "198_1",
     "datum": "29-30.10.21",
     "start_datum": "44498",
     "end_datum": "44498",
     "titel": "Ist die Kirche ‚Hand des Herrn'?",
     "prenom": "Prof. Dr. ",
-    "referent": "Gerl-Falkovitz, Hanna-Barbara",
+    "referent": "Hanna-Barbara Gerl-Falkovitz",
     "postnom": "",
     "institution_ort": "Heiligenkreuz",
     "art": "Vortrag",
@@ -357,16 +371,17 @@
     "parent_id": "198",
     "parent_titel": "An der Hand des Herrn leben: Edith Stein Tagung 2021",
     "is_subevent": "1",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
-        {
+  {
     "id": "198_2",
     "datum": "29-30.10.21",
     "start_datum": "44499",
     "end_datum": "44499",
     "titel": "Edith Stein und Beuron",
     "prenom": "Prof. Dr. ",
-    "referent": "Weismayer, Josef",
+    "referent": "Josef Weismayer",
     "postnom": "",
     "institution_ort": "",
     "art": "Vortrag",
@@ -381,16 +396,17 @@
     "parent_id": "198",
     "parent_titel": "An der Hand des Herrn leben: Edith Stein Tagung 2021",
     "is_subevent": "1",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
-        {
+  {
     "id": "198_3",
     "datum": "29-30.10.21",
     "start_datum": "44499",
     "end_datum": "44499",
     "titel": "„An der Hand des Herrn leben“ Topos im Leben und Spiritualität Edith Steins",
     "prenom": "P. Dr. ",
-    "referent": "Pirastu, Roberto Maria",
+    "referent": "Roberto Maria Pirastu",
     "postnom": "",
     "institution_ort": "",
     "art": "Vortrag",
@@ -405,9 +421,10 @@
     "parent_id": "198",
     "parent_titel": "An der Hand des Herrn leben: Edith Stein Tagung 2021",
     "is_subevent": "1",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
-        {
+  {
     "id": "198_4",
     "datum": "29-30.10.21",
     "start_datum": "44499",
@@ -429,9 +446,10 @@
     "parent_id": "198",
     "parent_titel": "An der Hand des Herrn leben: Edith Stein Tagung 2021",
     "is_subevent": "1",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
-        {
+  {
     "id": "198_5",
     "datum": "29-30.10.21",
     "start_datum": "44499",
@@ -453,9 +471,10 @@
     "parent_id": "198",
     "parent_titel": "An der Hand des Herrn leben: Edith Stein Tagung 2021",
     "is_subevent": "1",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
-        {
+  {
     "id": "198_6",
     "datum": "29-30.10.21",
     "start_datum": "44499",
@@ -477,7 +496,8 @@
     "parent_id": "198",
     "parent_titel": "An der Hand des Herrn leben: Edith Stein Tagung 2021",
     "is_subevent": "1",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "194",
@@ -486,7 +506,7 @@
     "end_datum": "44541",
     "titel": "Weihnachten im Blick Edith Steins: ein Geheimnis",
     "prenom": "Prof. ",
-    "referent": "Gerl-Falkovitz, Hanna-Barbara",
+    "referent": "Hanna-Barbara Gerl-Falkovitz",
     "postnom": "",
     "institution_ort": "",
     "art": "Vortrag",
@@ -501,7 +521,8 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "200",
@@ -510,7 +531,7 @@
     "end_datum": "44579",
     "titel": "Phänomen des inneren Friedens",
     "prenom": "Dr. ",
-    "referent": "Beckmann-Zöller, Beate",
+    "referent": "Beate Beckmann-Zöller",
     "postnom": "",
     "institution_ort": "",
     "art": "Vortrag",
@@ -520,12 +541,13 @@
     "podcast": "https://www.buzzsprout.com/870355/episodes/10084982.mp3",
     "meeting_id": "",
     "homepage_link": "",
-    "Zusammenfassung": "„Sommer und Frieden waren in diesem endlosen Winter (1917) für mich zu einem Ziel meiner Sehnsucht verschmolzen.\" Edith Stein erlebte und reflektierte im I. Weltkrieg den äußeren Frieden, später noch stärker im II. Weltkrieg. Als sie den christlichen Glauben kennen lernt, findet sie eine neue Art von Frieden, den \"inneren Frieden\". In unserer postmodernen Ruhelosigkeit - und andererseits in unserer Zeit der zwangsverordneten Ruhe-Zeiten - wie kann uns da Edith Stein mit ihren Überlegungen weiter helfen? Im Vortrag geht die Religionsphilosophin Dr. Beckmann-Zöller, Beate Edith Steins Reflexionen zum Frieden nach. So wird es möglich, den Grad an Frieden oder Unfrieden im eigenen Leben zu reflektieren.",
+    "Zusammenfassung": "„Sommer und Frieden waren in diesem endlosen Winter (1917) für mich zu einem Ziel meiner Sehnsucht verschmolzen.\" Edith Stein erlebte und reflektierte im I. Weltkrieg den äußeren Frieden, später noch stärker im II. Weltkrieg. Als sie den christlichen Glauben kennen lernt, findet sie eine neue Art von Frieden, den \"inneren Frieden\". In unserer postmodernen Ruhelosigkeit - und andererseits in unserer Zeit der zwangsverordneten Ruhe-Zeiten - wie kann uns da Edith Stein mit ihren Überlegungen weiter helfen? Im Vortrag geht die Religionsphilosophin Dr. Beate Beckmann-Zöller Edith Steins Reflexionen zum Frieden nach. So wird es möglich, den Grad an Frieden oder Unfrieden im eigenen Leben zu reflektieren.",
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "201",
@@ -534,7 +556,7 @@
     "end_datum": "44607",
     "titel": "Einführung in Edith Steins Endliches und ewiges Sein: 1. Teil: Die wirkliche Welt in ihrer Fülle",
     "prenom": "Prof. ",
-    "referent": "Gerl-Falkovitz, Hanna-Barbara",
+    "referent": "Hanna-Barbara Gerl-Falkovitz",
     "postnom": "",
     "institution_ort": "",
     "art": "Vortrag",
@@ -549,7 +571,8 @@
     "parent_id": "",
     "parent_titel": "Vom schwachen Sein über dem Abgrund des Nichts zum vollen, glückhaften Sein. Einführung in Edith Steins Hauptwerk \"Endliches und Ewiges Sein\"",
     "is_subevent": "1",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "203",
@@ -558,7 +581,7 @@
     "end_datum": "44642",
     "titel": "Einführung in Edith Steins Endliches und ewiges Sein: 2. Teil: Seele als Zugang zur eigenen Tiefe",
     "prenom": "Prof. ",
-    "referent": "Gerl-Falkovitz, Hanna-Barbara",
+    "referent": "Hanna-Barbara Gerl-Falkovitz",
     "postnom": "",
     "institution_ort": "",
     "art": "Vortrag",
@@ -573,7 +596,8 @@
     "parent_id": "",
     "parent_titel": "Vom schwachen Sein über dem Abgrund des Nichts zum vollen, glückhaften Sein. Einführung in Edith Steins Hauptwerk \"Endliches und Ewiges Sein\"",
     "is_subevent": "1",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "202",
@@ -582,7 +606,7 @@
     "end_datum": "44656",
     "titel": "Einführung in Edith Steins Endliches und ewiges Sein: 3. Teil: Öffnung der menschlichen Grenze zum Dreieinen",
     "prenom": "Prof. ",
-    "referent": "Gerl-Falkovitz, Hanna-Barbara",
+    "referent": "Hanna-Barbara Gerl-Falkovitz",
     "postnom": "",
     "institution_ort": "",
     "art": "Vortrag",
@@ -597,7 +621,8 @@
     "parent_id": "",
     "parent_titel": "Vom schwachen Sein über dem Abgrund des Nichts zum vollen, glückhaften Sein. Einführung in Edith Steins Hauptwerk \"Endliches und Ewiges Sein\"",
     "is_subevent": "1",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "204",
@@ -606,7 +631,7 @@
     "end_datum": "44698",
     "titel": "Religiöse Erlebnisse und Bekehrungen – Adolf Reinach und Edith Stein",
     "prenom": "Dr. ",
-    "referent": "Beckmann-Zöller, Beate",
+    "referent": "Beate Beckmann-Zöller",
     "postnom": "",
     "institution_ort": "",
     "art": "Vortrag",
@@ -621,7 +646,8 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "206",
@@ -630,7 +656,7 @@
     "end_datum": "44727",
     "titel": "Lebensformen in der Kirche - Edith Steins Antworten auf das Phänomen der Einsamkeit",
     "prenom": "Dr. ",
-    "referent": "Beckmann-Zöller, Beate",
+    "referent": "Beate Beckmann-Zöller",
     "postnom": "",
     "institution_ort": "",
     "art": "Vortrag",
@@ -645,7 +671,8 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "207",
@@ -668,7 +695,8 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "205",
@@ -692,7 +720,8 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "208",
@@ -716,16 +745,17 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
-    {
+  {
     "id": "208_1",
     "datum": "28-29/10/22",
     "start_datum": "44862",
     "end_datum": "44862",
     "titel": "Einfühlung als Verstehen geistiger Personen: Die Ansätze der Dissertation Edith Steins",
     "prenom": "P. Dr. ",
-    "referent": "Pirastu, Roberto Maria",
+    "referent": "Roberto Maria Pirastu",
     "postnom": " OCD",
     "institution_ort": "Rom",
     "art": "Vortrag",
@@ -740,9 +770,10 @@
     "parent_id": "208",
     "parent_titel": "\"Ich will dich sehen, wie du bist\"",
     "is_subevent": "1",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
-    {
+  {
     "id": "208_2",
     "datum": "28-29/10/22",
     "start_datum": "44863",
@@ -764,9 +795,10 @@
     "parent_id": "208",
     "parent_titel": "\"Ich will dich sehen, wie du bist\"",
     "is_subevent": "1",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
-    {
+  {
     "id": "208_3",
     "datum": "28-29/10/22",
     "start_datum": "44863",
@@ -778,7 +810,10 @@
     "institution_ort": "Med Uni Wien",
     "art": "Vortrag",
     "ort": "Erzbischöfliches Palais",
-    "youtube": ["https://www.youtube.com/watch?v=M_Su_jeFyA4","https://www.youtube.com/watch?v=7qYZ3uzhw5o"],
+    "youtube": [
+      "https://www.youtube.com/watch?v=M_Su_jeFyA4",
+      "https://www.youtube.com/watch?v=7qYZ3uzhw5o"
+    ],
     "zoom_link": "",
     "podcast": "",
     "meeting_id": "",
@@ -790,14 +825,14 @@
     "is_subevent": "1",
     "z_kommentare": "Auf Englisch mit Deutsche Übersetzung"
   },
-    {
+  {
     "id": "208_4",
     "datum": "28-29/10/22",
     "start_datum": "44863",
     "end_datum": "44863",
     "titel": "Einfühlung und Gottesbezug. Zum „Grundriss“ der menschlichen Person",
     "prenom": "Prof. Dr. ",
-    "referent": "Gerl-Falkovitz, Hanna-Barbara",
+    "referent": "Hanna-Barbara Gerl-Falkovitz",
     "postnom": "",
     "institution_ort": "Heiligenkreuz",
     "art": "Vortrag",
@@ -812,9 +847,10 @@
     "parent_id": "208",
     "parent_titel": "\"Ich will dich sehen, wie du bist\"",
     "is_subevent": "1",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
-    {
+  {
     "id": "208_5",
     "datum": "28-29/10/22",
     "start_datum": "44863",
@@ -836,9 +872,10 @@
     "parent_id": "208",
     "parent_titel": "\"Ich will dich sehen, wie du bist\"",
     "is_subevent": "1",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
-    {
+  {
     "id": "208_6",
     "datum": "28-29/10/22",
     "start_datum": "44863",
@@ -860,7 +897,8 @@
     "parent_id": "208",
     "parent_titel": "\"Ich will dich sehen, wie du bist\"",
     "is_subevent": "1",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "209",
@@ -884,7 +922,8 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "210",
@@ -893,7 +932,7 @@
     "end_datum": "44908",
     "titel": "Der Sohn Gottes kam in die Welt…",
     "prenom": "P. Dr. ",
-    "referent": "Pirastu, Roberto Maria",
+    "referent": "Roberto Maria Pirastu",
     "postnom": "OCD",
     "institution_ort": "",
     "art": "Vortrag",
@@ -908,7 +947,8 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "211",
@@ -917,7 +957,7 @@
     "end_datum": "44915",
     "titel": "Il mistero di Natale secondo Edith Stein",
     "prenom": "P. Dr. ",
-    "referent": "Pirastu, Roberto Maria",
+    "referent": "Roberto Maria Pirastu",
     "postnom": "OCD",
     "institution_ort": "",
     "art": "Vortrag",
@@ -927,12 +967,13 @@
     "podcast": "",
     "meeting_id": "",
     "homepage_link": "",
-    "Zusammenfassung": "Presentazione della meditazione di Edith Stein sul Natale \"das Weihnachtsgeheimnis\", scritto nel 1931. Relatore è p. Pirastu, Roberto Maria OCD, Definitore Generale dell'Ordine dei carmelitani scalzi a Roma.",
+    "Zusammenfassung": "Presentazione della meditazione di Edith Stein sul Natale \"das Weihnachtsgeheimnis\", scritto nel 1931. Relatore è p. Roberto Maria Pirastu OCD, Definitore Generale dell'Ordine dei carmelitani scalzi a Roma.",
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "212",
@@ -956,7 +997,8 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "213",
@@ -980,7 +1022,8 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "214",
@@ -1004,7 +1047,8 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "215",
@@ -1028,7 +1072,8 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "216",
@@ -1037,7 +1082,14 @@
     "end_datum": "45164",
     "titel": "Über die Freiheit: Edith Stein Sommerakademie 2023",
     "prenom": "",
-    "referent": ["Ingeborg Gabriel", "Gerl-Falkovitz, Hanna-Barbara", "Małgorzata Bogaczyk-Vormayr", "David Oberreiter","Lukasz Steinert", "Edda Pulst"],
+    "referent": [
+      "Ingeborg Gabriel",
+      "Hanna-Barbara Gerl-Falkovitz",
+      "Małgorzata Bogaczyk-Vormayr",
+      "David Oberreiter",
+      "Lukasz Steinert",
+      "Edda Pulst"
+    ],
     "postnom": "",
     "institution_ort": "",
     "art": "Sommerakademie",
@@ -1052,7 +1104,8 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "217",
@@ -1076,7 +1129,8 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "218",
@@ -1085,7 +1139,16 @@
     "end_datum": "45220",
     "titel": "Freiheit oder Verantwortung: Edith Stein Tagung 2023",
     "prenom": "",
-    "referent": ["Claudia Marièle Wulf", "Małgorzata Bogaczyk-Vormayr", "Wolfgang Weilharter", "Hon Chu Ming", "Christof Betschart","Herbert Watzke","Laurence Bur","Tonke Dennebaum"],
+    "referent": [
+      "Claudia Marièle Wulf",
+      "Małgorzata Bogaczyk-Vormayr",
+      "Wolfgang Weilharter",
+      "Hon Chu Ming",
+      "Christof Betschart",
+      "Herbert Watzke",
+      "Laurence Bur",
+      "Tonke Dennebaum"
+    ],
     "postnom": "",
     "institution_ort": "",
     "art": "Tagung",
@@ -1100,9 +1163,10 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
-    {
+  {
     "id": "218_1",
     "datum": "20.-21.10.23",
     "start_datum": "45219",
@@ -1124,9 +1188,10 @@
     "parent_id": "218",
     "parent_titel": "Freiheit oder Verantwortung: Edith Stein Tagung 2023",
     "is_subevent": "1",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
-      {
+  {
     "id": "218_2",
     "datum": "20.-21.10.23",
     "start_datum": "45220",
@@ -1148,9 +1213,10 @@
     "parent_id": "218",
     "parent_titel": "Freiheit oder Verantwortung: Edith Stein Tagung 2023",
     "is_subevent": "1",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
-      {
+  {
     "id": "218_3",
     "datum": "20.-21.10.23",
     "start_datum": "45220",
@@ -1172,9 +1238,10 @@
     "parent_id": "218",
     "parent_titel": "Freiheit oder Verantwortung: Edith Stein Tagung 2023",
     "is_subevent": "1",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
-      {
+  {
     "id": "218_4",
     "datum": "20.-21.10.23",
     "start_datum": "45220",
@@ -1196,9 +1263,10 @@
     "parent_id": "218",
     "parent_titel": "Freiheit oder Verantwortung: Edith Stein Tagung 2023",
     "is_subevent": "1",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
-      {
+  {
     "id": "218_5",
     "datum": "20.-21.10.23",
     "start_datum": "45220",
@@ -1220,9 +1288,10 @@
     "parent_id": "218",
     "parent_titel": "Freiheit oder Verantwortung: Edith Stein Tagung 2023",
     "is_subevent": "1",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
-      {
+  {
     "id": "218_6",
     "datum": "20.-21.10.23",
     "start_datum": "45220",
@@ -1246,7 +1315,7 @@
     "is_subevent": "1",
     "z_kommentare": "Abgesagt"
   },
-      {
+  {
     "id": "218_7",
     "datum": "20.-21.10.23",
     "start_datum": "45220",
@@ -1268,9 +1337,10 @@
     "parent_id": "218",
     "parent_titel": "Freiheit oder Verantwortung: Edith Stein Tagung 2023",
     "is_subevent": "1",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
-      {
+  {
     "id": "218_8",
     "datum": "20.-21.10.23",
     "start_datum": "45220",
@@ -1292,7 +1362,8 @@
     "parent_id": "218",
     "parent_titel": "Freiheit oder Verantwortung: Edith Stein Tagung 2023",
     "is_subevent": "1",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "219",
@@ -1301,7 +1372,7 @@
     "end_datum": "45248",
     "titel": "Selbstbestimung - oder Freiheit",
     "prenom": "Prof. ",
-    "referent": "Gerl-Falkovitz, Hanna-Barbara",
+    "referent": "Hanna-Barbara Gerl-Falkovitz",
     "postnom": "",
     "institution_ort": "",
     "art": "Vortrag",
@@ -1316,7 +1387,8 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "220",
@@ -1325,7 +1397,7 @@
     "end_datum": "45325",
     "titel": "Edith Steins Bildungstheorie",
     "prenom": "Dr. ",
-    "referent": "Beckmann-Zöller, Beate",
+    "referent": "Beate Beckmann-Zöller",
     "postnom": "",
     "institution_ort": "",
     "art": "Vortrag",
@@ -1340,7 +1412,8 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "221",
@@ -1364,7 +1437,8 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "222",
@@ -1376,7 +1450,7 @@
     "referent": "Peter M. Pendl",
     "postnom": "OCD",
     "institution_ort": "",
-    "art": "Vortrag",
+    "art": "Vertiefungstag",
     "ort": "",
     "youtube": "",
     "zoom_link": "",
@@ -1388,16 +1462,17 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
-        {
+  {
     "id": "223",
     "datum": "45513",
     "start_datum": "45513",
     "end_datum": "45513",
     "titel": "Edith Stein und Europa",
     "prenom": "P. Dr. ",
-    "referent": "Pirastu, Roberto Maria",
+    "referent": "Roberto Maria Pirastu",
     "postnom": "OCD",
     "institution_ort": "",
     "art": "Edith Stein Fest",
@@ -1412,7 +1487,8 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "224",
@@ -1421,7 +1497,14 @@
     "end_datum": "45535",
     "titel": "Mensch sein - Person werden: Edith Stein Sommerakademie 2024",
     "prenom": "",
-    "referent": ["Ingeborg Gabriel","Beckmann-Zöller, Beate","Pirastu, Roberto Maria","Martin Baesler","Edda Pulst","Lukasz Steinert"],
+    "referent": [
+      "Ingeborg Gabriel",
+      "Beate Beckmann-Zöller",
+      "Roberto Maria Pirastu",
+      "Martin Baesler",
+      "Edda Pulst",
+      "Lukasz Steinert"
+    ],
     "postnom": "",
     "institution_ort": "Fakultät Teresianum, Rom",
     "art": "Sommerakademie",
@@ -1436,7 +1519,8 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "225",
@@ -1445,7 +1529,13 @@
     "end_datum": "45585",
     "titel": "Mensch sein - Person werden: Edith Stein Tagung 2024",
     "prenom": "",
-    "referent": ["Beckmann-Zöller, Beate","Laurence Bur","Edda Pulst","Małgorzata Bogaczyk-Vormayr","Helga Ehrmann-Falkenau"],
+    "referent": [
+      "Beate Beckmann-Zöller",
+      "Laurence Bur",
+      "Edda Pulst",
+      "Małgorzata Bogaczyk-Vormayr",
+      "Helga Ehrmann-Falkenau"
+    ],
     "postnom": "",
     "institution_ort": "",
     "art": "Tagung",
@@ -1460,7 +1550,8 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "225_1",
@@ -1517,7 +1608,7 @@
     "end_datum": "45615",
     "titel": "Sühne: eine vergesse Möglichkeit",
     "prenom": "Prof. ",
-    "referent": "Gerl-Falkovitz, Hanna-Barbara",
+    "referent": "Hanna-Barbara Gerl-Falkovitz",
     "postnom": "",
     "institution_ort": "",
     "art": "Vortrag",
@@ -1532,7 +1623,8 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "227",
@@ -1556,7 +1648,8 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "228",
@@ -1564,9 +1657,9 @@
     "start_datum": "45759",
     "end_datum": "45759",
     "titel": "Feindesliebe in der Bergspredigt",
-    "prenom": ["Dr. ","Mmag. ", "P. "],
+    "prenom": ["Dr. ", "Mmag. ", "P. "],
     "referent": ["Helga Ehrmann-Falkenau", "Renate Tolunay", "Josef Nagiller"],
-    "postnom": ["","","OCD"],
+    "postnom": ["", "", "OCD"],
     "institution_ort": "",
     "art": "Vertiefungstag",
     "ort": "",
@@ -1580,7 +1673,8 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "229",
@@ -1589,7 +1683,7 @@
     "end_datum": "45790",
     "titel": "Edith Stein: eine kleine Wanderung durch ihr Meisterwerk\"Endliches und Ewiges Sein\"",
     "prenom": "Prof. ",
-    "referent": "Gerl-Falkovitz, Hanna-Barbara",
+    "referent": "Hanna-Barbara Gerl-Falkovitz",
     "postnom": "",
     "institution_ort": "",
     "art": "Vortrag",
@@ -1604,7 +1698,8 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "230",
@@ -1612,9 +1707,9 @@
     "start_datum": "45794",
     "end_datum": "45794",
     "titel": "Feindesliebe in der Bergspredigt- 2. Teil",
-    "prenom": ["Dr. ","Mmag. ", "P. "],
+    "prenom": ["Dr. ", "Mmag. ", "P. "],
     "referent": ["Helga Ehrmann-Falkenau", "Renate Tolunay", "Josef Nagiller"],
-    "postnom": ["","","OCD"],
+    "postnom": ["", "", "OCD"],
     "institution_ort": "",
     "art": "Vertiefungstag",
     "ort": "",
@@ -1628,7 +1723,8 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "231",
@@ -1637,7 +1733,7 @@
     "end_datum": "45828",
     "titel": "Einführung in die Phänomenologie Husserls und Edith Steins",
     "prenom": "Prof. ",
-    "referent": "Gerl-Falkovitz, Hanna-Barbara",
+    "referent": "Hanna-Barbara Gerl-Falkovitz",
     "postnom": "",
     "institution_ort": "",
     "art": "Vortrag",
@@ -1652,7 +1748,8 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "232",
@@ -1676,9 +1773,10 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
-      {
+  {
     "id": "233",
     "datum": "45878",
     "start_datum": "45878",
@@ -1700,7 +1798,8 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "234",
@@ -1709,7 +1808,14 @@
     "end_datum": "45899",
     "titel": "Umbruch Wandel Mut: Edith Stein Sommerakademie 2025",
     "prenom": ["Dr. ", "P. Prof. ", "Prof. ", "Dr. ", "Prof. Dr. ", "P. Dr."],
-    "referent": ["Helga Ehrmann-Falkenau", "Christof Betschart", "Tonke Dennebaum", "Daniela Köder", "Edda Pulst", "Lukasz Steinert"],
+    "referent": [
+      "Helga Ehrmann-Falkenau",
+      "Christof Betschart",
+      "Tonke Dennebaum",
+      "Daniela Köder",
+      "Edda Pulst",
+      "Lukasz Steinert"
+    ],
     "postnom": ["", " OCD", "", "", "", "OCD"],
     "institution_ort": "",
     "art": "Sommerakademie",
@@ -1726,7 +1832,7 @@
     "is_subevent": "0",
     "z_kommentare": "abgesagt"
   },
-    {
+  {
     "id": "234_1",
     "datum": "45984",
     "start_datum": "45984",
@@ -1750,7 +1856,7 @@
     "is_subevent": "0",
     "z_kommentare": "abgesagt"
   },
-      {
+  {
     "id": "234_2",
     "datum": "45985",
     "start_datum": "45985",
@@ -1774,7 +1880,7 @@
     "is_subevent": "1",
     "z_kommentare": "abgesagt"
   },
-      {
+  {
     "id": "234_3",
     "datum": "45986",
     "start_datum": "45986",
@@ -1798,7 +1904,7 @@
     "is_subevent": "1",
     "z_kommentare": "abgesagt"
   },
-      {
+  {
     "id": "234_4",
     "datum": "45987",
     "start_datum": "45987",
@@ -1822,7 +1928,7 @@
     "is_subevent": "1",
     "z_kommentare": "abgesagt"
   },
-      {
+  {
     "id": "234_5",
     "datum": "45988",
     "start_datum": "45988",
@@ -1853,7 +1959,14 @@
     "end_datum": "45954",
     "titel": "Umbruch Wandel Mut: Edith Stein Tagung 2025",
     "prenom": ["Prof. ", "P. Dr. ", "S. Em. Dr. ", "P. Dr. ", "", "Dr."],
-    "referent": ["Gerl-Falkovitz, Hanna-Barbara", "Pirastu, Roberto Maria", "Christoph Schönborn", "Lukasz Steinert", "Valquiria Gonçalves de Oliveira", "Daniela Köder"],
+    "referent": [
+      "Hanna-Barbara Gerl-Falkovitz",
+      "Roberto Maria Pirastu",
+      "Christoph Schönborn",
+      "Lukasz Steinert",
+      "Valquiria Gonçalves de Oliveira",
+      "Daniela Köder"
+    ],
     "postnom": ["", " OCD", " OP", " OCD", ""],
     "institution_ort": "",
     "art": "Tagung",
@@ -1868,9 +1981,10 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
-    {
+  {
     "id": "235_1",
     "datum": "45953",
     "start_datum": "45953",
@@ -1878,7 +1992,7 @@
     "zeit": "19.30 Uhr",
     "titel": "In Zeiten politischen Wandels: Worauf gründet Gemeinschaft?",
     "prenom": "Prof. ",
-    "referent": "Gerl-Falkovitz, Hanna-Barbara",
+    "referent": "Hanna-Barbara Gerl-Falkovitz",
     "postnom": "",
     "institution_ort": "Heiligenkreuz",
     "art": "Vortrag",
@@ -1893,9 +2007,10 @@
     "parent_id": "233",
     "parent_titel": "Umbruch Wandel Mut: Edith Stein Tagung 2025",
     "is_subevent": "1",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
-      {
+  {
     "id": "235_2",
     "datum": "45954",
     "start_datum": "45954",
@@ -1903,7 +2018,7 @@
     "zeit": "9.30 Uhr",
     "titel": " Edith Stein inmitten der Krisen: Krisen und Umbrüchen im eigenen Leben",
     "prenom": "P. Dr. ",
-    "referent": "Pirastu, Roberto Maria",
+    "referent": "Roberto Maria Pirastu",
     "postnom": "OCD",
     "institution_ort": "Rom",
     "art": "Vortrag",
@@ -1918,9 +2033,10 @@
     "parent_id": "233",
     "parent_titel": "Umbruch Wandel Mut: Edith Stein Tagung 2025",
     "is_subevent": "1",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
-        {
+  {
     "id": "235_3",
     "datum": "45954",
     "start_datum": "45954",
@@ -1943,9 +2059,10 @@
     "parent_id": "233",
     "parent_titel": "Umbruch Wandel Mut: Edith Stein Tagung 2025",
     "is_subevent": "1",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
-          {
+  {
     "id": "235_4",
     "datum": "45954",
     "start_datum": "45954",
@@ -1968,9 +2085,10 @@
     "parent_id": "233",
     "parent_titel": "Umbruch Wandel Mut: Edith Stein Tagung 2025",
     "is_subevent": "1",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
-          {
+  {
     "id": "235_5",
     "datum": "45954",
     "start_datum": "45954",
@@ -1993,9 +2111,10 @@
     "parent_id": "233",
     "parent_titel": "Umbruch Wandel Mut: Edith Stein Tagung 2025",
     "is_subevent": "1",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
-          {
+  {
     "id": "235_6",
     "datum": "45954",
     "start_datum": "45954",
@@ -2018,7 +2137,8 @@
     "parent_id": "233",
     "parent_titel": "Umbruch Wandel Mut: Edith Stein Tagung 2025",
     "is_subevent": "1",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "236",
@@ -2042,7 +2162,8 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "237",
@@ -2066,7 +2187,8 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "238",
@@ -2090,7 +2212,8 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "239",
@@ -2114,7 +2237,8 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "240",
@@ -2138,7 +2262,8 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "241",
@@ -2147,7 +2272,7 @@
     "end_datum": "46089",
     "titel": "Bildung und Entfaltung der Individualität - Edith Steins Pädagogik",
     "prenom": ["Dr. ", "Dr. ", "Dr. "],
-    "referent": ["Beckmann-Zöller, Beate", "Cordula Haderlein", "Markus Holti"],
+    "referent": ["Beate Beckmann-Zöller", "Cordula Haderlein", "Markus Holti"],
     "postnom": "",
     "institution_ort": "",
     "art": "Vertiefungstag",
@@ -2162,7 +2287,8 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "241_1",
@@ -2186,7 +2312,8 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
     "id": "241_2",
@@ -2210,10 +2337,11 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
-    "id": "242",
+    "id": "243",
     "datum": "46098",
     "start_datum": "46098",
     "end_datum": "46098",
@@ -2234,10 +2362,11 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
-    "id": "243",
+    "id": "244",
     "datum": "46128",
     "start_datum": "46128",
     "end_datum": "46128",
@@ -2258,16 +2387,17 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
-    "id": "244",
+    "id": "245",
     "datum": "46147",
     "start_datum": "46147",
     "end_datum": "46147",
     "titel": "\"Freiheit und Gnade\" - ein Gang durch ein Frühwerk Edith Steins",
     "prenom": "Prof. ",
-    "referent": "Gerl-Falkovitz, Hanna-Barbara",
+    "referent": "Hanna-Barbara Gerl-Falkovitz",
     "postnom": "",
     "institution_ort": "",
     "art": "Vortrag",
@@ -2282,10 +2412,11 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
-    "id": "245",
+    "id": "246",
     "datum": "46175",
     "start_datum": "46175",
     "end_datum": "46175",
@@ -2302,14 +2433,15 @@
     "meeting_id": "",
     "homepage_link": "https://www.edith-stein-gesellschaft.at/content/view/full/10954?id=19878&caleventId=43793#event/19878/43793",
     "Zusammenfassung": "Der Weltverfolgungsindex 2026 zeigt Nigeria auf Platz 7 der am stärksten von Christenverfolgung betroffenen Länder weltweit – ein Land mit ungeheuerlicher Brutalität radikaler Gruppen gegen Christinnen und Christen. Diese Gewalt ist keine Relikt der Frühzeit des Christentums, sondern bittere Gegenwart: Von der Verfolgung unmittelbar nach der Auferstehung Jesu bis zu den Diokletianischen Verfolgungen im 3. Jahrhundert zieht sich ein roter Faden, der heute in Nigeria weitergeführt wird. Er lädt zur dringenden Bewusstseinsbildung und zu praktischer Solidarität ein. Der Referent Pf. Dr. Ndubueze Fabian Mmagu, in Nigeria geboren, dort aufgewachsen und bis zu seiner Übersiedlung nach Österreich 1983 ausgebildet, spricht aus tiefster persönlicher Nähe.",
-    "kursnummer": " ",
+    "kursnummer": "163VO",
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
-    "id": "246",
+    "id": "247",
     "datum": "46214",
     "start_datum": "46214",
     "end_datum": "46214",
@@ -2317,23 +2449,24 @@
     "prenom": "Dr. ",
     "referent": "Pia Lilienstein",
     "postnom": "",
-    "institution_ort": "",
+    "institution_ort": "Universität Erlangen-Nürnberg",
     "art": "Vortrag",
     "ort": "Karmelzentrum Wien",
-    "youtube": "",
+    "youtube": "https://youtu.be/uI7Lcxp1CBM",
     "zoom_link": "https://us02web.zoom.us/meeting/register/K2hZiBhDQCO9cVc4kONmcQ",
-    "podcast": "",
+    "podcast": "https://www.buzzsprout.com/870355/episodes/19670746-edith-stein-als-briefeschreiberin-ihre-innere-rede-mit-gott-und-den-mitmenschen-vortrag-von-dr-pia-lilienstein.mp3",
     "meeting_id": "",
     "homepage_link": "https://www.edith-stein-gesellschaft.at/content/view/full/10954?id=19877&caleventId=43927#event/19877/43927",
     "Zusammenfassung": "Mit unserem veränderten Medienverhalten verliert das Schreiben von Briefen seine Bedeutung. Zu Edith Steins Lebzeiten war es noch eine selbstverständliche und nicht aus dem Alltag wegzudenkende Möglichkeit, über Entfernungen hinweg miteinander im Gespräch zu bleiben. Wenn man die Briefe von Edith Stein liest, darf man an ihrer Hälfte eines Dialoges teilhaben, an ihrer inneren Zugewandtheit zu Freunden sowie an ihrer inneren Auseinandersetzung mit vielfältigsten Themen ihres Lebens. Diese Selbstmitteilungen von Edith Stein berühren durch ihre Authentizität und lassen Einblicke in ihr damaliges Erleben und in ihre im allgemeinen eher verschlossene Persönlichkeit zu. Kardinal Newman meinte einmal, dass „das wahre Leben eines Menschen in seinen Briefen steckt“. Edith Stein hat seine Briefe wiederum ins Deutsche übertragen und selbst regelmäßig Briefe geschrieben, um ihre Freundschaften und Familienbeziehungen zu pflegen. Der Vortrag möchte dazu anregen, über das Briefeschreiben im Allgemeinen und den innerlichen Bewusstseinszustand beim Schreiben von Briefen im Besonderen nachzudenken sowie über Edith Stein als Briefeschreiberin.",
-    "kursnummer": " ",
+    "kursnummer": "164VO",
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": "https://www.edith-stein-gesellschaft.at/content/download/21488/107583/file/Lilienstein%20-%20Stein%20als%20Briefschreiberin%20Plakat.pdf"
   },
-    {
-    "id": "247",
+  {
+    "id": "248",
     "datum": "46243",
     "start_datum": "46243",
     "end_datum": "46243",
@@ -2348,22 +2481,29 @@
     "zoom_link": "",
     "podcast": "",
     "meeting_id": "",
-    "homepage_link": "",
+    "homepage_link": "https://www.edith-stein-gesellschaft.at/content/view/full/10954?id=19985&caleventId=43975#event/19985/43975",
     "Zusammenfassung": "Im Bemühen um Treue sich selbst und Gott gegenüber werden wir zur Liebe befreit. Dabei helfen uns Edith Steins Erfahrung und Vorbild",
-    "kursnummer": " ",
+    "kursnummer": "165Fest",
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
-    {
-    "id": "248",
+  {
+    "id": "249",
     "datum": "23.08.26-29.08.26",
     "start_datum": "46257",
     "end_datum": "46263",
-    "titel": "Postfaktisch? Über die Zukunft der Wahrheit",
+    "titel": "Postfaktisch? Über die Zukunft der Wahrheit: Edith Stein Sommerakademie 2026",
     "prenom": ["Prof. Dr. ", "Dr. ", "Dr. ", "Prim. Dr. ", "Prof. Dr. "],
-    "referent": ["Sarah Spiekermann-Hoff", "Monika Adamczyk-Enriquez", "Pia Lilienstein", "David Oberreiter", "Tonke Dennebaum"],
+    "referent": [
+      "Sarah Spiekermann-Hoff",
+      "Monika Adamczyk-Enriquez",
+      "Pia Lilienstein",
+      "David Oberreiter",
+      "Tonke Dennebaum"
+    ],
     "postnom": ["", "", "", " MBA", ""],
     "institution_ort": "",
     "art": "Sommerakademie",
@@ -2374,14 +2514,15 @@
     "meeting_id": "",
     "homepage_link": "https://es-sommerakademie.karmel.at",
     "Zusammenfassung": "",
-    "kursnummer": " ",
+    "kursnummer": "166SA",
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
-    "id": "248_1",
+    "id": "249_1",
     "datum": "46258",
     "start_datum": "46258",
     "end_datum": "46258",
@@ -2403,10 +2544,11 @@
     "parent_id": "",
     "parent_titel": "Postfaktisch? Über die Zukunft der Wahrheit: Edith Stein Sommerakademie 2026",
     "is_subevent": "1",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
-    "id": "248_2",
+    "id": "249_2",
     "datum": "46259",
     "start_datum": "46259",
     "end_datum": "46259",
@@ -2428,10 +2570,11 @@
     "parent_id": "",
     "parent_titel": "Postfaktisch? Über die Zukunft der Wahrheit: Edith Stein Sommerakademie 2026",
     "is_subevent": "1",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
-    "id": "248_3",
+    "id": "249_3",
     "datum": "46260",
     "start_datum": "46260",
     "end_datum": "46260",
@@ -2453,10 +2596,11 @@
     "parent_id": "",
     "parent_titel": "Postfaktisch? Über die Zukunft der Wahrheit: Edith Stein Sommerakademie 2026",
     "is_subevent": "1",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
-    "id": "248_3",
+    "id": "249_3",
     "datum": "46261",
     "start_datum": "46261",
     "end_datum": "46261",
@@ -2465,7 +2609,7 @@
     "prenom": "Dr. ",
     "referent": "Pia Lilienstein",
     "postnom": "",
-     "art": "Seminar",
+    "art": "Seminar",
     "ort": "Teresianum, Rom, Italien",
     "youtube": "",
     "zoom_link": "",
@@ -2477,10 +2621,11 @@
     "parent_id": "",
     "parent_titel": "Postfaktisch? Über die Zukunft der Wahrheit: Edith Stein Sommerakademie 2026",
     "is_subevent": "1",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
-    "id": "248_4",
+    "id": "249_4",
     "datum": "46262",
     "start_datum": "46262",
     "end_datum": "46262",
@@ -2499,19 +2644,26 @@
     "homepage_link": "https://es-sommerakademie.karmel.at",
     "Zusammenfassung": "Innerpsychische Vorgänge beeinflussen einerseits das Erkennen von Werten als auch die Fähigkeit, jene Werte zu verwirklichen. Es gibt psychische Zustände, die es erschweren oder gar unmöglich machen, Wahrheiten zu erkennen und sich gemäß diesen zu verhalten. Andere psychische Aspekte hingegen sind förderlich für die Verwirklichung von Werten. Begünstigende psychischen Faktoren sollten im Fokus der eigenen Entwicklung stehen.",
     "kursnummer": "",
-        "parent_id": "",
+    "parent_id": "",
     "parent_titel": "Postfaktisch? Über die Zukunft der Wahrheit: Edith Stein Sommerakademie 2026",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
-    "id": "249",
+    "id": "250",
     "datum": "46214",
     "start_datum": "46318",
     "end_datum": "46319",
-    "titel": "Postfaktisch? Über die Zukunft der Wahrheit",
+    "titel": "Postfaktisch? Über die Zukunft der Wahrheit: Edith Stein Tagung 2026",
     "prenom": ["Prof. Dr. ", "Dr. ", "Dr. ", "Prim. Dr. ", "HS-Prof. Dr. "],
-    "referent": ["Sarah Spiekermann-Hoff", "Monika Adamczyk-Enriquez", "Pia Lilienstein", "David Oberreiter", "Małgorzata Bogaczyk-Vormayr"],
+    "referent": [
+      "Sarah Spiekermann-Hoff",
+      "Monika Adamczyk-Enriquez",
+      "Pia Lilienstein",
+      "David Oberreiter",
+      "Małgorzata Bogaczyk-Vormayr"
+    ],
     "postnom": ["", "", "", " MBA", ""],
     "institution_ort": "",
     "art": "Tagung",
@@ -2526,10 +2678,11 @@
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
-    "id": "249_1",
+    "id": "250_1",
     "datum": "46318",
     "start_datum": "46318",
     "end_datum": "46318",
@@ -2548,13 +2701,14 @@
     "homepage_link": "https://tagung.karmel.at",
     "Zusammenfassung": "",
     "kursnummer": " ",
-        "parent_id": "249",
+    "parent_id": "249",
     "parent_titel": "Postfaktisch? Über die Zukunft der Wahrheit: Edith Stein Tagung 2026",
     "is_subevent": "1",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
-    {
-    "id": "249_2",
+  {
+    "id": "250_2",
     "datum": "46319",
     "start_datum": "46319",
     "end_datum": "46319",
@@ -2573,13 +2727,14 @@
     "homepage_link": "https://tagung.karmel.at",
     "Zusammenfassung": "Max Scheler gehört zu den bedeutendsten Vertretern der phänomenologischen Wertethik. Edith Stein greift seine Überlegungen auf, entwickelt sie jedoch in entscheidenden Punkten weiter. Der Vortrag geht der Frage nach, worin dieser eigenständige Beitrag Edith Steins besteht. Im Mittelpunkt stehen das Verhältnis von Person und Wert, die Bedeutung des Wertempfangs und der Wertverwirklichung sowie die Frage, wie Werte das personale Leben prägen. Dabei wird deutlich, dass Edith Stein die Wertphilosophie Schelers nicht nur übernimmt, sondern sie im Horizont ihrer eigenen Anthropologie und ihres Personverständnisses weiterführt.",
     "kursnummer": " ",
-        "parent_id": "249",
+    "parent_id": "249",
     "parent_titel": "Postfaktisch? Über die Zukunft der Wahrheit: Edith Stein Tagung 2026",
     "is_subevent": "1",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
-    "id": "249_3",
+    "id": "250_3",
     "datum": "46319",
     "start_datum": "46319",
     "end_datum": "46319",
@@ -2598,13 +2753,14 @@
     "homepage_link": "https://tagung.karmel.at",
     "Zusammenfassung": "",
     "kursnummer": " ",
-        "parent_id": "249",
+    "parent_id": "249",
     "parent_titel": "Postfaktisch? Über die Zukunft der Wahrheit: Edith Stein Tagung 2026",
     "is_subevent": "1",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
-    "id": "249_5",
+    "id": "250_5",
     "datum": "46319",
     "start_datum": "46319",
     "end_datum": "46319",
@@ -2622,14 +2778,15 @@
     "meeting_id": "",
     "homepage_link": "https://tagung.karmel.at",
     "Zusammenfassung": "Rom gilt als Geburtsstätte des Barock, jener Kunstepoche, die Schönheit dynamischer, intensiver, sinnlicher und dramatischer als je zuvor inszenierte und die die christliche Weltanschauung und Offenbarung in eindrucksvolle Kunstwerke übersetzte. Die Künstlerinnen und Künstler um 1900 brachen vehementer noch als diejenigen des 19. Jahrhunderts mit dieser Kunst- und Bildauffassung. Friedrich Nietzsche z.B. rebellierte gegen die platonische Trias des Guten, Wahren und Schönen und schrieb „Die Wahrheit ist hässlich: Wir haben die Kunst, damit wir nicht an der Wahrheit zu Grunde gehen“. Edith Stein, als Zeitgenossin der Klassischen Moderne hingegen schrieb an Roman Ingarden, dass sie es im Leben mit der Kultur und in der Kunst mit der Schönheit hielte und in beidem die Harmonie suche, also im Grunde das Ordnende, Erhabene und Transzendente. \n Der moderne Zweifel am Wert der Schönheit und an der Wahrheit von Bildern wird mit den digitalen Sehgewohnheiten und dem Bildmedium der KI-generierten Bilderwelten zu einer Selbstverständlichkeit. Gleichzeitig schärft sich in der Kunst das Bewusstsein für den Wert leiblicher Wahrnehmungen und ästhetischer Erfahrungen als Erkenntniszugänge. Der Rückblick in vergangene Kunstepochen und ein Vergleich von Edith Stein mit Künstlerinnen ihrer Generation könnte interessante Impuls für das aktuelle Nachdenken über diese Fragen geben. \n Neben dem philosophisch-kunsthistorischen Teil soll es auch die Gelegenheit geben, gemeinsam die durch Architektur und künstlerischen Inszenierung verdichtete, ästhetisch-spirituelle Atmosphäre eines barocken Kirchenbau zu erkunden.",
-    "kursnummer": " ",
-        "parent_id": "249",
+    "kursnummer": "",
+    "parent_id": "249",
     "parent_titel": "Postfaktisch? Über die Zukunft der Wahrheit: Edith Stein Tagung 2026",
     "is_subevent": "1",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
   {
-    "id": "249_4",
+    "id": "250_4",
     "datum": "46319",
     "start_datum": "46319",
     "end_datum": "46319",
@@ -2648,21 +2805,22 @@
     "homepage_link": "https://tagung.karmel.at",
     "Zusammenfassung": "Innerpsychische Vorgänge beeinflussen einerseits das Erkennen von Werten als auch die Fähigkeit, jene Werte zu verwirklichen. Es gibt psychische Zustände, die es erschweren oder gar unmöglich machen, Wahrheiten zu erkennen und sich gemäß diesen zu verhalten. Andere psychische Aspekte hingegen sind förderlich für die Verwirklichung von Werten. Begünstigende psychischen Faktoren sollten im Fokus der eigenen Entwicklung stehen.",
     "kursnummer": "",
-        "parent_id": "249",
+    "parent_id": "249",
     "parent_titel": "Postfaktisch? Über die Zukunft der Wahrheit: Edith Stein Tagung 2026",
     "is_subevent": "1",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   },
     {
-    "id": "250",
-    "datum": "2026-12-15",
-    "start_datum": "46371",
-    "end_datum": "46371",
-    "prenom": "Dr. ",
-    "titel": "Psychotherapie und Glaube - Edith Steins Kritik an einer „Psychologie ohne Seele\"",
-    "referent": "Helga Ehrmann-Falkenau",
+    "id": "252",
+    "datum": "2026-11-03",
+    "start_datum": "2026-11-03",
+    "end_datum": "2026-11-03",
+    "prenom": "Prof. Dr. ",
+    "titel": "Wahrheit und Liebe: Nachgedacht mit Edith Stein",
+    "referent": "Hanna-Barbara Gerl-Falkovitz",
     "postnom": "",
-    "institution_ort": "",
+    "institution_ort": "Wien",
     "art": "Vortrag",
     "ort": "Karmelzentrum Wien",
     "youtube": "",
@@ -2670,11 +2828,37 @@
     "podcast": "",
     "meeting_id": "",
     "homepage_link": "",
+    "Zusammenfassung": "Edith Steins Themen sind teilweise von den Erfordernissen ihres Berufes und von Aufträgen angestoßen, aber sie verflechten sich auch in einem großen Thema: in der  Freilegung der Person. Und geistig wird die Person von dem Bezug zur Wirklichkeit (Wahrheit) und von dem Bezug zu einem Gegenüber (Liebe) bestimmt.",
+    "kursnummer": " ",
+    "parent_id": "",
+    "parent_titel": "",
+    "is_subevent": "0",
+    "z_kommentare": "",
+    "plakat": ""
+  },
+  {
+    "id": "251",
+    "datum": "2026-12-15",
+    "start_datum": "46371",
+    "end_datum": "46371",
+    "prenom": "Dr. ",
+    "titel": "Psychotherapie und Glaube - Edith Steins Kritik an einer „Psychologie ohne Seele\"",
+    "referent": "Helga Ehrmann-Falkenau",
+    "postnom": "",
+    "institution_ort": "Wien",
+    "art": "Vortrag",
+    "ort": "Karmelzentrum Wien",
+    "youtube": "",
+    "zoom_link": "",
+    "podcast": "",
+    "meeting_id": "",
+    "homepage_link": "https://www.edith-stein-gesellschaft.at/content/view/full/10954?id=20039&caleventId=44115#event/20039/44115",
     "Zusammenfassung": "",
     "kursnummer": " ",
     "parent_id": "",
     "parent_titel": "",
     "is_subevent": "0",
-    "z_kommentare": ""
+    "z_kommentare": "",
+    "plakat": ""
   }
 ]

@@ -357,7 +357,14 @@ const today = new Date().toISOString().slice(0, 10);
   liAllJahr.append(aAllJahr);
   jahrFilter.append(liAllJahr);
 
-        filterSetReferent.forEach((link) => {
+  // --- Referenten nach Nachname sortieren ---
+  const filterSetReferentSorted = Array.from(filterSetReferent).sort((a, b) => {
+    const lastA = a.trim().split(/\s+/).pop().toLowerCase();
+    const lastB = b.trim().split(/\s+/).pop().toLowerCase();
+    return lastA.localeCompare(lastB, 'de'); // deutsche Sortierung
+  });
+
+        filterSetReferentSorted.forEach((link) => {
           let a = document.createElement("a");
           //Attribute hinzufügen
           a.href = "#";
@@ -561,6 +568,10 @@ const today = new Date().toISOString().slice(0, 10);
         ///////////////////////////////////
         // change dates
         function excelDateToISO(serial) {
+            if (typeof serial === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(serial)) {
+    const [year, month, day] = serial.split('-');
+    return `${day}/${month}/${year}`;
+  }
   const msPerDay = 24 * 60 * 60 * 1000;
   let date = new Date(Date.UTC(1899, 11, 30) + serial * msPerDay);
   date = date.toISOString().slice(0, 10);
@@ -571,6 +582,9 @@ const today = new Date().toISOString().slice(0, 10);
   //return date.toISOString().slice(0, 10);
 }
 function excelDateToISOforComp(serial) {
+  if (typeof serial === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(serial)) {
+ return serial;
+  }
   const msPerDay = 24 * 60 * 60 * 1000;
   return new Date(Date.UTC(1899, 11, 30) + serial * msPerDay)
     .toISOString()

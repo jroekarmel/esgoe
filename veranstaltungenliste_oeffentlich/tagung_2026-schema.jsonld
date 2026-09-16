@@ -1,0 +1,146 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "Postfaktisch? Über die Zukunft der Wahrheit: Edith Stein Tagung 2026",
+  "startDate": "2026-10-23T18:00+02:00",
+  "endDate": "2026-10-24T20:00+02:00",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "location": {
+    "@type": "Place",
+    "name": "Erzbischöfliches Palais",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Wollzeile 2"
+      "addressLocality": "Wien",
+      "postalCode": "1010",
+      "addressCountry": "AT"
+    }
+  },
+  "organizer": {
+    "@type": "Organization",
+    "name": "ESGÖ - Edith Stein Gesellschaft Österreich",
+    "url": "https://tagung.karmel.at",
+    "email": "info@edith-stein-gesellschaft.at",
+    "telephone": "+43 699 16770217"
+  },
+  "description": "Tagung zu Edith Stein: Postfaktisch? Über die Zukunft der Wahrheit",
+  "url": "https://tagung.karmel.at",
+  "offers": {
+      "@type": "Offer",
+      "price": "20",
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://tagung.karmel.at/anmeldung"
+        }
+  "subEvent": [
+    {
+      "@type": "Event",
+      "name": "10 Regeln für die Digitale Welt auf der Basis der 10 Gebote",
+      "startDate": "2026-10-23T19:00+02:00",
+      "endDate": "2026-10-23T20:00+02:00",
+        "location": {
+    "@type": "Place",
+    "name": "Erzbischöfliches Palais",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Wollzeile 2"
+      "addressLocality": "Wien",
+      "postalCode": "1010",
+      "addressCountry": "AT"
+    }
+      "performer": {
+        "@type": "Person",
+        "name": "Prof. Sarah Spiekermann-Hoff",
+        "affiliation": "Institut für Informationssysteme & Gesellschaft, WU Wien"
+      }
+    },
+    {
+      "@type": "Event",
+      "name": "Zur Beziehung von Werterkenntnis und personaler Verwirklichung bei Scheler und Stein",
+      "startDate": "2026-10-24T09:30+02:00",
+      "endDate": "2026-10-24T10:30+02:00",
+        "location": {
+    "@type": "Place",
+    "name": "Erzbischöfliches Palais",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Wollzeile 2"
+      "addressLocality": "Wien",
+      "postalCode": "1010",
+      "addressCountry": "AT"
+    },
+      "performer": {
+        "@type": "Person",
+        "name": "Dr. Monika Adamczyk-Enriquez",
+        "affiliation": "Edith-Stein-Archiv zu Köln, Ignatianum Universität in Krakau"
+      },
+      "description": "Max Scheler, einer der bedeutendsten Vertreter der philosophischen Axiologie…"
+    },
+    {
+      "@type": "Event",
+      "name": "Ethos - Eidos - Imagination: Wahrheit als Wiedererinnerung",
+      "startDate": "2026-10-24T11:00+02:00",
+      "endDate": "2026-10-24T12:00+02:00",
+        "location": {
+    "@type": "Place",
+    "name": "Erzbischöfliches Palais",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Wollzeile 2"
+      "addressLocality": "Wien",
+      "postalCode": "1010",
+      "addressCountry": "AT"
+    },
+      "performer": {
+        "@type": "Person",
+        "name": "HS-Prof. Dr. Małgorzata Bogaczyk-Vormayr",
+        "affiliation": "Universität Posen"
+      }
+    },
+    {
+      "@type": "Event",
+      "name": "Wahrheit - ein umstrittener Wert in Ästhetik und Kunst",
+      "startDate": "2026-10-24T14:30+02:00",
+      "endDate": "2026-10-24T15:30+02:00",
+        "location": {
+    "@type": "Place",
+    "name": "Erzbischöfliches Palais",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Wollzeile 2"
+      "addressLocality": "Wien",
+      "postalCode": "1010",
+      "addressCountry": "AT"
+    },
+      "performer": {
+        "@type": "Person",
+        "name": "Dr. Pia Lilienstein",
+        "affiliation": "Universität Nürnberg-Erlangen"
+      }
+    },
+    {
+      "@type": "Event",
+      "name": "Soziale Medien in einer postfaktischen Welt - Fluch oder Segen?",
+      "startDate": "2026-10-24T16:00+02:00",
+      "endDate": "2026-10-24T17:00+02:00",
+        "location": {
+    "@type": "Place",
+    "name": "Erzbischöfliches Palais",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Wollzeile 2"
+      "addressLocality": "Wien",
+      "postalCode": "1010",
+      "addressCountry": "AT"
+    },
+      "performer": {
+        "@type": "Person",
+        "name": "Prim. Dr. David Oberreiter MBA",
+        "affiliation": "Institut für Psychotherapie des Kepler Universitätsklinikums Linz"
+      }
+    }
+  ]
+}
+</script>
